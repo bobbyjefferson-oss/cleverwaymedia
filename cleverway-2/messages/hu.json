@@ -1,0 +1,1555 @@
+{
+  "meta": {
+    "title": "Clever Way Media – A marketing találkozik az automatizációval | DE · HU · RO",
+    "description": "Prémium weboldalak, mérhető marketing és MI-automatizálás vállalkozásoknak Németországban, Magyarországon és Romániában. MI-telefonasszisztenssel, chatbotokkal és egyedi folyamat-automatizálással. Ügyfélkezelés németül, magyarul és románul."
+  },
+  "nav": {
+    "links": {
+      "leistungen": "Szolgáltatások",
+      "ki": "MI & Automatizáció",
+      "referenzen": "Referenciák",
+      "preise": "Árak",
+      "faq": "GYIK",
+      "kontakt": "Kapcsolat"
+    },
+    "cta": "Stratégiai beszélgetés"
+  },
+  "hero": {
+    "eyebrow": "Marketing · találkozik · Automatizáció",
+    "h1a": "Marketing, ami",
+    "ital1": "értékesít.",
+    "h1b": "Automatizáció, ami",
+    "ital2": "skálázódik.",
+    "lead": "Prémium weboldalak, mérhető kampányok és MI-automatizáció, ami kiszámíthatóan hoz új ügyfeleket. Hogy Ön a vállalkozására koncentrálhasson — ne a hidegmegkeresésre. Ambiciózus vállalkozásoknak Németországban, Magyarországon és Romániában — az Ön nyelvén.",
+    "cta1": "Ingyenes stratégiai beszélgetés",
+    "cta2": "Szolgáltatások megtekintése",
+    "trust": [
+      "Ingyenes és kötelezettségmentes",
+      "Válasz 24 órán belül",
+      "Személyes és közvetlen"
+    ],
+    "stats": [
+      {
+        "value": "3",
+        "label": "nyelv — DE · HU · RO"
+      },
+      {
+        "value": "24/7",
+        "label": "automatizálás, ami sosem alszik"
+      },
+      {
+        "value": "100%",
+        "label": "egyedi — nincsenek sablonok"
+      },
+      {
+        "value": "DSGVO",
+        "label": "megfelelő — EU-tárhely lehetséges"
+      }
+    ]
+  },
+  "marquee": {
+    "label": "Bármely iparág vállalkozásainak — az Ön nyelvén",
+    "items": [
+      "Weboldalak, amik eladnak",
+      "MI-telefonasszisztens",
+      "Google és Meta hirdetés",
+      "SEO és helyi láthatóság",
+      "Automatizálás",
+      "DE · HU · RO"
+    ]
+  },
+  "automation": {
+    "eyebrow": "MI & Automatizáció · a lényegünk",
+    "h2a": "Automatizáció, ami Ön helyett dolgozik —",
+    "goldWord": "éjjel-nappal.",
+    "leadPre": "Az ismétlődő feladatokat intelligens rendszerek veszik át: az ügyfélszerzéstől a WhatsApp-asszisztensen át a bizonylatfeldolgozásig. Pontosan azokat az automatizációkat építjük meg, amelyek a leginkább tehermentesítik a vállalkozását —",
+    "leadHl": "a legfelkapottabb MI-automatizációk",
+    "leadPost": ", testreszabva és zökkenőmentesen összekötve a meglévő eszközeivel. Időt spórol, több ügyfelet szerez, és új munkaerő nélkül skálázódik.",
+    "tag": "Legnépszerűbb",
+    "tiles": [
+      {
+        "id": "telefon",
+        "title": "MI-telefonasszisztens",
+        "text": "Éjjel-nappal fogadja a hívásokat — németül, az Ön cége nevében. Felveszi a nevet, a számot és az igényt, időpontot foglal közvetlenül a naptárába, a sürgős eseteket pedig azonnal továbbítja Önnek. Nincs több nem fogadott hívás. Átláthatóan MI-ként jelölve, DSGVO-konform."
+      },
+      {
+        "id": "workflow",
+        "title": "Egyedi folyamat-automatizálás",
+        "text": "Összekötjük az eszközeit — Gmail, Slack, CRM, naptár, táblázatok — egy rendszerré, amely a háttérben magától fut. Pontosan az Ön folyamata szerint, szinte bármelyik eszköz csatlakoztatható."
+      },
+      {
+        "id": "chatbot",
+        "title": "MI-chatbot & hangasszisztens",
+        "text": "Éjjel-nappal válaszol a weboldalon és WhatsAppon, minősíti az érdeklődőket és időpontot foglal — automatikusan."
+      },
+      {
+        "id": "lead",
+        "title": "Lead-minősítés & CRM",
+        "text": "Az új kontaktokat gazdagítjuk, értékeljük és automatikusan a CRM-be rendezzük. A csapata csak a legjobb lehetőségekkel foglalkozik."
+      },
+      {
+        "id": "invoice",
+        "title": "Számla- & bizonylatfeldolgozás",
+        "text": "A bizonylatokat automatikusan kiolvassuk és továbbítjuk a könyvelőprogramba (DATEV, lexoffice, sevDesk) — vége a kézi bepötyögésnek."
+      },
+      {
+        "id": "offer",
+        "title": "Ajánlat- & dokumentumgenerátor",
+        "text": "Ajánlatok, szerződések és jelentések másodpercek alatt az Ön adataiból — egységes formátumban, hibátlanul."
+      },
+      {
+        "id": "neukunden",
+        "title": "Automatizált ügyfélszerzés",
+        "text": "Személyre szabott megkereső kampányok folyamatosan hoznak új érdeklődőket — az Ön márkájának hangján, kézi hideghívás nélkül."
+      },
+      {
+        "id": "termin",
+        "title": "Időpont- & utánkövetés-automatizálás",
+        "text": "Az automatikus emlékeztetők és utánkövetések csökkentik a lemondásokat és minden leadet melegen tartanak."
+      },
+      {
+        "id": "content",
+        "title": "Tartalom-automatizálás",
+        "text": "Közösségi posztok, képaláírások és hírlevelek egy egész hónapra — percek alatt, az Ön márkahangján."
+      },
+      {
+        "id": "reporting",
+        "title": "Riportok & dashboardok",
+        "text": "A hirdetési, analitikai és CRM-adatok automatikusan folynak be áttekinthető havi riportokba és élő dashboardokba."
+      }
+    ],
+    "ctaTile": {
+      "title": "Van saját ötlete?",
+      "text": "Megépítjük. Beszéljünk az automatizációról →"
+    },
+    "stats": [
+      {
+        "value": "24/7",
+        "label": "aktív, szünet nélkül"
+      },
+      {
+        "value": "400+",
+        "label": "csatlakoztatható eszköz & app"
+      },
+      {
+        "value": "DSGVO",
+        "label": "megfelelő — EU-tárhely lehetséges"
+      }
+    ],
+    "ctaBtn": "Beszéljünk az automatizációról"
+  },
+  "services": {
+    "eyebrow": "Szolgáltatások",
+    "h2": "Minden a digitális növekedéséhez — egy kézből.",
+    "lead": "Az első weboldaltól a teljesen automatizált ügyfélszerzésig. Válasszon egyenként vagy komplett csomagban.",
+    "groupTitle": "Marketing",
+    "items": [
+      {
+        "id": "website",
+        "title": "Weboldalkészítés",
+        "text": "Modern, mobilbarát weboldalak, landing page-ek és webshopok — dizájnnal, szövegekkel és technikával együtt."
+      },
+      {
+        "id": "shop",
+        "title": "Webshop / e-kereskedelem",
+        "text": "Termékek, fizetés és szállítás zökkenőmentesen integrálva. Értékesítsen éjjel-nappal — akár alvás közben is."
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "text": "Jobb Google-helyezés kulcsszavakkal, technikával és tartalommal. Hosszú távon ingyenes forgalom."
+      },
+      {
+        "id": "ads",
+        "title": "Google Ads (PPC)",
+        "text": "Fizetett keresési hirdetések költségkontrollal. Gyors, mérhető eredmények már az első naptól."
+      },
+      {
+        "id": "meta",
+        "title": "Meta / közösségi hirdetések",
+        "text": "Facebook- és Instagram-kampányok precíz célzással és folyamatos A/B-teszteléssel."
+      },
+      {
+        "id": "social",
+        "title": "Közösségimédia-kezelés",
+        "text": "Tervezés, gyártás és közösségépítés a csatornáihoz — profin és következetesen."
+      },
+      {
+        "id": "branding",
+        "title": "Arculat & branding",
+        "text": "Logó, színvilág és egységes megjelenés — egy arculat, ami megmarad."
+      },
+      {
+        "id": "graphic",
+        "title": "Grafikai tervezés",
+        "text": "Szórólapok, bannerek, névjegyek és közösségi grafikák — nyomdakészen, minden formátumban."
+      },
+      {
+        "id": "content",
+        "title": "Tartalom & szövegírás",
+        "text": "SEO-optimalizált weboldal-szövegek, blogok és hírlevelek, amelyek meggyőznek és bizalmat építenek."
+      }
+    ],
+    "note": {
+      "title": "Plusz: a teljes MI-automatizációs kínálat",
+      "text": "Chatbotok, CRM-automatizáció, bizonylatfeldolgozás, testreszabott folyamat-automatizálás és még több — a dedikált automatizációs részben.",
+      "btn": "Automatizációk megtekintése"
+    },
+    "hubLink": "Minden szolgáltatás részletesen"
+  },
+  "process": {
+    "eyebrow": "Így dolgozunk",
+    "h2": "Négy lépés a kiszámítható növekedéshez.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Elemzés",
+        "text": "Ingyenes stratégiai beszélgetés. Megértjük a vállalkozását, a céljait és a piacát."
+      },
+      {
+        "n": "02",
+        "title": "Stratégia",
+        "text": "Testreszabott terv — mely szolgáltatások hozzák Önnek a legnagyobb hatást."
+      },
+      {
+        "n": "03",
+        "title": "Megvalósítás",
+        "text": "Weboldal, kampányok és automatizáció — megépítjük és elindítjuk a rendszerét."
+      },
+      {
+        "n": "04",
+        "title": "Optimalizálás",
+        "text": "Folyamatos kiértékelés és finomhangolás. Ami működik, azt tovább skálázzuk."
+      }
+    ]
+  },
+  "cases": {
+    "eyebrow": "Alkalmazási példák",
+    "h2": "Így nézhet ki az automatizálás Önnél.",
+    "lead": "Fiatal ügynökség vagyunk, és nem hirdetünk idegen számokkal. Ehelyett őszintén megmutatjuk, hogyan dolgoznak a rendszereink a mindennapokban — példaként, nem valós ügyfélesetként.",
+    "items": [
+      {
+        "cat": "Példa · MI-telefonasszisztens",
+        "title": "Egyetlen hívás sem vész el",
+        "text": "Kiindulás: munka közben a hívások megválaszolatlanul maradnak. Megoldás: egy MI-telefonasszisztens felveszi, rögzíti az igényt és időpontot foglal — Ön azonnal értesül róla.",
+        "kpis": [
+          {
+            "b": "24/7",
+            "s": "elérhető"
+          },
+          {
+            "b": "Auto",
+            "s": "időpontfoglalás"
+          },
+          {
+            "b": "Azonnal",
+            "s": "értesítés"
+          }
+        ],
+        "slug": "ki-telefonassistent"
+      },
+      {
+        "cat": "Példa · Weboldal és helyi láthatóság",
+        "title": "Megtalálják az interneten",
+        "text": "Kiindulás: alig látható online. Megoldás: gyors weboldal, optimalizált Google-profil és helyi SEO — hogy Önt találják meg, ne a konkurenciát.",
+        "kpis": [
+          {
+            "b": "SEO",
+            "s": "helyileg optimalizált"
+          },
+          {
+            "b": "Google",
+            "s": "cégprofil"
+          },
+          {
+            "b": "DE·HU·RO",
+            "s": "többnyelvű"
+          }
+        ],
+        "slug": "website-lokale-sichtbarkeit"
+      }
+    ],
+    "hubLink": "Összes alkalmazási példa",
+    "detailLabel": "Példa megtekintése"
+  },
+  "pricing": {
+    "eyebrow": "Árak",
+    "h2": "Átlátható csomagok. Semmi meglepetés.",
+    "plans": [
+      {
+        "name": "Start csomag",
+        "price": "799 €",
+        "unit": "egyszeri",
+        "setup": "Karbantartás opcionálisan 44 € / hó",
+        "features": [
+          "Mobilbarát weboldal (1–5 oldal)",
+          "Alap branding: logó & színvilág",
+          "Google cégprofil",
+          "Alap szövegírás"
+        ],
+        "btn": "Csomag választása"
+      },
+      {
+        "name": "Növekedési csomag",
+        "price": "440 €",
+        "unit": "/ hó",
+        "setup": "Beállítás egyszeri 620 €",
+        "feat": true,
+        "badge": "Ajánlott",
+        "features": [
+          "Professzionális weboldal",
+          "Alap keresőoptimalizálás (SEO)",
+          "Közösségi média kezelés",
+          "1 hirdetési kampány / hó (Google vagy Meta)",
+          "Rövid havi eredménybeszámoló"
+        ],
+        "btn": "Csomag kiválasztása"
+      },
+      {
+        "name": "Teljes csomag",
+        "price": "890 €",
+        "unit": "/ hó",
+        "setup": "Beállítás egyszeri 890 €",
+        "features": [
+          "Minden a Növekedés csomagból",
+          "Folyamatos Google- & Meta-hirdetés",
+          "Rendszeres tartalomgyártás",
+          "1–2 automatizáció + stratégiai beszélgetés"
+        ],
+        "btn": "Csomag választása"
+      }
+    ],
+    "note": "Iparági csomagként is elérhető (pl. vendéglátás, e-kereskedelem, ingatlan, helyi szolgáltatók, B2B) — csak keressen minket.",
+    "foot": "Az árak a törvényes áfát nem tartalmazzák.",
+    "hubLink": "Minden csomag részletesen"
+  },
+  "faq": {
+    "eyebrow": "Gyakori kérdések",
+    "h2": "Minden, amit tudni szeretne.",
+    "items": [
+      {
+        "q": "Miben más a Clever Way Media?",
+        "a": "A klasszikus marketinget MI-automatizációval kötjük össze. Intelligens rendszerek veszik át az ismétlődő feladatokat — az ügyfélszerzéstől az MI-chatbotokon át a bizonylatfeldolgozásig — összekötve a meglévő eszközeivel. Így időt spórol és kiszámíthatóan szerez új ügyfeleket."
+      },
+      {
+        "q": "Milyen MI-automatizációkat kínálnak?",
+        "a": "Többek között: MI-telefonasszisztens, amely éjjel-nappal fogadja a hívásokat és időpontot foglal; automatizált ügyfélszerzés; MI-chatbotok weboldalra és WhatsApphoz; lead-minősítés CRM-összekötéssel; számla- és bizonylatfeldolgozás (DATEV, lexoffice, sevDesk); ajánlat- és dokumentumgenerátorok; tartalom- és riportautomatizálás, valamint egyedi folyamat-automatizálások, amelyek zökkenőmentesen összekötik az eszközeit."
+      },
+      {
+        "q": "Mennyibe kerül egy weboldal vagy kezelés?",
+        "a": "A Start csomag egyszeri 799 €-tól indul. A folyamatos marketinghez és automatizációhoz havi csomagok érhetők el 260 €-tól, valamint iparág-specifikus megoldások. Az ingyenes stratégiai beszélgetésen megtaláljuk a megfelelő modellt."
+      },
+      {
+        "q": "Milyen nyelveken és régiókban dolgoznak?",
+        "a": "Németországban, Magyarországon és Romániában dolgozunk vállalkozásokkal — mindig az adott ország nyelvén. A weboldal, a kommunikáció és az ügyfélkezelés németül, magyarul és románul is elérhető."
+      },
+      {
+        "q": "Milyen gyorsan látok eredményt?",
+        "a": "A weboldalak és kampányok gyakran néhány héten belül elindulnak. A fizetett hirdetések és MI-automatizációk rövid távon hoznak első kontaktokat, míg a SEO közép távon fejti ki teljes hatását."
+      }
+    ]
+  },
+  "booking": {
+    "eyebrow": "Ingyenes és kötelezettségmentes",
+    "urgencyPre": "Korlátozott számú stratégiai beszélgetés",
+    "urgencyPost": "hónapban — foglalja le a helyét",
+    "h2a": "Foglalja le a",
+    "goldWord": "stratégiai beszélgetését.",
+    "lead": "Elemezzük a helyzetét és konkrétan megmutatjuk, mely szolgáltatások hozzák a legnagyobb hatást a növekedéséhez. Semmi értékesítési nyomás — csak egy világos terv.",
+    "cta1": "Időpont választása",
+    "cta2": "Inkább írok",
+    "mini": [
+      "Válasz 24 órán belül",
+      "100% ingyenes",
+      "DE · HU · RO"
+    ]
+  },
+  "contact": {
+    "eyebrow": "Kapcsolat",
+    "h2": "Beszéljünk.",
+    "lead": "Meséljen röviden a tervéről — hamarosan jelentkezünk a következő lépésekkel.",
+    "emailLabel": "E-mail",
+    "marketsLabel": "Piacok",
+    "markets": "Németország · Magyarország · Románia",
+    "langLabel": "Nyelvek",
+    "langs": "Német · Magyar · Román",
+    "followLabel": "Kövessen minket",
+    "form": {
+      "name": "Név",
+      "company": "Cég",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "budget": "Költségkeret",
+      "service": "Érdeklődés",
+      "message": "Üzenet",
+      "submit": "Üzenet küldése",
+      "note": "A küldéssel elfogadja az adatvédelmi tájékoztatónkat.",
+      "select": "Kérjük, válasszon",
+      "successTitle": "Köszönjük!",
+      "successText": "24 órán belül jelentkezünk Önnél.",
+      "budgetOptions": [
+        "1.000 €-ig / hó",
+        "1.000–3.000 € / hó",
+        "3.000 € felett / hó",
+        "Egyszeri projekt"
+      ],
+      "serviceOptions": [
+        "MI-automatizáció",
+        "Weboldal / webshop",
+        "SEO & hirdetések",
+        "Teljes csomag",
+        "Valami más"
+      ]
+    },
+    "soon": "Hamarosan",
+    "coverageTitle": "Hol dolgozunk",
+    "coverageText": "Digitálisan működő csapat vagyunk, és helytől függetlenül szolgálunk ki ügyfeleket három piacon — mindig az adott ország nyelvén.",
+    "remote": "Helytől függetlenül · Távoli",
+    "marketsList": [
+      {
+        "code": "DE",
+        "name": "Németország"
+      },
+      {
+        "code": "HU",
+        "name": "Magyarország"
+      },
+      {
+        "code": "RO",
+        "name": "Románia"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "A marketing találkozik az automatizációval. Prémium weboldalak és MI-alapú ügyfélszerzés vállalkozásoknak Németországban, Magyarországon és Romániában.",
+    "servicesTitle": "Szolgáltatások",
+    "services": [
+      "Weboldalkészítés",
+      "SEO & hirdetések",
+      "MI-automatizáció",
+      "Automatizáció"
+    ],
+    "agencyTitle": "Ügynökség",
+    "agency": [
+      "Rólunk",
+      "Blog",
+      "Referenciák",
+      "Árak",
+      "GYIK",
+      "Stratégiai beszélgetés"
+    ],
+    "legalTitle": "Jogi",
+    "legal": [
+      "Impresszum",
+      "Adatvédelem",
+      "ÁSZF"
+    ],
+    "rights": "© 2026 Clever Way Media. Minden jog fenntartva.",
+    "langLabel": "Nyelvek"
+  },
+  "exit": {
+    "eyebrow": "Mielőtt elmenne",
+    "title": "Ingyenes marketingelemzés — szerezzen előnyt.",
+    "text": "15 perc alatt konkrétan megmutatjuk, hol veszít ügyfeleket online, és hogyan változtat ezen az MI-rendszerünk. Kötelezettségmentesen, az Ön nyelvén.",
+    "placeholder": "Az Ön e-mail-címe",
+    "btn": "Elemzés kérése",
+    "trust": "100% ingyenes · Nincs értékesítési nyomás · Válasz 24 órán belül",
+    "successTitle": "Köszönjük!",
+    "successText": "24 órán belül jelentkezünk az ingyenes elemzésével.",
+    "floatCta": "Időpontfoglalás"
+  },
+  "legal": {
+    "impressum": {
+      "title": "Impresszum",
+      "intro": "A német TMG § 5 szerinti kötelező adatok. Kérjük, egészítse ki a hiányzó adatokat (teljes név, cím, adott esetben cégjegyzékszám, adószám), mielőtt az oldal élesedik.",
+      "sections": [
+        {
+          "h": "Szolgáltató",
+          "p": "Clever Way Media\n[Teljes név / cégnév]\n[Utca, házszám]\n[Irányítószám, város]\n[Ország]"
+        },
+        {
+          "h": "Kapcsolat",
+          "p": "E-mail: cleverwaymedia@gmail.com"
+        },
+        {
+          "h": "Adószám",
+          "p": "[Ha releváns: EU-s adószám]"
+        },
+        {
+          "h": "Tartalomért felelős",
+          "p": "[Név]"
+        },
+        {
+          "h": "Vitarendezés",
+          "p": "Az Európai Bizottság online vitarendezési platformot biztosít: https://ec.europa.eu/consumers/odr/. Fogyasztói vitarendezési testület előtti eljárásban való részvételre nem vagyunk kötelezettek."
+        }
+      ]
+    },
+    "datenschutz": {
+      "title": "Adatvédelmi tájékoztató",
+      "intro": "Fontos számunkra személyes adatai védelme. Ez a tájékoztató a GDPR szerint ismerteti a weboldalon történő adatkezelés módját, terjedelmét és célját.",
+      "sections": [
+        {
+          "h": "Adatkezelő",
+          "p": "Clever Way Media, [cím beillesztése]. Kapcsolat: cleverwaymedia@gmail.com"
+        },
+        {
+          "h": "Kapcsolatfelvételi űrlap & e-mail",
+          "p": "Ha kapcsolatfelvételi űrlapon vagy e-mailben ír nekünk, az Ön adatait (név, cég, e-mail, telefon, üzenet) a megkeresés kezeléséhez tároljuk, és hozzájárulása nélkül nem adjuk tovább."
+        },
+        {
+          "h": "Időpontfoglalás",
+          "p": "A foglalási rendszer (pl. Cal.com) használatakor adatai a szolgáltatóhoz kerülnek a koordináció érdekében. Emellett az adott szolgáltató saját adatvédelmi szabályzata is érvényes."
+        },
+        {
+          "h": "Sütik & elemzés",
+          "p": "Ez a weboldal csak technikailag szükséges sütiket használ, hacsak másként nincs jelezve. Analitikai eszközök (pl. Vercel Analytics, Google Analytics) bevezetése esetén erről külön tájékoztatunk, és szükség esetén sütibannerrel kérjük hozzájárulását."
+        },
+        {
+          "h": "Az Ön jogai",
+          "p": "Joga van a tájékoztatáshoz, helyesbítéshez, törléshez, az adatkezelés korlátozásához, adathordozhatósághoz és tiltakozáshoz. Forduljon hozzánk: cleverwaymedia@gmail.com."
+        },
+        {
+          "h": "Panasztételi jog",
+          "p": "Joga van panaszt tenni egy adatvédelmi felügyeleti hatóságnál."
+        }
+      ]
+    },
+    "agb": {
+      "title": "Általános Szerződési Feltételek",
+      "intro": "Ez az ÁSZF szabályozza a Clever Way Media és ügyfelei közötti üzleti kapcsolatot. Kérjük, közzététel előtt jogilag ellenőriztesse ezt a tervezetet.",
+      "sections": [
+        {
+          "h": "Hatály",
+          "p": "Ezek a feltételek a Clever Way Media minden szolgáltatására vonatkoznak, különösen a weboldalkészítésre, marketingszolgáltatásokra és MI-automatizációra."
+        },
+        {
+          "h": "Szerződéskötés",
+          "p": "A szerződés egy stratégiai beszélgetés keretében készített egyedi ajánlat írásos elfogadásával jön létre."
+        },
+        {
+          "h": "Szolgáltatás terjedelme",
+          "p": "A pontos szolgáltatási terjedelmet az adott ajánlat, illetve szerződés határozza meg."
+        },
+        {
+          "h": "Fizetési feltételek",
+          "p": "A fizetési határidőket és módozatokat az egyedi ajánlat rögzíti. Minden ár a törvényes áfát nem tartalmazza."
+        },
+        {
+          "h": "Felelősség",
+          "p": "A Clever Way Media felelőssége a törvény által megengedett mértékben szándékosságra és súlyos gondatlanságra korlátozódik."
+        },
+        {
+          "h": "Záró rendelkezések",
+          "p": "A Németországi Szövetségi Köztársaság joga irányadó."
+        }
+      ]
+    }
+  },
+  "servicesDetail": {
+    "webdesign": {
+      "title": "Weboldalkészítés",
+      "icon": "website",
+      "subtitle": "Egy weboldal, ami első pillantásra bizalmat kelt — és tényleg új megkereséseket hoz.",
+      "benefits": [
+        "Modern, mobilbarát dizájn",
+        "Világos struktúra, ami kapcsolatfelvételhez vezet",
+        "Technikailag tiszta, gyors, SEO-kész alap"
+      ],
+      "results": [
+        "Weboldal, amit szívesen mutat meg",
+        "Kevesebb elpattanó látogató"
+      ],
+      "faq": [
+        {
+          "q": "Mennyi ideig tart egy weboldal elkészítése?",
+          "a": "Terjedelemtől függően 2–4 hét a tartalom jóváhagyásától számítva."
+        },
+        {
+          "q": "SEO-barát lesz a weboldal?",
+          "a": "Igen, minden weboldal technikailag SEO-készen épül."
+        }
+      ]
+    },
+    "webentwicklung": {
+      "title": "Webfejlesztés",
+      "icon": "dev",
+      "subtitle": "Egyedi technikai megoldások, amikor egy sablon weboldal már nem elég.",
+      "benefits": [
+        "Testreszabott funkciók sablon helyett",
+        "Webshop, ügyfélportál vagy belső eszköz igény szerint",
+        "Integráció a meglévő rendszereivel"
+      ],
+      "results": [
+        "Rendszer, ami pontosan az Ön folyamatát követi",
+        "Kevesebb manuális munka"
+      ],
+      "faq": [
+        {
+          "q": "Mikor van szükségem webfejlesztésre sablon weboldal helyett?",
+          "a": "Ha egyedi funkciók kellenek — pl. ügyfélportál vagy más szoftverrel való összekötés."
+        },
+        {
+          "q": "Vállalnak webshop-fejlesztést is?",
+          "a": "Igen, a termékkezeléstől a fizetési integrációig."
+        }
+      ]
+    },
+    "seo": {
+      "title": "SEO",
+      "icon": "seo",
+      "subtitle": "Jobb Google-helyezés, ami hosszú távon ingyenes forgalmat hoz — hirdetési költség nélkül.",
+      "benefits": [
+        "Technikai optimalizálás (sebesség, struktúra)",
+        "Kulcsszóstratégia a valós ügyfelekhez igazítva",
+        "Folyamatos monitorozás"
+      ],
+      "results": [
+        "Több organikus forgalom",
+        "Jobb láthatóság a releváns keresésekben"
+      ],
+      "faq": [
+        {
+          "q": "Mennyi idő alatt hat a SEO?",
+          "a": "Első javulás gyakran 4–8 hét után, teljes hatás 3–6 hónap alatt."
+        },
+        {
+          "q": "Kis vállalkozásoknak is megéri?",
+          "a": "Igen, különösen helyi vagy niche fókusz esetén nagyon hatékony."
+        }
+      ]
+    },
+    "local-seo": {
+      "title": "Helyi SEO",
+      "icon": "pin",
+      "subtitle": "Hogy a közelben lévő ügyfelek Önt találják meg elsőként a Google-ben — ne a konkurenciát.",
+      "benefits": [
+        "Optimalizált Google cégprofil (Google Térkép)",
+        "Helyi kulcsszóstratégia",
+        "Értékeléskezelés"
+      ],
+      "results": [
+        "Jobb helyezés a helyi keresésben és térképen",
+        "Több hívás és megkeresés a közelből"
+      ],
+      "faq": [
+        {
+          "q": "Kinek éri meg a helyi SEO?",
+          "a": "Minden fizikai telephellyel vagy helyi vonzáskörzettel rendelkező vállalkozásnak."
+        },
+        {
+          "q": "Kell hozzá Google cégprofil?",
+          "a": "Igen, ez az alapja — mi állítjuk be és optimalizáljuk folyamatosan."
+        }
+      ]
+    },
+    "google-ads": {
+      "title": "Google Ads",
+      "icon": "ads",
+      "subtitle": "Fizetett hirdetések, amelyek pontosan akkor jelennek meg, amikor valaki Önt keresi.",
+      "benefits": [
+        "Célzott kampányok szórás helyett",
+        "Világos költségkeret-kezelés",
+        "Folyamatos optimalizálás"
+      ],
+      "results": [
+        "Azonnali láthatóság, amíg a SEO épül",
+        "Kiszámítható, mérhető megkeresések"
+      ],
+      "faq": [
+        {
+          "q": "Mekkora hirdetési költségkeret kell?",
+          "a": "Iparágtól és céloktól függ — az első beszélgetésen javaslunk egy reális kezdő keretet."
+        },
+        {
+          "q": "Milyen gyorsan jönnek az első megkeresések?",
+          "a": "Gyakran már a kampányindítás első napjaiban."
+        }
+      ]
+    },
+    "meta-ads": {
+      "title": "Meta hirdetések",
+      "icon": "meta",
+      "subtitle": "Facebook- és Instagram-kampányok, amelyek pontosan ott érik el a célközönséget, ahol az időt tölt.",
+      "benefits": [
+        "Precíz célzás érdeklődés és régió szerint",
+        "Kreatív hirdetési formátumok",
+        "Folyamatos A/B-tesztelés"
+      ],
+      "results": [
+        "Nagyobb elérés a releváns célközönségben",
+        "Mérhető megkeresések"
+      ],
+      "faq": [
+        {
+          "q": "Instagram vagy Facebook a jobb?",
+          "a": "Általában mindkettő együtt, célközönségtől függő súlyozással."
+        },
+        {
+          "q": "Hogyan mérik a sikert?",
+          "a": "Kattintások, megkeresések és megszerzett kontakt költsége alapján."
+        }
+      ]
+    },
+    "social-media": {
+      "title": "Közösségimédia-kezelés",
+      "icon": "social",
+      "subtitle": "Rendszeres, profi jelenlét a csatornáin — anélkül, hogy Önnek kellene vele foglalkoznia.",
+      "benefits": [
+        "Tartalomterv a márkájához igazítva",
+        "Grafikák, feliratok, rövid videók készítése",
+        "Közösségkezelés és moderálás"
+      ],
+      "results": [
+        "Állandó, profi jelenlét időbefektetés nélkül",
+        "Több interakció a célközönségnél"
+      ],
+      "faq": [
+        {
+          "q": "Milyen gyakran posztolnak?",
+          "a": "Csomagtól függően hetente többször, egyénileg egyeztetve."
+        },
+        {
+          "q": "Jóvá kell hagynom a tartalmat?",
+          "a": "Igen, előre megkapja a tervet jóváhagyásra."
+        }
+      ]
+    },
+    "branding": {
+      "title": "Arculat / branding",
+      "icon": "branding",
+      "subtitle": "Egy megjelenés, ami megmarad az emlékezetben és első pillantásra bizalmat épít.",
+      "benefits": [
+        "Logó, ami illik a pozicionálásához",
+        "Átgondolt színvilág és tipográfia",
+        "Egységes márkairányelvek"
+      ],
+      "results": [
+        "Profi első benyomás minden érintkezési ponton",
+        "Felismerhetőség minden csatornán"
+      ],
+      "faq": [
+        {
+          "q": "Van már logóm — megtarthatok belőle részeket?",
+          "a": "Igen, a meglévő elemekkel is dolgozunk, és profin továbbfejlesztjük."
+        },
+        {
+          "q": "Mennyi ideig tart egy branding projekt?",
+          "a": "Általában 2–3 hét, terjedelemtől függően."
+        }
+      ]
+    },
+    "content-creation": {
+      "title": "Tartalomgyártás",
+      "icon": "content",
+      "subtitle": "Szövegek és tartalmak, amelyek meggyőznek — weboldalra, blogra és hírlevélre.",
+      "benefits": [
+        "SEO-optimalizált, eladó weboldal-szövegek",
+        "Rendszeres blogbejegyzések",
+        "Hírlevelek, amiket elolvasnak"
+      ],
+      "results": [
+        "Bizalmat építő szövegek",
+        "Jobb helyezések minőségi tartalommal"
+      ],
+      "faq": [
+        {
+          "q": "Magyarul és románul is írnak?",
+          "a": "Igen, anyanyelvi szinten dolgozunk németül, magyarul és románul."
+        },
+        {
+          "q": "Hány javítási kör van benne?",
+          "a": "Alapesetben két átdolgozási kör, igény szerint több is."
+        }
+      ]
+    },
+    "crm-automatisierung": {
+      "title": "CRM-automatizáció",
+      "icon": "lead",
+      "subtitle": "Az új kontaktok automatikus rögzítése, értékelése és CRM-be rendezése — kézi Excel-listák helyett.",
+      "benefits": [
+        "Új leadek automatikus rögzítése minden csatornáról",
+        "Minőség szerinti értékelés és priorizálás",
+        "Zökkenőmentes CRM-összekötés"
+      ],
+      "results": [
+        "Egyetlen lead sem vész el",
+        "Csapata csak a legjobb kontaktokra fókuszál"
+      ],
+      "faq": [
+        {
+          "q": "Milyen CRM-rendszereket támogatnak?",
+          "a": "A elterjedt rendszerek összeköthetők — beszéljük meg a konkrét eszközét."
+        },
+        {
+          "q": "Kell már CRM-em legyen?",
+          "a": "Nem, a megfelelő rendszer kiválasztásában is segítünk."
+        }
+      ]
+    },
+    "email-marketing": {
+      "title": "E-mail marketing",
+      "icon": "mail",
+      "subtitle": "Hírlevelek és e-mail-sorozatok, amelyek automatikusan ügyféllé fejlesztik az érdeklődőket.",
+      "benefits": [
+        "Automatizált e-mail-sorozatok új kontaktoknak",
+        "Márkahangú hírlevél rendszeresen",
+        "Szegmentálás érdeklődés szerint"
+      ],
+      "results": [
+        "Automatikusan tájékoztatott érdeklődők",
+        "Ismétlődő érintkezési pontok többletmunka nélkül"
+      ],
+      "faq": [
+        {
+          "q": "Sok kontakt kell ahhoz, hogy megérje?",
+          "a": "Nem, egy kisebb, releváns lista esetén is hatékony."
+        },
+        {
+          "q": "Milyen eszközt használnak?",
+          "a": "Alkalmazkodunk a elterjedt eszközökhöz, vagy ajánlunk megfelelőt."
+        }
+      ]
+    },
+    "ki-automatisierung": {
+      "title": "MI-automatizáció",
+      "icon": "workflow",
+      "subtitle": "Egyedi folyamat-automatizálás, ami összeköti eszközeit és átveszi az ismétlődő feladatokat.",
+      "benefits": [
+        "Gmail, CRM, naptár és más eszközök összekötése",
+        "Automatizált folyamatok az Ön logikája szerint",
+        "MI-chatbotok weboldalra és WhatsAppra"
+      ],
+      "results": [
+        "Érezhetően kevesebb manuális munka",
+        "Folyamatok, amik munkaidőn kívül is futnak"
+      ],
+      "faq": [
+        {
+          "q": "Csak nagy cégeknek éri meg?",
+          "a": "Nem, épp a kisebb csapatok profitálnak a legjobban belőle."
+        },
+        {
+          "q": "Mennyi ideig tart a megvalósítás?",
+          "a": "Bonyolultságtól függően 1–3 hét."
+        }
+      ]
+    },
+    "funnel-aufbau": {
+      "title": "Funnel-építés",
+      "icon": "funnel",
+      "subtitle": "Átgondolt út az első kattintástól a foglalásig — nem csak egy tájékoztató weboldal.",
+      "benefits": [
+        "Világos felhasználói út a hirdetéstől a megkeresésig",
+        "Összehangolt landing page-ek és e-mail-sorozatok",
+        "Folyamatos optimalizálás valós adatok alapján"
+      ],
+      "results": [
+        "Több megkeresés ugyanabból a forgalomból",
+        "Egy összefüggő rendszer különálló lépések helyett"
+      ],
+      "faq": [
+        {
+          "q": "Mi a különbség egy normál weboldalhoz képest?",
+          "a": "A funnel célzottan egy cselekvéshez vezet, nem csak informál."
+        },
+        {
+          "q": "Kell hozzá hirdetés?",
+          "a": "Nem feltétlenül, de a funnel különösen jól működik hirdetésekkel kombinálva."
+        }
+      ]
+    },
+    "landingpages": {
+      "title": "Landing page-ek",
+      "icon": "landing",
+      "subtitle": "Fókuszált oldalak egyetlen cselekvésre — tökéletes kampányokhoz és ajánlatokhoz.",
+      "benefits": [
+        "Világos felépítés elterelés nélkül",
+        "Kifejezetten kampányokra tervezve",
+        "Gyors betöltés a jobb konverzióért"
+      ],
+      "results": [
+        "Magasabb konverziós ráta, mint egy általános oldal",
+        "Jobb eredmény ugyanabból a büdzséből"
+      ],
+      "faq": [
+        {
+          "q": "Minden kampányhoz kell külön landing page?",
+          "a": "Ideális esetben igen — így az üzenet pontosan illik a hirdetéshez."
+        },
+        {
+          "q": "Mennyi idő alatt készül el?",
+          "a": "Általában néhány napon belül."
+        }
+      ]
+    },
+    "conversion-optimierung": {
+      "title": "Konverzió-optimalizálás",
+      "icon": "cro",
+      "subtitle": "Több eredmény a már meglévő forgalomból — hirdetési költség növelése nélkül.",
+      "benefits": [
+        "Elemzés, hol pattannak el a látogatók",
+        "Struktúra, szövegek és CTA-k javítása",
+        "Adatalapú, folyamatos optimalizálás"
+      ],
+      "results": [
+        "Több megkeresés extra hirdetési költség nélkül",
+        "Weboldal, ami célzottabban vezet cselekvéshez"
+      ],
+      "faq": [
+        {
+          "q": "Kinek éri meg a CRO?",
+          "a": "Minden számottevő forgalommal rendelkező weboldalnak, ami jelenleg nem konvertál eléggé."
+        },
+        {
+          "q": "Milyen gyorsan látszik javulás?",
+          "a": "Első hatások gyakran néhány héten belül, forgalomtól függően."
+        }
+      ]
+    }
+  },
+  "servicesHub": {
+    "eyebrow": "Minden szolgáltatás",
+    "h1": "Minden szolgáltatás részletesen.",
+    "lead": "Az első weboldaltól a teljesen automatizált ügyfélszerzésig — válasszon egyenként vagy komplett csomagban.",
+    "ctaLabel": "Részletek",
+    "detailCtaTitle": "Ez illik a tervéhez?",
+    "detailCtaText": "Beszéljük meg egy ingyenes stratégiai beszélgetésen, hogyan valósítjuk meg Önnek.",
+    "detailCtaBtn": "Ingyenes stratégiai beszélgetés",
+    "benefitsTitle": "Az Ön előnyei",
+    "resultsTitle": "Amit ebből kap",
+    "faqTitle": "Gyakori kérdések",
+    "processTitle": "Így zajlik az együttműködés",
+    "allServices": "Minden szolgáltatás",
+    "backToOverview": "Vissza az áttekintéshez"
+  },
+  "pricingDetail": {
+    "start": {
+      "name": "Start csomag",
+      "category": "general",
+      "priceModel": "once",
+      "price": "799 €",
+      "setupNote": "Karbantartás opcionálisan: 44 € / hó",
+      "audience": "Induló vagy kisvállalkozásoknak online jelenlét nélkül.",
+      "features": [
+        "Mobilbarát weboldal (1–5 oldal)",
+        "Alap branding: logó és színvilág",
+        "Google cégprofil beállítása",
+        "Alap szövegírás"
+      ],
+      "faq": [
+        {
+          "q": "Elég a Start csomag egy profi megjelenéshez?",
+          "a": "Igen, mindent lefed, amire egy hiteles első online megjelenéshez szükség van."
+        },
+        {
+          "q": "Válthatok később nagyobb csomagra?",
+          "a": "Bármikor — a legtöbb ügyfél idővel a Növekedés vagy Teljes csomagra vált."
+        }
+      ]
+    },
+    "wachstum": {
+      "name": "Növekedés csomag",
+      "category": "general",
+      "priceModel": "monthly",
+      "setup": "620 €",
+      "price": "440 €",
+      "audience": "Már működő vállalkozásoknak, akik több ügyfelet és nagyobb elérést szeretnének.",
+      "features": [
+        "Professzionális weboldal",
+        "Alap keresőoptimalizálás (SEO)",
+        "Közösségimédia-kezelés (heti pár poszt)",
+        "1 hirdetési kampány havonta",
+        "Rövid havi eredményriport"
+      ],
+      "faq": [
+        {
+          "q": "A hirdetési büdzsé is benne van az árban?",
+          "a": "A hirdetési költséget közvetlenül a Google/Meta felé fizeti, a csomag a kampány kezelését tartalmazza."
+        },
+        {
+          "q": "Válthatok Google és Meta között?",
+          "a": "Igen, azt a platformot ajánljuk, ami az Ön iparágában a legtöbbet hozza."
+        }
+      ]
+    },
+    "komplett": {
+      "name": "Teljes csomag",
+      "category": "general",
+      "badge": "Prémium",
+      "priceModel": "monthly",
+      "setup": "890 €",
+      "price": "890 €",
+      "audience": "Nagyobb vállalkozásoknak, akik kulcsrakész marketinget akarnak, ráfordítás nélkül.",
+      "features": [
+        "Minden a Növekedés csomagból",
+        "Folyamatos Google- & Meta-hirdetéskezelés",
+        "Rendszeres tartalomgyártás (blog, hírlevél)",
+        "1–2 automatizáció",
+        "Részletes havi riport és stratégiai beszélgetés"
+      ],
+      "faq": [
+        {
+          "q": "Melyik automatizáció van benne?",
+          "a": "A stratégiai beszélgetésen közösen választjuk ki az 1–2 legnagyobb hatású automatizációt."
+        },
+        {
+          "q": "Minden iparágnak megfelelő ez a csomag?",
+          "a": "Igen, iparágfüggetlen — az iparág-specifikus extrákhoz a szakosított csomagok szólnak."
+        }
+      ]
+    },
+    "steuerkanzlei": {
+      "name": "Könyvelőiroda csomag",
+      "category": "industry",
+      "badge": "Ajánlott",
+      "priceModel": "monthly",
+      "setup": "710 €",
+      "price": "530 €",
+      "audience": "Könyvelőirodáknak, akik új ügyfeleket szeretnének szerezni.",
+      "features": [
+        "MI-alapú ügyfélszerző e-mail rendszer",
+        "Professzionális weboldal könyvelőirodáknak",
+        "LinkedIn-jelenlét és tartalom",
+        "Automatikus utánkövetés"
+      ],
+      "faq": [
+        {
+          "q": "Milyen gyorsan jönnek az első megkeresések?",
+          "a": "Általában a kampányindítás utáni első 4–6 héten belül."
+        },
+        {
+          "q": "GDPR-konform az e-mailes megkeresés?",
+          "a": "Igen, a B2B megkeresésre vonatkozó szabályok keretein belül állítjuk be a kampányokat."
+        }
+      ]
+    },
+    "gastronomie": {
+      "name": "Vendéglátás csomag",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "530 €",
+      "price": "350 €",
+      "audience": "Éttermeknek, kávézóknak, bároknak, akik több vendéget szeretnének.",
+      "features": [
+        "Vonzó weboldal online étlappal",
+        "Helyi SEO (Google Térkép optimalizálás)",
+        "Instagram- és Facebook-kezelés",
+        "Értékeléskezelés",
+        "Opció: asztalfoglalás-integráció"
+      ],
+      "faq": [
+        {
+          "q": "Benne van a foglalási funkció?",
+          "a": "Opcionálisan integrálható, a kívánt foglalási rendszertől függően."
+        },
+        {
+          "q": "Foglalkoznak a rossz értékelésekkel?",
+          "a": "Igen, profi, higgadt válaszokat fogalmazunk meg az Ön nevében."
+        }
+      ]
+    },
+    "ecommerce": {
+      "name": "Webshop / e-kereskedelem csomag",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "1.340 €",
+      "price": "620 €",
+      "audience": "Online kereskedőknek, akik több eladást szeretnének.",
+      "features": [
+        "Webshop kiépítése vagy optimalizálása",
+        "Google Shopping- és Meta-hirdetés",
+        "E-mail-automatizáció (kosárelhagyás, hírlevél)",
+        "Termékleírások és tartalom"
+      ],
+      "faq": [
+        {
+          "q": "Milyen webshop-platformokat támogatnak?",
+          "a": "Többek között Shopify-t és WooCommerce-t — segítünk a megfelelő választásban."
+        },
+        {
+          "q": "Benne van a fizetési integráció?",
+          "a": "Igen, a szokásos fizetési szolgáltatókkal (pl. Stripe, PayPal)."
+        }
+      ]
+    },
+    "lokale-dienstleister": {
+      "name": "Helyi szolgáltató csomag",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "440 €",
+      "price": "260 €",
+      "audience": "Fodrászok, kozmetikusok, edzők, kézművesek — hogy tele legyen a naptáruk.",
+      "features": [
+        "Egyszerű, konverzióoptimalizált weboldal",
+        "Online időpontfoglalás",
+        "Google Térkép SEO",
+        "Közösségimédia-kezelés"
+      ],
+      "faq": [
+        {
+          "q": "Össze van kötve az időpontfoglalás a naptáramal?",
+          "a": "Igen, például Cal.com-on keresztül Google Calendar-szinkronnal."
+        },
+        {
+          "q": "Hány telephelyre vonatkozik a csomag?",
+          "a": "Egy telephelyre — több telephely esetén egyedi ajánlatot készítünk."
+        }
+      ]
+    },
+    "immobilien": {
+      "name": "Ingatlan csomag",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "620 €",
+      "price": "440 €",
+      "audience": "Ingatlanközvetítőknek, akik minősített érdeklődőket szeretnének.",
+      "features": [
+        "Weboldal ingatlanlistával",
+        "Lead-landing page",
+        "MI-alapú e-mail utánkövetés",
+        "Meta-hirdetés"
+      ],
+      "faq": [
+        {
+          "q": "Feltölthetem magam az ingatlanokat?",
+          "a": "Igen, egy könnyen kezelhető rendszeren keresztül."
+        },
+        {
+          "q": "Hogyan történik az érdeklődők utánkövetése?",
+          "a": "Automatizált e-mail-sorozattal, az érdeklődő státuszához igazítva."
+        }
+      ]
+    },
+    "b2b-experten": {
+      "name": "B2B / szakértő csomag",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "620 €",
+      "price": "530 €",
+      "audience": "Ügyvédeknek, tanácsadóknak, ügynökségeknek — folyamatos, minősített megkeresésekért.",
+      "features": [
+        "Professzionális, bizalomépítő weboldal",
+        "LinkedIn-tartalom",
+        "MI-alapú hideg e-mail kampány",
+        "Esettanulmányok és blog"
+      ],
+      "faq": [
+        {
+          "q": "Kis irodáknak/tanácsadóknak is megéri?",
+          "a": "Igen, épp a kisebb csapatok profitálnak a legjobban, mert az automatizáció pótolja a hiányzó értékesítési kapacitást."
+        },
+        {
+          "q": "Hogyan határozzák meg a célközönséget a hideg e-mailekhez?",
+          "a": "Közösen, a stratégiai beszélgetésen, az Ön ideális ügyfélprofilja alapján."
+        }
+      ]
+    }
+  },
+  "pricingHub": {
+    "eyebrow": "Árak & csomagok",
+    "h1": "Minden csomag részletesen.",
+    "lead": "Átlátható csomagok a növekedés minden szakaszához — általános vagy iparág-specifikus. Az árak a törvényes áfát nem tartalmazzák.",
+    "generalTitle": "Általános szintek",
+    "industryTitle": "Iparág-specifikus csomagok",
+    "ctaLabel": "Részletek",
+    "featuresTitle": "Mit tartalmaz",
+    "audienceTitle": "Kinek ajánlott",
+    "faqTitle": "Gyakori kérdések",
+    "detailCtaTitle": "Önnek ez a csomag illik?",
+    "detailCtaText": "Beszéljük meg egy ingyenes stratégiai beszélgetésen, hogy ez a csomag — vagy annak egy egyedi módosítása — a megfelelő-e Önnek.",
+    "detailCtaBtn": "Ingyenes stratégiai beszélgetés",
+    "backToOverview": "Vissza az árak áttekintéséhez",
+    "monthlyLabel": "/ hó",
+    "onceLabel": "egyszeri",
+    "setupLabel": "Beállítás (egyszeri)"
+  },
+  "casesDetail": {
+    "ki-telefonassistent": {
+      "cat": "Példaforgatókönyv · MI-telefonasszisztens",
+      "title": "Egyetlen hívás sem vész el",
+      "challenge": "Megjegyzés: szemléltető példa, nem valós ügyféleset. Sok kis cég munka közben nem tud telefont venni — és minden nem fogadott hívás egy lehetséges elveszett munka, mert a hívó gyakran rögtön a következő céget hívja.",
+      "strategy": "Egy MI-telefonasszisztens fogadja a hívásokat, amelyek egyébként megválaszolatlanul maradnának: a cég nevében jelentkezik, rögzíti a nevet, a számot és az igényt, szükség esetén időpontot foglal közvetlenül a naptárba, a sürgős eseteket pedig azonnal továbbítja. A beszélgetés elején átláthatóan jelzi, hogy digitális asszisztens — DSGVO-konform módon.",
+      "executionSteps": [
+        "Feltételes hívásátirányítás beállítása (foglaltság, nem fogadás vagy nyitvatartáson kívül)",
+        "Egyedi beszélgetési forgatókönyv a cég hangnemében, DSGVO-tájékoztatóval",
+        "Naptár-összekötés az automatikus időpontfoglaláshoz",
+        "Azonnali értesítés SMS-ben, e-mailben vagy WhatsAppon minden hívás után"
+      ],
+      "kpis": [
+        {
+          "b": "24/7",
+          "s": "elérhető"
+        },
+        {
+          "b": "Auto",
+          "s": "időpontfoglalás"
+        },
+        {
+          "b": "Azonnal",
+          "s": "értesítés"
+        }
+      ]
+    },
+    "website-lokale-sichtbarkeit": {
+      "cat": "Példaforgatókönyv · Weboldal és helyi láthatóság",
+      "title": "Megtalálják az interneten",
+      "challenge": "Megjegyzés: szemléltető példa, nem valós ügyféleset. Egy helyben jó hírű cég online alig látható — a helyi keresésben szinte csak a versenytársak jelennek meg.",
+      "strategy": "A hangsúly a helyi láthatóságon van, nem a drága hirdetésen: gyors, mobilbarát weboldal, teljesen optimalizált Google-cégprofil és helyi SEO, aktív értékeléskezeléssel kiegészítve — hogy az ügyfelek a keresési találatokban rögtön a céget találják meg.",
+      "executionSteps": [
+        "Új, gyors weboldal áttekinthető felépítéssel és egyszerű elérhetőségekkel",
+        "Google-cégprofil teljes optimalizálása (fotók, kategóriák, nyitvatartás)",
+        "Helyi kulcsszó-stratégia a régióra",
+        "Az értékelések rendszeres megválaszolása"
+      ],
+      "kpis": [
+        {
+          "b": "SEO",
+          "s": "helyileg optimalizált"
+        },
+        {
+          "b": "Google",
+          "s": "cégprofil"
+        },
+        {
+          "b": "DE·HU·RO",
+          "s": "többnyelvű"
+        }
+      ]
+    }
+  },
+  "casesHub": {
+    "eyebrow": "Alkalmazási példák",
+    "h1": "Így nézhet ki az automatizálás Önnél.",
+    "lead": "Példaszerű forgatókönyvek arról, hogyan dolgoznak a rendszereink a mindennapokban — nem valós ügyfélesetek, hanem őszinte szemléltetés arról, mi lehetséges.",
+    "ctaLabel": "Példa megtekintése",
+    "challengeTitle": "Kiindulás",
+    "strategyTitle": "Megoldás",
+    "executionTitle": "Megvalósítás",
+    "resultsTitle": "Mit tud a rendszer",
+    "detailCtaTitle": "Illik az Ön vállalkozásához?",
+    "detailCtaText": "Beszéljük meg egy ingyenes stratégiai beszélgetésen, hogyan nézne ki mindez konkrétan Önnél.",
+    "detailCtaBtn": "Ingyenes stratégiai beszélgetés",
+    "backToOverview": "Vissza az összes példához",
+    "otherCasesTitle": "További példák",
+    "resultsIntro": "Mit tesz Önért egy ilyen rendszer — képességként leírva, nem ígért számként:"
+  },
+  "about": {
+    "eyebrow": "Rólunk",
+    "h1": "A marketing találkozik az automatizációval — kezdettől fogva.",
+    "lead": "A Clever Way Media 2022-ben alakult Romániában, egy egyszerű megfigyelésből kiindulva: a legtöbb vállalkozás vagy elavult marketinggel küzd, vagy nincs ideje az ügyfélszerzésre — a kettő együttes megoldása ritka.",
+    "storyTitle": "Hogyan kezdődött",
+    "storyP1": "2022-ben Romániában alapítva, a Clever Way Media kezdettől egy olyan kombinációra specializálódott, ami a klasszikus ügynökségeknél ritkán található meg: marketinges szakértelem és MI-alapú automatizáció egy fedél alatt.",
+    "storyP2": "Ami egyedi weboldal- és marketingprojektekkel indult, gyorsan olyan kínálattá nőtt, ami célzottan időt spórol és kiszámíthatóan hoz új ügyfeleket — háttérben futó rendszerekkel, nem kézi egyedi munkával.",
+    "storyP3": "Ma Németországban, Magyarországon és Romániában dolgozunk vállalkozásokkal — mindig az adott ország nyelvén, ugyanazzal az igénnyel: őszinte marketing, ami tényleg működik.",
+    "valuesTitle": "Amire értéket helyezünk",
+    "values": [
+      {
+        "title": "Őszinte marketing",
+        "text": "Nincs kitalált vélemény, nincs kitalált mutató, nincs mesterséges sürgősség. Amit mutatunk, az valós — még ha ez azt is jelenti, hogy kevesebb számmal dolgozunk, amíg nincsenek valósak."
+      },
+      {
+        "title": "Rendszerek, nem plusz munka",
+        "text": "Olyan automatizációkat építünk, amelyek tehermentesítik a meglévő folyamatait, nem pedig újabb eszközöket és feladatokat rónak Önre."
+      },
+      {
+        "title": "Eredményközpontú",
+        "text": "Minden projekt azzal a kérdéssel indul: mi hozza ténylegesen a legtöbb ügyfelet vagy időt ennek a vállalkozásnak?"
+      },
+      {
+        "title": "Regionálisan gyökerező, háromnyelvű",
+        "text": "Németországban, Magyarországon és Romániában dolgozunk — és minden ügyféllel a saját nyelvén kommunikálunk, nem fordításon keresztül."
+      }
+    ],
+    "teamTitle": "Hogyan dolgozunk",
+    "teamText": "A Clever Way Media egy karcsú, specializált csapat — tudatosan úgy felépítve, hogy minden ügyfélnek közvetlen, személyes kapcsolata legyen, ne vesszen el egy nagy ügynökségi gépezetben.",
+    "marketsTitle": "Piacaink",
+    "markets": [
+      "Németország",
+      "Magyarország",
+      "Románia"
+    ],
+    "ctaTitle": "Ismerjen meg minket.",
+    "ctaText": "A legjobb képet egy rövid, kötelezettségmentes beszélgetésben kaphatja rólunk — nem egy Rólunk oldalról.",
+    "ctaBtn": "Ingyenes stratégiai beszélgetés"
+  },
+  "blogDetail": {
+    "website-kosten-2026": {
+      "category": "Árak & büdzsé",
+      "title": "Weboldal árak 2026: Mennyibe kerül valójában egy profi weboldal?",
+      "description": "Reális árkategóriák 2026-ban egy céges weboldalhoz — az egyszerű bemutatkozó oldaltól a teljes, automatizált csomagig.",
+      "excerpt": "Az őszinte válasz arra a kérdésre, amit szinte mindenki felteszt, mielőtt ügynökséget bíz meg.",
+      "date": "2026-01-14",
+      "readMin": 4,
+      "body": [
+        {
+          "type": "p",
+          "text": "Az \"mennyibe kerül egy weboldal\" kérdésre nincs egyetlen szám válasz — de vannak reális tartományok, amikhez igazodhat."
+        },
+        {
+          "type": "h2",
+          "text": "Mi befolyásolja az árat"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Terjedelem: 3 oldal vs. egy több száz terméket tartalmazó webshop",
+            "Egyediség: sablon vs. teljesen testreszabott dizájn",
+            "Extra funkciók: időpontfoglalás, többnyelvűség, automatizáció"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Reális ártartományok"
+        },
+        {
+          "type": "p",
+          "text": "Egy egyszerű, 1–5 oldalas weboldalért komoly ajánlatok általában 700–1.500 € körül mozognak egyszeri díjként. Webshopnál vagy folyamatos kezeléssel (SEO, tartalom, hirdetés) havi 250–900 € közötti modellek a jellemzőek."
+        },
+        {
+          "type": "p",
+          "text": "A Clever Way Media-nál a Start csomag 799 €-tól indul, átlátható bontásban, rejtett költségek nélkül."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Egy olcsó weboldal rossz weboldal?",
+          "a": "Nem feltétlenül, de a nagyon olcsó ajánlatok gyakran változatlan sablonok, valódi stratégia nélkül."
+        },
+        {
+          "q": "Megéri a havidíjas modell az egyszeri fizetés helyett?",
+          "a": "Ha folyamatos kezelés is jár hozzá (SEO, tartalom, hirdetés), igen — akkor folyamatos munkáért fizet."
+        }
+      ],
+      "relatedServiceSlug": "webdesign",
+      "relatedPackageSlug": "start"
+    },
+    "steuerkanzlei-mandanten-gewinnen": {
+      "category": "Könyvelőirodák",
+      "title": "Ügyfélszerzés könyvelőirodaként: 5 mód, ami 2026-ban tényleg működik",
+      "description": "Hogyan szerezhetnek könyvelőirodák kiszámíthatóan új ügyfeleket — véletlenszerű ajánlásokra hagyatkozás nélkül.",
+      "excerpt": "Az ajánlások önmagukban ritkán elegendők a növekedéshez. Öt konkrét, megvalósítható megközelítés.",
+      "date": "2026-02-03",
+      "readMin": 5,
+      "body": [
+        {
+          "type": "p",
+          "text": "A legtöbb könyvelőiroda ajánlásokból növekszik — ez sokáig működik, de nehezen skálázható."
+        },
+        {
+          "type": "h2",
+          "text": "Az öt legfontosabb elem"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Weboldal, ami már az első hívás előtt bizalmat épít",
+            "Célzott, automatizált megkeresés kézi hidegmegkeresés helyett",
+            "Rendszeres szakmai LinkedIn-jelenlét",
+            "Helyi SEO a regionális láthatóságért",
+            "Automatikus utánkövetés, hogy egy érdeklődő se vesszen el"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Ez az öt elem alkotja együtt a Clever Way Media Könyvelőiroda csomagját — egyben vagy külön-külön is megvalósítható."
+        }
+      ],
+      "faq": [
+        {
+          "q": "GDPR-konform az automatizált hideg e-mail?",
+          "a": "Igen, a B2B megkeresésre vonatkozó szabályok keretein belül állítjuk be."
+        },
+        {
+          "q": "Milyen gyorsan jönnek az eredmények?",
+          "a": "Az első extra megkeresések gyakran 4–6 héten belül jelentkeznek."
+        }
+      ],
+      "relatedServiceSlug": "ki-automatisierung",
+      "relatedPackageSlug": "steuerkanzlei"
+    },
+    "seo-oder-google-ads": {
+      "category": "Marketing-stratégia",
+      "title": "SEO vagy Google Ads: Melyik éri meg jobban kisvállalkozásoknak?",
+      "description": "Az őszinte összehasonlítás SEO és Google Ads között kis- és középvállalkozásoknak.",
+      "excerpt": "A leggyakoribb marketing-kérdés — és miért a válasz általában \"mindkettő, csak más időpontban\".",
+      "date": "2026-02-20",
+      "readMin": 4,
+      "body": [
+        {
+          "type": "h2",
+          "text": "Google Ads: gyors, de folyamatosan fizetős"
+        },
+        {
+          "type": "p",
+          "text": "A Google Ads már az első naptól láthatóságot hoz. Amint leáll a büdzsé, eltűnik a láthatóság is — ideális gyors eredményekhez."
+        },
+        {
+          "type": "h2",
+          "text": "SEO: lassabb indulás, tartósabb hatás"
+        },
+        {
+          "type": "p",
+          "text": "A SEO időt igényel — gyakran 3-6 hónapot az érezhető hatáshoz. Cserébe a láthatóság hirdetési büdzsé nélkül is megmarad."
+        },
+        {
+          "type": "p",
+          "text": "A gyakorlatban a kombináció működik legjobban: Google Ads az azonnali eredményért, miközben a SEO háttérben épül."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Kis büdzséből is lehet mindkettőt csinálni?",
+          "a": "Igen, gyakran érdemes kisebb Ads-büdzsével indulni, párhuzamosan építve a SEO alapokat."
+        },
+        {
+          "q": "Mennyi idő alatt válthatja ki a SEO a Google Ads-et?",
+          "a": "Iparágtól és versenytől függően reálisan 6-12 hónap."
+        }
+      ],
+      "relatedServiceSlug": "seo",
+      "relatedPackageSlug": "wachstum"
+    },
+    "ki-automatisierung-einstieg": {
+      "category": "MI & automatizáció",
+      "title": "MI-automatizáció kisvállalkozásoknak: Hol érdemes tényleg elkezdeni?",
+      "description": "Az MI-automatizáció bonyolultnak hangzik, de nem kell annak lennie. Három belépési pont a legnagyobb hatással.",
+      "excerpt": "Nem minden automatizáció ér egyformán sokat. Ez a három terület hozza a leggyorsabb, érezhető hasznot.",
+      "date": "2026-03-05",
+      "readMin": 4,
+      "body": [
+        {
+          "type": "h2",
+          "text": "1. Automatizált ügyfélszerzés"
+        },
+        {
+          "type": "p",
+          "text": "Kézi e-mail-írás helyett az MI veszi át a személyre szabott megkeresést — háttérben, csapata terhelése nélkül."
+        },
+        {
+          "type": "h2",
+          "text": "2. Lead-minősítés és CRM-összekötés"
+        },
+        {
+          "type": "p",
+          "text": "Az új megkeresések automatikusan értékelve és priorizálva kerülnek be, így csapata a legjobb lehetőségekkel foglalkozik először."
+        },
+        {
+          "type": "h2",
+          "text": "3. MI-chatbot gyakori kérdésekhez"
+        },
+        {
+          "type": "p",
+          "text": "A bejövő kérdések nagy része ismétlődik — egy chatbot ezekre azonnal válaszol, munkaidőn kívül is."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Kell hozzá technikai előismeret?",
+          "a": "Nem, a beállítást mi végezzük, Ön egy kész rendszert használ utána."
+        },
+        {
+          "q": "Működik a meglévő eszközeimmel?",
+          "a": "Általában igen, gyakorlatilag bármely elterjedt eszköz csatlakoztatható."
+        }
+      ],
+      "relatedServiceSlug": "ki-automatisierung",
+      "relatedPackageSlug": "komplett"
+    },
+    "local-seo-checkliste": {
+      "category": "Helyi vállalkozások",
+      "title": "Helyi SEO checklist: Így talál meg a Google Térképen",
+      "description": "Gyakorlati checklist éttermeknek, kézműveseknek és helyi szolgáltatóknak a jobb helyi láthatósághoz.",
+      "excerpt": "A legtöbb helyi vállalkozás csak félig használja ki a Google cégprofilját. Ez a lista megmutatja, mi számít igazán.",
+      "date": "2026-03-22",
+      "readMin": 4,
+      "body": [
+        {
+          "type": "h2",
+          "text": "A legfontosabb pontok"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Teljes Google cégprofil, helyes kategóriával, címmel és nyitvatartással",
+            "Friss, minőségi fotók",
+            "Konzisztens adatok minden platformon",
+            "Aktív válaszadás az értékelésekre",
+            "Helyi kulcsszavak a weboldalon"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "A leginkább alábecsült pont: az értékelések száma és frissessége befolyásolja a keresési sorrendet és a döntést is."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Milyen gyorsan hat a helyi SEO?",
+          "a": "Gyakran gyorsabban, mint a klasszikus SEO — az első javulások néhány héten belül látszanak."
+        },
+        {
+          "q": "Elég csak az optimalizált Google-profil?",
+          "a": "Ez a legfontosabb alap, de egy helyileg optimalizált weboldallal kombinálva működik legjobban."
+        }
+      ],
+      "relatedServiceSlug": "local-seo",
+      "relatedPackageSlug": "gastronomie"
+    },
+    "social-media-kosten": {
+      "category": "Árak & büdzsé",
+      "title": "Mennyibe kerül a közösségimédia-kezelés? Reális árak",
+      "description": "Mennyibe kerül valójában a profi közösségimédia-kezelés — és mitől függ az ár.",
+      "excerpt": "A 0 €-os freelancer-ajánlatok és az öt számjegyű ügynökségi díjak között hatalmas a különbség.",
+      "date": "2026-04-02",
+      "readMin": 4,
+      "body": [
+        {
+          "type": "h2",
+          "text": "Mi befolyásolja az árat"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Heti posztok száma",
+            "Kezelt platformok száma",
+            "Saját fotó/videó készül-e vagy meglévőt használunk",
+            "Közösségkezelés benne van-e",
+            "Fut-e mellette fizetett hirdetés is"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Egy szolid alapkezelésért heti pár poszttal komoly havi árak jellemzően 250–500 € között mozognak. Bővebb csomagok tartalomgyártással és közösségkezeléssel gyakran 500–900 € havonta."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Kell saját fotóanyag?",
+          "a": "Segít, de nem kötelező — meglévő anyaggal is dolgozunk, szükség esetén kiegészítjük."
+        },
+        {
+          "q": "A hirdetési büdzsé benne van a díjban?",
+          "a": "Nem, azt közvetlenül a platform felé fizeti — a díj a munkát fedezi, nem a hirdetési költséget."
+        }
+      ],
+      "relatedServiceSlug": "social-media",
+      "relatedPackageSlug": "wachstum"
+    }
+  },
+  "blogHub": {
+    "eyebrow": "Blog",
+    "h1": "Gyakorlati tudás, üres marketing-szólamok helyett.",
+    "lead": "Válaszok azokra a kérdésekre, amiket a vállalkozások ténylegesen feltesznek, mielőtt marketing és automatizáció mellett döntenek.",
+    "ctaLabel": "Cikk elolvasása",
+    "readMoreLabel": "Tovább olvasom",
+    "readMinLabel": "perc olvasás",
+    "backToOverview": "Vissza a bloghoz",
+    "relatedServiceTitle": "Kapcsolódó szolgáltatás",
+    "relatedPackageTitle": "Kapcsolódó csomag",
+    "ctaTitle": "Kérdése van a saját helyzetéről?",
+    "ctaText": "Beszéljük meg egy ingyenes stratégiai beszélgetésen, mi lenne értelmes az Ön vállalkozásának.",
+    "ctaBtn": "Ingyenes stratégiai beszélgetés",
+    "faqTitle": "Gyakori kérdések"
+  }
+}

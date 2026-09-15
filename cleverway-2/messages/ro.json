@@ -1,0 +1,1555 @@
+{
+  "meta": {
+    "title": "Clever Way Media – Marketing întâlnește automatizarea | DE · HU · RO",
+    "description": "Site-uri premium, marketing măsurabil și automatizare AI pentru companii din Germania, Ungaria și România. Cu asistent telefonic AI, chatboți și automatizări de flux personalizate. Asistență în germană, maghiară și română."
+  },
+  "nav": {
+    "links": {
+      "leistungen": "Servicii",
+      "ki": "AI & Automatizare",
+      "referenzen": "Referințe",
+      "preise": "Prețuri",
+      "faq": "Întrebări",
+      "kontakt": "Contact"
+    },
+    "cta": "Discuție strategică"
+  },
+  "hero": {
+    "eyebrow": "Marketing · întâlnește · Automatizare",
+    "h1a": "Marketing care",
+    "ital1": "vinde.",
+    "h1b": "Automatizare care",
+    "ital2": "scalează.",
+    "lead": "Site-uri premium, campanii măsurabile și automatizare AI care vă aduce clienți noi în mod previzibil. Ca să vă concentrați pe afacere — nu pe prospectarea la rece. Pentru companii ambițioase din Germania, Ungaria și România — în limba dumneavoastră.",
+    "cta1": "Discuție strategică gratuită",
+    "cta2": "Descoperiți serviciile",
+    "trust": [
+      "Gratuit și fără obligații",
+      "Răspuns în 24 h",
+      "Personal și direct"
+    ],
+    "stats": [
+      {
+        "value": "3",
+        "label": "limbi — DE · HU · RO"
+      },
+      {
+        "value": "24/7",
+        "label": "automatizare care nu doarme niciodată"
+      },
+      {
+        "value": "100%",
+        "label": "personalizat — fără șabloane"
+      },
+      {
+        "value": "DSGVO",
+        "label": "conform — găzduire în UE posibilă"
+      }
+    ]
+  },
+  "marquee": {
+    "label": "Pentru companii din orice domeniu — în limba dvs.",
+    "items": [
+      "Site-uri care vând",
+      "Asistent telefonic AI",
+      "Google & Meta Ads",
+      "SEO și vizibilitate locală",
+      "Automatizare",
+      "DE · HU · RO"
+    ]
+  },
+  "automation": {
+    "eyebrow": "AI & Automatizare · esența noastră",
+    "h2a": "Automatizare care lucrează pentru dumneavoastră —",
+    "goldWord": "non-stop.",
+    "leadPre": "Sarcinile repetitive sunt preluate de sisteme inteligente: de la atragerea de clienți, la asistentul WhatsApp, până la procesarea documentelor. Construim exact acele automatizări care vă ușurează cel mai mult munca —",
+    "leadHl": "cele mai căutate automatizări AI",
+    "leadPost": ", personalizate și conectate perfect cu instrumentele existente. Economisiți timp, câștigați mai mulți clienți și scalați fără personal nou.",
+    "tag": "Cel mai popular",
+    "tiles": [
+      {
+        "id": "telefon",
+        "title": "Asistent telefonic AI",
+        "text": "Preia apelurile non-stop — în germană, în numele firmei dvs. Notează numele, numărul și solicitarea, programează întâlniri direct în calendarul dvs. și transmite imediat cazurile urgente. Niciun apel pierdut. Marcat transparent ca AI, conform DSGVO."
+      },
+      {
+        "id": "workflow",
+        "title": "Automatizare de flux personalizată",
+        "text": "Conectăm instrumentele dvs. — Gmail, Slack, CRM, calendar, foi de calcul — într-un sistem care rulează singur în fundal. Exact după procesul dvs., aproape orice instrument poate fi conectat."
+      },
+      {
+        "id": "chatbot",
+        "title": "Chatbot AI & asistent vocal",
+        "text": "Răspunde pe site și WhatsApp non-stop, califică prospecții și programează întâlniri — automat."
+      },
+      {
+        "id": "lead",
+        "title": "Calificare lead-uri & CRM",
+        "text": "Contactele noi sunt îmbogățite, evaluate și sortate automat în CRM. Echipa se ocupă doar de cele mai bune oportunități."
+      },
+      {
+        "id": "invoice",
+        "title": "Procesare facturi & documente",
+        "text": "Citim automat documentele și le transmitem către programul de contabilitate (DATEV, lexoffice, sevDesk) — gata cu introducerea manuală."
+      },
+      {
+        "id": "offer",
+        "title": "Generator de oferte & documente",
+        "text": "Oferte, contracte și rapoarte în câteva secunde din datele dumneavoastră — formatate uniform, fără erori."
+      },
+      {
+        "id": "neukunden",
+        "title": "Atragere automată de clienți",
+        "text": "Campanii de contactare personalizate aduc constant cereri noi — pe tonul mărcii dvs., fără prospectare la rece manuală."
+      },
+      {
+        "id": "termin",
+        "title": "Automatizare programări & follow-up",
+        "text": "Mementourile și urmăririle automate reduc neprezentările și mențin fiecare lead cald."
+      },
+      {
+        "id": "content",
+        "title": "Automatizare de conținut",
+        "text": "Postări sociale, descrieri și newslettere pentru o lună întreagă — în câteva minute, în tonul mărcii."
+      },
+      {
+        "id": "reporting",
+        "title": "Rapoarte & dashboard-uri",
+        "text": "Datele din reclame, analytics și CRM ajung automat în rapoarte lunare clare și dashboard-uri live."
+      }
+    ],
+    "ctaTile": {
+      "title": "Aveți o idee proprie?",
+      "text": "O construim. Să discutăm despre automatizare →"
+    },
+    "stats": [
+      {
+        "value": "24/7",
+        "label": "activ, fără pauză"
+      },
+      {
+        "value": "400+",
+        "label": "instrumente & aplicații conectabile"
+      },
+      {
+        "value": "DSGVO",
+        "label": "conform — găzduire în UE posibilă"
+      }
+    ],
+    "ctaBtn": "Să discutăm despre automatizare"
+  },
+  "services": {
+    "eyebrow": "Servicii",
+    "h2": "Tot pentru creșterea dumneavoastră digitală — dintr-o singură sursă.",
+    "lead": "De la primul site până la atragerea complet automatizată de clienți. Alegeți individual sau ca pachet complet.",
+    "groupTitle": "Marketing",
+    "items": [
+      {
+        "id": "website",
+        "title": "Creare site web",
+        "text": "Site-uri moderne, prietenoase cu mobilul, landing page-uri și magazine online — inclusiv design, texte și tehnică."
+      },
+      {
+        "id": "shop",
+        "title": "Magazin online / e-commerce",
+        "text": "Produse, plată și livrare integrate perfect. Vindeți non-stop — chiar și în somn."
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "text": "Poziții mai bune în Google prin cuvinte-cheie, tehnică și conținut. Trafic gratuit pe termen lung."
+      },
+      {
+        "id": "ads",
+        "title": "Google Ads (PPC)",
+        "text": "Reclame plătite în căutare cu control al bugetului. Rezultate rapide și măsurabile din prima zi."
+      },
+      {
+        "id": "meta",
+        "title": "Meta / reclame social media",
+        "text": "Campanii Facebook și Instagram cu targetare precisă și testare A/B continuă."
+      },
+      {
+        "id": "social",
+        "title": "Administrare social media",
+        "text": "Planificare, creare și construirea comunității pentru canalele dumneavoastră — profesionist și constant."
+      },
+      {
+        "id": "branding",
+        "title": "Branding & identitate vizuală",
+        "text": "Logo, paletă de culori și prezență unitară — o imagine care rămâne în minte."
+      },
+      {
+        "id": "graphic",
+        "title": "Design grafic",
+        "text": "Flyere, bannere, cărți de vizită și grafică social media — gata de tipar, în orice format."
+      },
+      {
+        "id": "content",
+        "title": "Conținut & copywriting",
+        "text": "Texte de site, bloguri și newslettere optimizate SEO, care conving și construiesc încredere."
+      }
+    ],
+    "note": {
+      "title": "În plus: întregul spectru de automatizare AI",
+      "text": "Chatboți, automatizare CRM, procesare documente, automatizări de flux personalizate și multe altele — în secțiunea dedicată automatizării.",
+      "btn": "Vedeți automatizările"
+    },
+    "hubLink": "Vezi toate serviciile în detaliu"
+  },
+  "process": {
+    "eyebrow": "Cum lucrăm",
+    "h2": "Patru pași către o creștere previzibilă.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Analiză",
+        "text": "Discuție strategică gratuită. Înțelegem afacerea, obiectivele și piața dumneavoastră."
+      },
+      {
+        "n": "02",
+        "title": "Strategie",
+        "text": "Un plan personalizat — ce servicii vă aduc cel mai mare impact."
+      },
+      {
+        "n": "03",
+        "title": "Implementare",
+        "text": "Site, campanii și automatizare — construim și lansăm sistemul dumneavoastră."
+      },
+      {
+        "n": "04",
+        "title": "Optimizare",
+        "text": "Evaluare continuă și ajustare fină. Ce funcționează, scalăm mai departe."
+      }
+    ]
+  },
+  "cases": {
+    "eyebrow": "Exemple de utilizare",
+    "h2": "Cum ar putea arăta automatizarea la dvs.",
+    "lead": "Suntem o agenție tânără și nu facem reclamă cu cifre străine. În schimb, arătăm sincer cum funcționează sistemele noastre în practică — cu titlu de exemplu, nu cazuri reale de clienți.",
+    "items": [
+      {
+        "cat": "Exemplu · Asistent telefonic AI",
+        "title": "Niciun apel nu se mai pierde",
+        "text": "Situație: apelurile rămân fără răspuns în timpul lucrului. Soluție: un asistent telefonic AI preia apelul, notează solicitarea și programează întâlniri — sunteți anunțat imediat.",
+        "kpis": [
+          {
+            "b": "24/7",
+            "s": "disponibil"
+          },
+          {
+            "b": "Auto",
+            "s": "programări"
+          },
+          {
+            "b": "Imediat",
+            "s": "notificare"
+          }
+        ],
+        "slug": "ki-telefonassistent"
+      },
+      {
+        "cat": "Exemplu · Site și vizibilitate locală",
+        "title": "Să fiți găsit online",
+        "text": "Situație: aproape invizibil online. Soluție: un site rapid, un profil Google optimizat și SEO local — ca să vă găsească clienții, nu concurența.",
+        "kpis": [
+          {
+            "b": "SEO",
+            "s": "optimizat local"
+          },
+          {
+            "b": "Google",
+            "s": "profil de firmă"
+          },
+          {
+            "b": "DE·HU·RO",
+            "s": "multilingv"
+          }
+        ],
+        "slug": "website-lokale-sichtbarkeit"
+      }
+    ],
+    "hubLink": "Toate exemplele de utilizare",
+    "detailLabel": "Vezi exemplul"
+  },
+  "pricing": {
+    "eyebrow": "Prețuri",
+    "h2": "Pachete transparente. Fără surprize.",
+    "plans": [
+      {
+        "name": "Pachet Start",
+        "price": "799 €",
+        "unit": "o singură dată",
+        "setup": "Mentenanță opțional 44 € / lună",
+        "features": [
+          "Site prietenos cu mobilul (1–5 pagini)",
+          "Branding de bază: logo & culori",
+          "Profil Google de companie",
+          "Copywriting de bază"
+        ],
+        "btn": "Alegeți pachetul"
+      },
+      {
+        "name": "Pachet de creștere",
+        "price": "440 €",
+        "unit": "/ lună",
+        "setup": "Configurare unică 620 €",
+        "feat": true,
+        "badge": "Recomandat",
+        "features": [
+          "Site profesional",
+          "Optimizare de bază pentru motoarele de căutare (SEO)",
+          "Administrare social media",
+          "1 campanie publicitară / lună (Google sau Meta)",
+          "Raport lunar scurt"
+        ],
+        "btn": "Alege pachetul"
+      },
+      {
+        "name": "Pachet complet",
+        "price": "890 €",
+        "unit": "/ lună",
+        "setup": "Configurare o singură dată 890 €",
+        "features": [
+          "Tot din pachetul Creștere",
+          "Reclame Google & Meta continue",
+          "Producție de conținut regulată",
+          "1–2 automatizări + discuție strategică"
+        ],
+        "btn": "Alegeți pachetul"
+      }
+    ],
+    "note": "Disponibil și ca pachet pe domenii (ex. gastronomie, e-commerce, imobiliare, servicii locale, B2B) — contactați-ne pur și simplu.",
+    "foot": "Toate prețurile sunt fără TVA legal.",
+    "hubLink": "Vezi toate pachetele în detaliu"
+  },
+  "faq": {
+    "eyebrow": "Întrebări frecvente",
+    "h2": "Tot ce vreți să știți.",
+    "items": [
+      {
+        "q": "Ce face Clever Way Media diferit?",
+        "a": "Combinăm marketingul clasic cu automatizarea AI. Sisteme inteligente preiau sarcinile repetitive — de la atragerea de clienți, la chatboți AI, până la procesarea documentelor — conectate cu instrumentele existente. Astfel economisiți timp și câștigați clienți noi în mod previzibil."
+      },
+      {
+        "q": "Ce automatizări AI oferiți?",
+        "a": "Printre altele: un asistent telefonic AI care preia apelurile non-stop și programează întâlniri; achiziție automatizată de clienți; chatboți AI pentru site și WhatsApp; calificarea lead-urilor cu conectare la CRM; procesarea facturilor și bonurilor (DATEV, lexoffice, sevDesk); generatoare de oferte și documente; automatizarea conținutului și a rapoartelor, precum și automatizări de flux personalizate care vă conectează instrumentele fără efort."
+      },
+      {
+        "q": "Cât costă un site sau administrarea?",
+        "a": "Pachetul Start începe de la 799 € o singură dată. Pentru marketing și automatizare continue există pachete lunare de la 260 €, precum și soluții specifice industriei. În discuția strategică gratuită găsim modelul potrivit."
+      },
+      {
+        "q": "În ce limbi și regiuni lucrați?",
+        "a": "Lucrăm cu companii din Germania, Ungaria și România — de fiecare dată în limba țării respective. Site-ul, comunicarea și asistența sunt disponibile în germană, maghiară și română."
+      },
+      {
+        "q": "Cât de repede văd rezultate?",
+        "a": "Site-urile și campaniile pornesc adesea în câteva săptămâni. Reclamele plătite și automatizările AI aduc primele contacte pe termen scurt, în timp ce SEO își arată efectul deplin pe termen mediu."
+      }
+    ]
+  },
+  "booking": {
+    "eyebrow": "Gratuit și fără obligații",
+    "urgencyPre": "Număr limitat de discuții strategice în",
+    "urgencyPost": "— rezervați-vă locul",
+    "h2a": "Rezervați-vă",
+    "goldWord": "discuția strategică.",
+    "lead": "Analizăm situația dumneavoastră și vă arătăm concret ce servicii aduc cel mai mare impact pentru creșterea dumneavoastră. Fără presiune de vânzare — doar un plan clar.",
+    "cta1": "Alegeți data",
+    "cta2": "Prefer să scriu",
+    "mini": [
+      "Răspuns în 24 h",
+      "100% gratuit",
+      "DE · HU · RO"
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "h2": "Haideți să vorbim.",
+    "lead": "Povestiți-ne pe scurt despre proiectul dumneavoastră — revenim în curând cu următorii pași.",
+    "emailLabel": "E-mail",
+    "marketsLabel": "Piețe",
+    "markets": "Germania · Ungaria · România",
+    "langLabel": "Limbi",
+    "langs": "Germană · Maghiară · Română",
+    "followLabel": "Urmăriți-ne",
+    "form": {
+      "name": "Nume",
+      "company": "Companie",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "budget": "Buget",
+      "service": "Interes pentru",
+      "message": "Mesaj",
+      "submit": "Trimite mesajul",
+      "note": "Prin trimitere sunteți de acord cu politica noastră de confidențialitate.",
+      "select": "Vă rugăm alegeți",
+      "successTitle": "Mulțumim!",
+      "successText": "Revenim la dumneavoastră în 24 de ore.",
+      "budgetOptions": [
+        "până la 1.000 € / lună",
+        "1.000–3.000 € / lună",
+        "peste 3.000 € / lună",
+        "Proiect unic"
+      ],
+      "serviceOptions": [
+        "Automatizare AI",
+        "Site / magazin online",
+        "SEO & reclame",
+        "Pachet complet",
+        "Altceva"
+      ]
+    },
+    "soon": "În curând",
+    "coverageTitle": "Unde lucrăm",
+    "coverageText": "Suntem o echipă care lucrează digital și deservim clienți indiferent de locație, pe trei piețe — de fiecare dată în limba țării respective.",
+    "remote": "Indiferent de locație · Remote",
+    "marketsList": [
+      {
+        "code": "DE",
+        "name": "Germania"
+      },
+      {
+        "code": "HU",
+        "name": "Ungaria"
+      },
+      {
+        "code": "RO",
+        "name": "România"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Marketing întâlnește automatizarea. Site-uri premium și atragere de clienți bazată pe AI pentru companii din Germania, Ungaria și România.",
+    "servicesTitle": "Servicii",
+    "services": [
+      "Creare site",
+      "SEO & reclame",
+      "Automatizare AI",
+      "Automatizare"
+    ],
+    "agencyTitle": "Agenție",
+    "agency": [
+      "Despre noi",
+      "Blog",
+      "Referințe",
+      "Prețuri",
+      "Întrebări",
+      "Discuție strategică"
+    ],
+    "legalTitle": "Legal",
+    "legal": [
+      "Impressum",
+      "Confidențialitate",
+      "Termeni"
+    ],
+    "rights": "© 2026 Clever Way Media. Toate drepturile rezervate.",
+    "langLabel": "Limbi"
+  },
+  "exit": {
+    "eyebrow": "Înainte să plecați",
+    "title": "Analiză de marketing gratuită — obțineți un avans.",
+    "text": "În 15 minute vă arătăm concret unde pierdeți clienți online și cum schimbă asta sistemul nostru AI. Fără obligații, în limba dumneavoastră.",
+    "placeholder": "Adresa dumneavoastră de e-mail",
+    "btn": "Solicitați analiza",
+    "trust": "100% gratuit · Fără presiune de vânzare · Răspuns în 24 h",
+    "successTitle": "Mulțumim!",
+    "successText": "Revenim în 24 de ore cu analiza dumneavoastră gratuită.",
+    "floatCta": "Rezervați o programare"
+  },
+  "legal": {
+    "impressum": {
+      "title": "Impressum",
+      "intro": "Informații obligatorii conform § 5 TMG (Germania). Vă rugăm completați datele lipsă (nume complet, adresă, eventual registrul comerțului, CUI) înainte de lansare.",
+      "sections": [
+        {
+          "h": "Furnizor",
+          "p": "Clever Way Media\n[Nume complet / denumire firmă]\n[Stradă, număr]\n[Cod poștal, localitate]\n[Țară]"
+        },
+        {
+          "h": "Contact",
+          "p": "E-mail: cleverwaymedia@gmail.com"
+        },
+        {
+          "h": "Cod TVA",
+          "p": "[Dacă este cazul: cod TVA UE]"
+        },
+        {
+          "h": "Responsabil pentru conținut",
+          "p": "[Nume]"
+        },
+        {
+          "h": "Soluționarea litigiilor",
+          "p": "Comisia Europeană pune la dispoziție o platformă de soluționare online a litigiilor: https://ec.europa.eu/consumers/odr/. Nu suntem obligați să participăm la o procedură de soluționare a litigiilor în fața unei autorități pentru consumatori."
+        }
+      ]
+    },
+    "datenschutz": {
+      "title": "Politica de confidențialitate",
+      "intro": "Protecția datelor dumneavoastră personale este importantă pentru noi. Această politică vă informează despre tipul, sfera și scopul prelucrării datelor cu caracter personal pe acest site, conform GDPR.",
+      "sections": [
+        {
+          "h": "Operator",
+          "p": "Clever Way Media, [adresă de introdus]. Contact: cleverwaymedia@gmail.com"
+        },
+        {
+          "h": "Formular de contact & e-mail",
+          "p": "Dacă ne scrieți prin formularul de contact sau e-mail, datele dumneavoastră (nume, companie, e-mail, telefon, mesaj) sunt stocate pentru procesarea solicitării și nu sunt transmise fără consimțământul dumneavoastră."
+        },
+        {
+          "h": "Programare",
+          "p": "La utilizarea sistemului de programare (ex. Cal.com), datele sunt transmise furnizorului respectiv pentru coordonarea programării. Se aplică suplimentar politica de confidențialitate a furnizorului respectiv."
+        },
+        {
+          "h": "Cookie-uri & analiză",
+          "p": "Acest site folosește doar cookie-uri necesare din punct de vedere tehnic, dacă nu se specifică altfel. Dacă sunt utilizate instrumente de analiză (ex. Vercel Analytics, Google Analytics), vă vom informa separat și, dacă este necesar, vom solicita consimțământul printr-un banner de cookie-uri."
+        },
+        {
+          "h": "Drepturile dumneavoastră",
+          "p": "Aveți dreptul la informare, rectificare, ștergere, restricționarea prelucrării, portabilitatea datelor și opoziție. Contactați-ne la cleverwaymedia@gmail.com."
+        },
+        {
+          "h": "Dreptul de a depune plângere",
+          "p": "Aveți dreptul de a depune o plângere la o autoritate de supraveghere a protecției datelor."
+        }
+      ]
+    },
+    "agb": {
+      "title": "Termeni și condiții",
+      "intro": "Acești termeni reglementează relația de afaceri dintre Clever Way Media și clienții săi. Vă rugăm să solicitați verificarea juridică a acestui proiect înainte de publicare.",
+      "sections": [
+        {
+          "h": "Domeniu de aplicare",
+          "p": "Acești termeni se aplică tuturor serviciilor Clever Way Media, în special creării de site-uri, serviciilor de marketing și automatizării AI."
+        },
+        {
+          "h": "Încheierea contractului",
+          "p": "Un contract se încheie prin confirmarea scrisă a unei oferte individuale, elaborată în cadrul unei discuții strategice."
+        },
+        {
+          "h": "Domeniul serviciilor",
+          "p": "Domeniul exact al serviciilor rezultă din oferta, respectiv contractul respectiv."
+        },
+        {
+          "h": "Condiții de plată",
+          "p": "Termenele și modalitățile de plată sunt stabilite în oferta individuală. Toate prețurile sunt fără TVA legal."
+        },
+        {
+          "h": "Răspundere",
+          "p": "Clever Way Media răspunde numai pentru intenție și neglijență gravă, în măsura permisă de lege."
+        },
+        {
+          "h": "Dispoziții finale",
+          "p": "Se aplică legislația Republicii Federale Germania."
+        }
+      ]
+    }
+  },
+  "servicesDetail": {
+    "webdesign": {
+      "title": "Design web",
+      "icon": "website",
+      "subtitle": "Un site care inspiră încredere din prima privire — și aduce cereri noi.",
+      "benefits": [
+        "Design modern, prietenos cu mobilul",
+        "Structură clară către contact",
+        "Bază tehnică curată, rapidă, pregătită SEO"
+      ],
+      "results": [
+        "Un site pe care îl arătați cu mândrie",
+        "Mai puține abandonuri"
+      ],
+      "faq": [
+        {
+          "q": "Cât durează crearea unui site?",
+          "a": "În funcție de amploare, de obicei 2–4 săptămâni de la aprobarea conținutului."
+        },
+        {
+          "q": "Site-ul este optimizat SEO?",
+          "a": "Da, fiecare site este construit tehnic pregătit pentru SEO."
+        }
+      ]
+    },
+    "webentwicklung": {
+      "title": "Dezvoltare web",
+      "icon": "dev",
+      "subtitle": "Soluții tehnice personalizate, când un site standard nu mai este suficient.",
+      "benefits": [
+        "Funcții personalizate, nu șabloane",
+        "Magazine online, portaluri de clienți sau instrumente interne",
+        "Integrare cu sistemele existente"
+      ],
+      "results": [
+        "Un sistem care urmează exact procesul dumneavoastră",
+        "Mai puțină muncă manuală"
+      ],
+      "faq": [
+        {
+          "q": "Când am nevoie de dezvoltare web în loc de un site standard?",
+          "a": "Când aveți nevoie de funcții personalizate — de exemplu un portal de clienți."
+        },
+        {
+          "q": "Construiți și magazine online?",
+          "a": "Da, de la gestionarea produselor până la integrarea plăților."
+        }
+      ]
+    },
+    "seo": {
+      "title": "SEO",
+      "icon": "seo",
+      "subtitle": "Poziții mai bune în Google, care aduc trafic gratuit pe termen lung — fără buget de reclame.",
+      "benefits": [
+        "Optimizare tehnică pentru viteză și structură",
+        "Strategie de cuvinte-cheie adaptată clienților reali",
+        "Monitorizare continuă"
+      ],
+      "results": [
+        "Mai mult trafic organic",
+        "Vizibilitate mai bună pentru căutările relevante"
+      ],
+      "faq": [
+        {
+          "q": "Cât durează până acționează SEO?",
+          "a": "Primele îmbunătățiri adesea după 4–8 săptămâni, efect deplin în 3–6 luni."
+        },
+        {
+          "q": "Merită și pentru companii mici?",
+          "a": "Da, mai ales cu focus local sau de nișă, SEO este adesea cel mai eficient canal."
+        }
+      ]
+    },
+    "local-seo": {
+      "title": "SEO local",
+      "icon": "pin",
+      "subtitle": "Ca și clienții din zona dumneavoastră să vă găsească primii pe Google — nu concurența.",
+      "benefits": [
+        "Profil Google de companie optimizat (Google Maps)",
+        "Strategie de cuvinte-cheie locale",
+        "Administrare recenzii"
+      ],
+      "results": [
+        "Poziție mai bună în căutarea locală și pe hartă",
+        "Mai multe apeluri din apropiere"
+      ],
+      "faq": [
+        {
+          "q": "Pentru cine merită SEO local?",
+          "a": "Pentru orice companie cu locație fizică sau zonă locală de acoperire."
+        },
+        {
+          "q": "Am nevoie de profil Google de companie?",
+          "a": "Da, este baza — îl configurăm corect și îl optimizăm continuu."
+        }
+      ]
+    },
+    "google-ads": {
+      "title": "Google Ads",
+      "icon": "ads",
+      "subtitle": "Reclame plătite care apar exact atunci când cineva vă caută.",
+      "benefits": [
+        "Campanii țintite, fără pierderi",
+        "Control clar al bugetului",
+        "Optimizare continuă"
+      ],
+      "results": [
+        "Vizibilitate imediată, cât timp SEO se construiește",
+        "Cereri previzibile și măsurabile"
+      ],
+      "faq": [
+        {
+          "q": "Cât de mare ar trebui să fie bugetul meu?",
+          "a": "Depinde de industrie și obiective — recomandăm un buget realist la discuția inițială."
+        },
+        {
+          "q": "Cât de repede vin primele cereri?",
+          "a": "Adesea în primele zile după lansarea campaniei."
+        }
+      ]
+    },
+    "meta-ads": {
+      "title": "Reclame Meta",
+      "icon": "meta",
+      "subtitle": "Campanii Facebook și Instagram care ajung exact acolo unde publicul dumneavoastră petrece timpul.",
+      "benefits": [
+        "Targetare precisă după interese și regiune",
+        "Formate creative de reclame",
+        "Testare A/B continuă"
+      ],
+      "results": [
+        "Acoperire mai mare în publicul relevant",
+        "Cereri măsurabile"
+      ],
+      "faq": [
+        {
+          "q": "Instagram sau Facebook — ce e mai bun?",
+          "a": "De obicei ambele împreună, ponderate diferit în funcție de public."
+        },
+        {
+          "q": "Cum se măsoară succesul?",
+          "a": "Prin clicuri, cereri și costul per contact obținut."
+        }
+      ]
+    },
+    "social-media": {
+      "title": "Administrare social media",
+      "icon": "social",
+      "subtitle": "Prezență constantă și profesionistă pe canalele dumneavoastră — fără efort din partea dumneavoastră.",
+      "benefits": [
+        "Plan editorial adaptat mărcii dumneavoastră",
+        "Creare de grafică, texte, videoclipuri scurte",
+        "Administrarea comunității"
+      ],
+      "results": [
+        "Prezență constantă fără timp investit din partea dumneavoastră",
+        "Mai multă interacțiune cu publicul"
+      ],
+      "faq": [
+        {
+          "q": "Cât de des postați?",
+          "a": "În funcție de pachet, de mai multe ori pe săptămână."
+        },
+        {
+          "q": "Trebuie să aprob conținutul?",
+          "a": "Da, primiți planul în avans pentru aprobare."
+        }
+      ]
+    },
+    "branding": {
+      "title": "Branding",
+      "icon": "branding",
+      "subtitle": "O imagine care rămâne în minte și construiește încredere din prima privire.",
+      "benefits": [
+        "Design de logo potrivit poziționării dumneavoastră",
+        "Paletă de culori și tipografie bine gândite",
+        "Ghid de brand unitar"
+      ],
+      "results": [
+        "Prima impresie profesionistă la fiecare punct de contact",
+        "Recunoaștere pe toate canalele"
+      ],
+      "faq": [
+        {
+          "q": "Am deja un logo — pot păstra elemente din el?",
+          "a": "Da, lucrăm și cu elemente existente, dezvoltându-le profesionist."
+        },
+        {
+          "q": "Cât durează un proiect de branding?",
+          "a": "De obicei 2–3 săptămâni, în funcție de amploare."
+        }
+      ]
+    },
+    "content-creation": {
+      "title": "Creare de conținut",
+      "icon": "content",
+      "subtitle": "Texte și conținut care conving — pentru site, blog și newsletter.",
+      "benefits": [
+        "Texte de site optimizate SEO, care și vând",
+        "Articole de blog regulate",
+        "Newslettere care se citesc"
+      ],
+      "results": [
+        "Texte care construiesc încredere",
+        "Poziții mai bune cu conținut de calitate"
+      ],
+      "faq": [
+        {
+          "q": "Scrieți și în maghiară sau germană?",
+          "a": "Da, lucrăm la nivel nativ în germană, maghiară și română."
+        },
+        {
+          "q": "Câte runde de revizuire sunt incluse?",
+          "a": "De obicei două runde, mai multe la cerere."
+        }
+      ]
+    },
+    "crm-automatisierung": {
+      "title": "Automatizare CRM",
+      "icon": "lead",
+      "subtitle": "Capturarea, evaluarea și sortarea automată a contactelor noi în CRM — fără liste Excel manuale.",
+      "benefits": [
+        "Capturare automată a lead-urilor din toate canalele",
+        "Evaluare și prioritizare după calitate",
+        "Conectare perfectă la CRM-ul existent"
+      ],
+      "results": [
+        "Niciun lead nu se mai pierde",
+        "Echipa se concentrează doar pe cele mai bune contacte"
+      ],
+      "faq": [
+        {
+          "q": "Ce sisteme CRM susțineți?",
+          "a": "Sistemele uzuale pot fi conectate — discutați cu noi despre instrumentul concret."
+        },
+        {
+          "q": "Trebuie să am deja un CRM?",
+          "a": "Nu, vă ajutăm și la alegerea sistemului potrivit."
+        }
+      ]
+    },
+    "email-marketing": {
+      "title": "Email marketing",
+      "icon": "mail",
+      "subtitle": "Newslettere și secvențe de e-mail care transformă automat prospecții în clienți.",
+      "benefits": [
+        "Secvențe de e-mail automatizate pentru contacte noi",
+        "Newsletter în tonul mărcii, regulat",
+        "Segmentare după interes"
+      ],
+      "results": [
+        "Prospecți informați automat",
+        "Puncte de contact recurente fără efort manual"
+      ],
+      "faq": [
+        {
+          "q": "Am nevoie de multe contacte ca să merite?",
+          "a": "Nu, funcționează bine chiar și cu o listă mică, dar relevantă."
+        },
+        {
+          "q": "Ce instrument folosiți?",
+          "a": "Ne adaptăm la instrumentele uzuale sau recomandăm unul potrivit."
+        }
+      ]
+    },
+    "ki-automatisierung": {
+      "title": "Automatizare AI",
+      "icon": "workflow",
+      "subtitle": "Automatizare de flux personalizată, care vă conectează instrumentele și preia sarcinile repetitive.",
+      "benefits": [
+        "Conectarea Gmail, CRM, calendar și altele",
+        "Fluxuri automatizate exact după procesul dumneavoastră",
+        "Chatboți AI pentru site și WhatsApp"
+      ],
+      "results": [
+        "Semnificativ mai puțină muncă manuală",
+        "Procese care rulează și în afara programului"
+      ],
+      "faq": [
+        {
+          "q": "Are sens doar pentru companii mari?",
+          "a": "Nu, tocmai echipele mici beneficiază cel mai mult."
+        },
+        {
+          "q": "Cât durează implementarea?",
+          "a": "În funcție de complexitate, 1–3 săptămâni."
+        }
+      ]
+    },
+    "funnel-aufbau": {
+      "title": "Construire de funnel",
+      "icon": "funnel",
+      "subtitle": "Un drum gândit de la primul clic până la programare — nu doar un site informativ.",
+      "benefits": [
+        "Ghidare clară de la reclamă la cerere",
+        "Landing page-uri și secvențe de e-mail coordonate",
+        "Optimizare continuă pe baza datelor reale"
+      ],
+      "results": [
+        "Mai multe cereri din același trafic",
+        "Un sistem, nu măsuri izolate"
+      ],
+      "faq": [
+        {
+          "q": "Care e diferența față de un site normal?",
+          "a": "Un funnel conduce țintit către o acțiune, nu doar informează."
+        },
+        {
+          "q": "Am nevoie de reclame pentru asta?",
+          "a": "Nu neapărat, dar funnel-urile funcționează foarte bine combinate cu reclame."
+        }
+      ]
+    },
+    "landingpages": {
+      "title": "Landing page-uri",
+      "icon": "landing",
+      "subtitle": "Pagini focalizate pe o singură acțiune — perfecte pentru campanii și oferte.",
+      "benefits": [
+        "Structură clară, fără distragere",
+        "Concepute special pentru campanii",
+        "Încărcare rapidă pentru conversie mai bună"
+      ],
+      "results": [
+        "Rată de conversie mai mare decât o pagină generală",
+        "Rezultate mai bune din același buget"
+      ],
+      "faq": [
+        {
+          "q": "Am nevoie de o pagină separată pentru fiecare campanie?",
+          "a": "Ideal da — astfel mesajul se potrivește exact cu reclama."
+        },
+        {
+          "q": "Cât de repede este gata o pagină?",
+          "a": "De obicei în câteva zile."
+        }
+      ]
+    },
+    "conversion-optimierung": {
+      "title": "Optimizare conversii",
+      "icon": "cro",
+      "subtitle": "Mai multe rezultate din traficul pe care îl aveți deja — fără niciun euro în plus la reclame.",
+      "benefits": [
+        "Analiza punctelor unde vizitatorii abandonează",
+        "Îmbunătățirea structurii, textelor și CTA-urilor",
+        "Optimizare continuă bazată pe date"
+      ],
+      "results": [
+        "Mai multe cereri fără buget suplimentar de reclame",
+        "Un site care ghidează mai țintit spre acțiune"
+      ],
+      "faq": [
+        {
+          "q": "Pentru cine merită CRO?",
+          "a": "Pentru orice site cu trafic notabil care nu convertește suficient în prezent."
+        },
+        {
+          "q": "Cât de repede se văd îmbunătățiri?",
+          "a": "Primele efecte adesea după câteva săptămâni, în funcție de volumul de trafic."
+        }
+      ]
+    }
+  },
+  "servicesHub": {
+    "eyebrow": "Toate serviciile",
+    "h1": "Fiecare serviciu în detaliu.",
+    "lead": "De la primul site până la atragerea complet automatizată de clienți — alegeți individual sau ca pachet complet.",
+    "ctaLabel": "Vezi detalii",
+    "detailCtaTitle": "Se potrivește cu proiectul dumneavoastră?",
+    "detailCtaText": "Să clarificăm într-o discuție strategică gratuită cum implementăm asta pentru dumneavoastră.",
+    "detailCtaBtn": "Discuție strategică gratuită",
+    "benefitsTitle": "Avantajele dumneavoastră",
+    "resultsTitle": "Ce obțineți",
+    "faqTitle": "Întrebări frecvente",
+    "processTitle": "Așa decurge colaborarea",
+    "allServices": "Toate serviciile",
+    "backToOverview": "Înapoi la prezentare generală"
+  },
+  "pricingDetail": {
+    "start": {
+      "name": "Pachet Start",
+      "category": "general",
+      "priceModel": "once",
+      "price": "799 €",
+      "setupNote": "Mentenanță opțional: 44 € / lună",
+      "audience": "Pentru fondatori sau companii mici fără prezență online.",
+      "features": [
+        "Site prietenos cu mobilul (1–5 pagini)",
+        "Branding de bază: logo și culori",
+        "Configurarea profilului Google de companie",
+        "Copywriting de bază"
+      ],
+      "faq": [
+        {
+          "q": "Este suficient Pachetul Start pentru o imagine profesionistă?",
+          "a": "Da, acoperă tot ce aveți nevoie pentru o primă prezență online credibilă."
+        },
+        {
+          "q": "Pot trece ulterior la un pachet mai mare?",
+          "a": "Oricând — majoritatea clienților trec ulterior la pachetul Creștere sau Complet."
+        }
+      ]
+    },
+    "wachstum": {
+      "name": "Pachet Creștere",
+      "category": "general",
+      "priceModel": "monthly",
+      "setup": "620 €",
+      "price": "440 €",
+      "audience": "Pentru companii deja stabilite care doresc mai mulți clienți și acoperire.",
+      "features": [
+        "Site profesional",
+        "SEO de bază",
+        "Administrare social media (câteva postări/săptămână)",
+        "1 campanie publicitară pe lună",
+        "Raport lunar scurt de rezultate"
+      ],
+      "faq": [
+        {
+          "q": "Bugetul de reclame este inclus în preț?",
+          "a": "Bugetul de reclame îl plătiți direct către Google/Meta, pachetul include administrarea campaniei."
+        },
+        {
+          "q": "Pot alterna între Google și Meta?",
+          "a": "Da, recomandăm platforma care aduce cele mai bune rezultate pentru industria dumneavoastră."
+        }
+      ]
+    },
+    "komplett": {
+      "name": "Pachet Complet",
+      "category": "general",
+      "badge": "Premium",
+      "priceModel": "monthly",
+      "setup": "890 €",
+      "price": "890 €",
+      "audience": "Pentru companii mai mari care doresc marketing complet, fără efort.",
+      "features": [
+        "Tot din Pachetul Creștere",
+        "Administrare continuă reclame Google & Meta",
+        "Producție regulată de conținut (blog, newsletter)",
+        "1–2 automatizări",
+        "Raport lunar detaliat și discuție strategică"
+      ],
+      "faq": [
+        {
+          "q": "Ce automatizare este inclusă?",
+          "a": "Alegem împreună 1–2 automatizări cu cel mai mare impact în discuția strategică."
+        },
+        {
+          "q": "Este potrivit pentru orice industrie?",
+          "a": "Da, este independent de industrie — pentru extra specifice există pachetele specializate."
+        }
+      ]
+    },
+    "steuerkanzlei": {
+      "name": "Pachet firmă de contabilitate",
+      "category": "industry",
+      "badge": "Recomandat",
+      "priceModel": "monthly",
+      "setup": "710 €",
+      "price": "530 €",
+      "audience": "Pentru firme de contabilitate care doresc clienți noi.",
+      "features": [
+        "Sistem AI de email-uri de prospectare",
+        "Site profesional pentru firme de contabilitate",
+        "Prezență și conținut LinkedIn",
+        "Urmărire automată a prospecților"
+      ],
+      "faq": [
+        {
+          "q": "Cât de repede vin primele cereri?",
+          "a": "De obicei în primele 4–6 săptămâni de la lansarea campaniei."
+        },
+        {
+          "q": "Este conform GDPR prospectarea prin e-mail?",
+          "a": "Da, configurăm campaniile conform normelor pentru contactarea B2B."
+        }
+      ]
+    },
+    "gastronomie": {
+      "name": "Pachet gastronomie",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "530 €",
+      "price": "350 €",
+      "audience": "Pentru restaurante, cafenele și baruri care doresc mai mulți clienți.",
+      "features": [
+        "Site atractiv cu meniu online",
+        "SEO local (optimizare Google Maps)",
+        "Administrare Instagram & Facebook",
+        "Administrare recenzii",
+        "Opțional: integrare rezervări"
+      ],
+      "faq": [
+        {
+          "q": "Este inclusă funcția de rezervare?",
+          "a": "Poate fi integrată opțional, în funcție de sistemul de rezervări dorit."
+        },
+        {
+          "q": "Vă ocupați de recenziile negative?",
+          "a": "Da, formulăm răspunsuri profesioniste în numele dumneavoastră."
+        }
+      ]
+    },
+    "ecommerce": {
+      "name": "Pachet magazin online / e-commerce",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "1.340 €",
+      "price": "620 €",
+      "audience": "Pentru comercianți online care doresc mai multe vânzări.",
+      "features": [
+        "Construirea sau optimizarea magazinului online",
+        "Reclame Google Shopping & Meta",
+        "Automatizare e-mail (coșuri abandonate, newsletter)",
+        "Conținut și descrieri de produse"
+      ],
+      "faq": [
+        {
+          "q": "Ce platforme de magazin susțineți?",
+          "a": "Printre altele Shopify și WooCommerce — vă ajutăm să alegeți varianta potrivită."
+        },
+        {
+          "q": "Este inclusă integrarea plăților?",
+          "a": "Da, cu furnizori uzuali precum Stripe sau PayPal."
+        }
+      ]
+    },
+    "lokale-dienstleister": {
+      "name": "Pachet furnizori locali",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "440 €",
+      "price": "260 €",
+      "audience": "Frizeri, cosmetică, antrenori, meșteșugari — pentru un program plin.",
+      "features": [
+        "Site simplu, optimizat pentru conversii",
+        "Programare online",
+        "SEO Google Maps",
+        "Administrare social media"
+      ],
+      "faq": [
+        {
+          "q": "Programarea este conectată la calendarul meu?",
+          "a": "Da, de exemplu prin Cal.com cu sincronizare Google Calendar."
+        },
+        {
+          "q": "Pentru câte locații este valabil pachetul?",
+          "a": "Pentru o locație — pentru mai multe locații creăm o ofertă individuală."
+        }
+      ]
+    },
+    "immobilien": {
+      "name": "Pachet imobiliare",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "620 €",
+      "price": "440 €",
+      "audience": "Pentru agenți imobiliari care doresc prospecți calificați.",
+      "features": [
+        "Site cu listă de proprietăți",
+        "Landing page pentru lead-uri",
+        "Urmărire e-mail bazată pe AI",
+        "Reclame Meta"
+      ],
+      "faq": [
+        {
+          "q": "Pot introduce singur proprietățile?",
+          "a": "Da, printr-un sistem ușor de utilizat."
+        },
+        {
+          "q": "Cum sunt urmăriți prospecții?",
+          "a": "Automatizat, printr-o secvență de e-mail adaptată statusului prospectului."
+        }
+      ]
+    },
+    "b2b-experten": {
+      "name": "Pachet B2B / experți",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "620 €",
+      "price": "530 €",
+      "audience": "Avocați, consultanți, agenții — pentru cereri calificate constante.",
+      "features": [
+        "Site profesional, care inspiră încredere",
+        "Conținut LinkedIn",
+        "Campanie de e-mail rece bazată pe AI",
+        "Studii de caz și blog"
+      ],
+      "faq": [
+        {
+          "q": "Merită și pentru firme mici de consultanță?",
+          "a": "Da, tocmai echipele mici beneficiază cel mai mult, deoarece automatizarea compensează lipsa capacității de vânzări."
+        },
+        {
+          "q": "Cum se definește publicul țintă pentru e-mailurile reci?",
+          "a": "Împreună, în discuția strategică, pe baza profilului dumneavoastră ideal de client."
+        }
+      ]
+    }
+  },
+  "pricingHub": {
+    "eyebrow": "Prețuri & pachete",
+    "h1": "Fiecare pachet în detaliu.",
+    "lead": "Pachete transparente pentru fiecare etapă a creșterii dumneavoastră — generale sau specifice industriei. Toate prețurile sunt fără TVA legal.",
+    "generalTitle": "Niveluri generale",
+    "industryTitle": "Pachete specifice industriei",
+    "ctaLabel": "Vezi detalii",
+    "featuresTitle": "Ce include",
+    "audienceTitle": "Pentru cine este potrivit",
+    "faqTitle": "Întrebări frecvente",
+    "detailCtaTitle": "Vi se potrivește acest pachet?",
+    "detailCtaText": "Să clarificăm într-o discuție strategică gratuită dacă acest pachet — sau o adaptare personalizată — este potrivit pentru dumneavoastră.",
+    "detailCtaBtn": "Discuție strategică gratuită",
+    "backToOverview": "Înapoi la prezentarea prețurilor",
+    "monthlyLabel": "/ lună",
+    "onceLabel": "o singură dată",
+    "setupLabel": "Configurare (o singură dată)"
+  },
+  "casesDetail": {
+    "ki-telefonassistent": {
+      "cat": "Scenariu exemplu · Asistent telefonic AI",
+      "title": "Niciun apel nu se mai pierde",
+      "challenge": "Notă: un exemplu ilustrativ, nu un caz real de client. Multe firme mici nu pot răspunde la telefon în timpul lucrului — și fiecare apel pierdut este o posibilă comandă pierdută, fiindcă apelanții sună adesea direct la următorul furnizor.",
+      "strategy": "Un asistent telefonic AI preia apelurile care altfel ar rămâne fără răspuns: se prezintă în numele firmei, notează numele, numărul și solicitarea, programează la nevoie o întâlnire direct în calendar și transmite imediat cazurile urgente. La începutul convorbirii se menționează transparent că este un asistent digital — conform DSGVO.",
+      "executionSteps": [
+        "Configurarea unei redirecționări condiționate a apelurilor (ocupat, fără răspuns sau în afara programului)",
+        "Ghid de convorbire personalizat pe tonul firmei, cu mențiunea DSGVO",
+        "Conectarea la calendar pentru programare automată",
+        "Notificare imediată prin SMS, e-mail sau WhatsApp după fiecare apel"
+      ],
+      "kpis": [
+        {
+          "b": "24/7",
+          "s": "disponibil"
+        },
+        {
+          "b": "Auto",
+          "s": "programări"
+        },
+        {
+          "b": "Imediat",
+          "s": "notificare"
+        }
+      ]
+    },
+    "website-lokale-sichtbarkeit": {
+      "cat": "Scenariu exemplu · Site și vizibilitate locală",
+      "title": "Să fiți găsit online",
+      "challenge": "Notă: un exemplu ilustrativ, nu un caz real de client. O firmă cu reputație bună local este aproape invizibilă online — în căutarea locală apar aproape numai concurenții.",
+      "strategy": "Accentul cade pe vizibilitatea locală, nu pe reclama scumpă: un site rapid și prietenos cu mobilul, un profil Google de firmă complet optimizat și SEO local, plus gestionarea activă a recenziilor — astfel încât clienții să găsească firma direct în rezultatele căutării.",
+      "executionSteps": [
+        "Site nou, rapid, cu structură clară și modalități simple de contact",
+        "Profil Google de firmă complet optimizat (fotografii, categorii, program)",
+        "Strategie de cuvinte-cheie locale pentru regiune",
+        "Răspuns sistematic la recenzii"
+      ],
+      "kpis": [
+        {
+          "b": "SEO",
+          "s": "optimizat local"
+        },
+        {
+          "b": "Google",
+          "s": "profil de firmă"
+        },
+        {
+          "b": "DE·HU·RO",
+          "s": "multilingv"
+        }
+      ]
+    }
+  },
+  "casesHub": {
+    "eyebrow": "Exemple de utilizare",
+    "h1": "Cum ar putea arăta automatizarea la dvs.",
+    "lead": "Scenarii ilustrative despre cum funcționează sistemele noastre în practică — nu cazuri reale de clienți, ci ilustrări sincere ale a ceea ce este posibil.",
+    "ctaLabel": "Vezi exemplul",
+    "challengeTitle": "Situație",
+    "strategyTitle": "Soluție",
+    "executionTitle": "Implementare",
+    "resultsTitle": "Ce face sistemul",
+    "detailCtaTitle": "Se potrivește companiei dvs.?",
+    "detailCtaText": "Haideți să discutăm într-o consultație gratuită cum ar arăta concret un astfel de sistem pentru dvs.",
+    "detailCtaBtn": "Consultație gratuită",
+    "backToOverview": "Înapoi la toate exemplele",
+    "otherCasesTitle": "Alte exemple",
+    "resultsIntro": "Ce face pentru dvs. un astfel de sistem — descris ca funcție, nu ca cifră promisă:"
+  },
+  "about": {
+    "eyebrow": "Despre noi",
+    "h1": "Marketing întâlnește automatizarea — de la bun început.",
+    "lead": "Clever Way Media a fost fondată în 2022 în România, pornind de la o observație simplă: majoritatea companiilor se confruntă fie cu marketing învechit, fie cu lipsă de timp pentru atragerea de clienți — rareori cu ambele rezolvate simultan.",
+    "storyTitle": "Cum a început totul",
+    "storyP1": "Fondată în 2022 în România, Clever Way Media s-a specializat de la început pe o combinație rar întâlnită la agențiile clasice: meșteșugul marketingului și automatizarea bazată pe AI, sub același acoperiș.",
+    "storyP2": "Ceea ce a început cu proiecte individuale de site-uri și marketing a crescut rapid într-o ofertă care economisește timp în mod țintit și aduce clienți noi în mod previzibil — prin sisteme care rulează în fundal, nu prin muncă manuală individuală.",
+    "storyP3": "Astăzi lucrăm cu companii din Germania, Ungaria și România — de fiecare dată în limba țării respective, cu aceeași exigență: marketing onest, care chiar funcționează.",
+    "valuesTitle": "Ce prețuim",
+    "values": [
+      {
+        "title": "Marketing onest",
+        "text": "Fără recenzii inventate, fără cifre inventate, fără urgență artificială. Ce arătăm este real — chiar dacă asta înseamnă să lucrăm cu mai puține cifre, până apar cele reale."
+      },
+      {
+        "title": "Sisteme, nu muncă în plus",
+        "text": "Construim automatizări care vă ușurează procesele existente, nu vă adaugă instrumente și sarcini suplimentare."
+      },
+      {
+        "title": "Orientați spre rezultate",
+        "text": "Fiecare proiect începe cu întrebarea: ce aduce concret mai mulți clienți sau mai mult timp pentru această companie?"
+      },
+      {
+        "title": "Înrădăcinați regional, trilingvi",
+        "text": "Lucrăm în Germania, Ungaria și România — și comunicăm cu fiecare client în limba proprie, nu printr-o traducere."
+      }
+    ],
+    "teamTitle": "Cum lucrăm",
+    "teamText": "Clever Way Media este o echipă suplă, specializată — construită în mod deliberat astfel încât fiecare client să aibă contact direct, personal, în loc să se piardă într-un aparat mare de agenție.",
+    "marketsTitle": "Piețele noastre",
+    "markets": [
+      "Germania",
+      "Ungaria",
+      "România"
+    ],
+    "ctaTitle": "Cunoașteți-ne.",
+    "ctaText": "Cea mai bună impresie despre noi o obțineți dintr-o discuție scurtă, fără obligații — nu dintr-o pagină Despre noi.",
+    "ctaBtn": "Discuție strategică gratuită"
+  },
+  "blogDetail": {
+    "website-kosten-2026": {
+      "category": "Prețuri & buget",
+      "title": "Costuri site web 2026: Cât costă cu adevărat un site profesional?",
+      "description": "Intervale de preț realiste în 2026 pentru un site de companie — de la pagina simplă de prezentare până la pachetul complet automatizat.",
+      "excerpt": "Răspunsul onest la întrebarea pe care aproape toată lumea o pune înainte de a angaja o agenție.",
+      "date": "2026-01-14",
+      "readMin": 4,
+      "body": [
+        {
+          "type": "p",
+          "text": "Întrebarea \"cât costă un site\" nu are un singur răspuns — dar există intervale realiste de care vă puteți orienta."
+        },
+        {
+          "type": "h2",
+          "text": "Ce influențează prețul"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Amploare: 3 pagini vs. un magazin cu sute de produse",
+            "Personalizare: șablon vs. design complet personalizat",
+            "Funcții suplimentare: programări, multilingvism, automatizare"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Intervale realiste de preț"
+        },
+        {
+          "type": "p",
+          "text": "Pentru un site simplu, cu 1–5 pagini, ofertele serioase se situează de obicei între 700 € și 1.500 € o singură dată. Pentru magazine online sau administrare continuă (SEO, conținut, reclame), modelele lunare între 250 € și 900 € sunt uzuale."
+        },
+        {
+          "type": "p",
+          "text": "La Clever Way Media, proiectele de site pornesc de la 799 € o singură dată pentru Pachetul Start, defalcat transparent, fără costuri ascunse."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Un site ieftin este un site prost?",
+          "a": "Nu neapărat, dar ofertele foarte ieftine sunt adesea șabloane nemodificate, fără o strategie reală în spate."
+        },
+        {
+          "q": "Merită plata lunară față de plata unică?",
+          "a": "Dacă include administrare continuă (SEO, conținut, reclame), da — atunci plătiți pentru muncă continuă."
+        }
+      ],
+      "relatedServiceSlug": "webdesign",
+      "relatedPackageSlug": "start"
+    },
+    "steuerkanzlei-mandanten-gewinnen": {
+      "category": "Firme de contabilitate",
+      "title": "Atragerea de clienți ca firmă de contabilitate: 5 metode care chiar funcționează în 2026",
+      "description": "Cum pot firmele de contabilitate să atragă clienți noi în mod previzibil — fără să depindă doar de recomandări întâmplătoare.",
+      "excerpt": "Recomandările singure rareori sunt suficiente pentru creștere. Cinci abordări concrete, aplicabile.",
+      "date": "2026-02-03",
+      "readMin": 5,
+      "body": [
+        {
+          "type": "p",
+          "text": "Majoritatea firmelor de contabilitate cresc prin recomandări — un model care a funcționat mult timp, dar greu de scalat."
+        },
+        {
+          "type": "h2",
+          "text": "Cele cinci elemente cheie"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Un site care construiește încredere înainte de primul apel",
+            "Contactare țintită, automatizată, în loc de prospectare manuală la rece",
+            "Prezență LinkedIn regulată, de specialitate",
+            "SEO local pentru vizibilitate regională",
+            "Urmărire automată, astfel încât niciun prospect să nu se piardă"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Aceste cinci elemente formează împreună Pachetul pentru firme de contabilitate al Clever Way Media — implementabil ca sistem complet sau individual."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Este conform GDPR prospectarea automatizată prin e-mail?",
+          "a": "Da, configurăm campaniile conform normelor pentru contactarea B2B."
+        },
+        {
+          "q": "Cât de repede apar rezultatele?",
+          "a": "Primele cereri suplimentare apar adesea în 4–6 săptămâni."
+        }
+      ],
+      "relatedServiceSlug": "ki-automatisierung",
+      "relatedPackageSlug": "steuerkanzlei"
+    },
+    "seo-oder-google-ads": {
+      "category": "Strategie de marketing",
+      "title": "SEO sau Google Ads: Ce merită mai mult pentru companiile mici?",
+      "description": "Comparația onestă între SEO și Google Ads pentru companiile mici și mijlocii.",
+      "excerpt": "Cea mai frecventă întrebare de marketing — și de ce răspunsul este de obicei \"ambele, dar în momente diferite\".",
+      "date": "2026-02-20",
+      "readMin": 4,
+      "body": [
+        {
+          "type": "h2",
+          "text": "Google Ads: rapid, dar cu plată continuă"
+        },
+        {
+          "type": "p",
+          "text": "Google Ads aduce vizibilitate din prima zi. Odată ce bugetul se oprește, dispare și vizibilitatea — ideal pentru rezultate rapide."
+        },
+        {
+          "type": "h2",
+          "text": "SEO: start mai lent, dar efect durabil"
+        },
+        {
+          "type": "p",
+          "text": "SEO are nevoie de timp — adesea 3-6 luni pentru efecte vizibile. În schimb, vizibilitatea rămâne și fără buget continuu."
+        },
+        {
+          "type": "p",
+          "text": "În practică, combinația funcționează cel mai bine: Google Ads pentru rezultate imediate, în timp ce SEO se construiește în fundal."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Pot face ambele cu un buget mic?",
+          "a": "Da, adesea are sens să începeți cu un buget Ads mai mic, construind în paralel bazele SEO."
+        },
+        {
+          "q": "Cât durează până SEO poate înlocui Google Ads?",
+          "a": "În funcție de industrie și concurență, realist 6-12 luni."
+        }
+      ],
+      "relatedServiceSlug": "seo",
+      "relatedPackageSlug": "wachstum"
+    },
+    "ki-automatisierung-einstieg": {
+      "category": "AI & automatizare",
+      "title": "Automatizare AI pentru companii mici: De unde ar trebui să începeți cu adevărat",
+      "description": "Automatizarea AI sună complex, dar nu trebuie să fie. Trei puncte de pornire cu cel mai mare impact.",
+      "excerpt": "Nu orice automatizare are aceeași valoare. Aceste trei domenii aduc cel mai rapid beneficiu vizibil.",
+      "date": "2026-03-05",
+      "readMin": 4,
+      "body": [
+        {
+          "type": "h2",
+          "text": "1. Atragere automatizată de clienți"
+        },
+        {
+          "type": "p",
+          "text": "În loc să scrieți manual e-mailuri, AI preia contactarea personalizată a clienților potențiali — în fundal, fără efort din partea echipei."
+        },
+        {
+          "type": "h2",
+          "text": "2. Calificare lead-uri și conectare CRM"
+        },
+        {
+          "type": "p",
+          "text": "Cererile noi sunt evaluate și prioritizate automat, astfel echipa se ocupă mai întâi de cele mai promițătoare."
+        },
+        {
+          "type": "h2",
+          "text": "3. Chatbot AI pentru întrebări frecvente"
+        },
+        {
+          "type": "p",
+          "text": "O mare parte din întrebările primite se repetă — un chatbot răspunde imediat, chiar și în afara programului."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Am nevoie de cunoștințe tehnice?",
+          "a": "Nu, ne ocupăm noi de configurare, dumneavoastră folosiți apoi un sistem gata construit."
+        },
+        {
+          "q": "Funcționează cu instrumentele mele existente?",
+          "a": "De obicei da, practic orice instrument uzual cu interfață poate fi conectat."
+        }
+      ],
+      "relatedServiceSlug": "ki-automatisierung",
+      "relatedPackageSlug": "komplett"
+    },
+    "local-seo-checkliste": {
+      "category": "Companii locale",
+      "title": "Checklist SEO local: Așa sunteți găsit pe Google Maps",
+      "description": "Un checklist practic pentru restaurante, meșteșugari și furnizori locali pentru o vizibilitate locală mai bună.",
+      "excerpt": "Majoritatea companiilor locale își folosesc profilul Google doar pe jumătate. Această listă arată ce contează cu adevărat.",
+      "date": "2026-03-22",
+      "readMin": 4,
+      "body": [
+        {
+          "type": "h2",
+          "text": "Cele mai importante puncte"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Profil Google complet, cu categorie, adresă și program corecte",
+            "Fotografii recente, de calitate",
+            "Date consistente pe toate platformele",
+            "Răspuns activ la recenzii",
+            "Cuvinte-cheie locale pe site"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Cel mai subestimat punct: numărul și prospețimea recenziilor influențează atât clasarea, cât și decizia persoanei care caută."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Cât de repede acționează SEO local?",
+          "a": "Adesea mai repede decât SEO clasic — primele îmbunătățiri apar în câteva săptămâni."
+        },
+        {
+          "q": "Este suficient doar profilul Google optimizat?",
+          "a": "Este baza cea mai importantă, dar funcționează cel mai bine combinat cu un site optimizat local."
+        }
+      ],
+      "relatedServiceSlug": "local-seo",
+      "relatedPackageSlug": "gastronomie"
+    },
+    "social-media-kosten": {
+      "category": "Prețuri & buget",
+      "title": "Cât costă administrarea social media? Prețuri realiste",
+      "description": "Cât costă cu adevărat administrarea profesionistă de social media — și de ce depinde prețul.",
+      "excerpt": "Între ofertele freelancer la 0 € și retainerele de agenție cu cinci cifre este o diferență uriașă.",
+      "date": "2026-04-02",
+      "readMin": 4,
+      "body": [
+        {
+          "type": "h2",
+          "text": "Ce influențează prețul"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Numărul de postări pe săptămână",
+            "Numărul de platforme administrate",
+            "Dacă se creează material foto/video propriu sau se folosește cel existent",
+            "Dacă administrarea comunității este inclusă",
+            "Dacă rulează și reclame plătite"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Pentru o administrare de bază solidă cu câteva postări pe săptămână, prețurile lunare serioase se situează între 250 € și 500 €. Pachetele mai ample cu producție de conținut și administrarea comunității ajung adesea la 500–900 € lunar."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Am nevoie de material foto propriu?",
+          "a": "Ajută, dar nu este obligatoriu — lucrăm și cu materialul existent, completându-l la nevoie."
+        },
+        {
+          "q": "Bugetul de reclame este inclus în preț?",
+          "a": "Nu, acesta se plătește direct către platformă — prețul acoperă munca, nu bugetul de reclame."
+        }
+      ],
+      "relatedServiceSlug": "social-media",
+      "relatedPackageSlug": "wachstum"
+    }
+  },
+  "blogHub": {
+    "eyebrow": "Blog",
+    "h1": "Cunoștințe practice, nu fraze de marketing.",
+    "lead": "Răspunsuri la întrebările pe care companiile chiar și le pun înainte de a decide asupra marketingului și automatizării.",
+    "ctaLabel": "Citește articolul",
+    "readMoreLabel": "Continuă lectura",
+    "readMinLabel": "min. de citit",
+    "backToOverview": "Înapoi la blog",
+    "relatedServiceTitle": "Serviciu relevant",
+    "relatedPackageTitle": "Pachet relevant",
+    "ctaTitle": "Aveți întrebări despre situația dumneavoastră?",
+    "ctaText": "Să discutăm într-o discuție strategică gratuită ce are sens pentru compania dumneavoastră.",
+    "ctaBtn": "Discuție strategică gratuită",
+    "faqTitle": "Întrebări frecvente"
+  }
+}
