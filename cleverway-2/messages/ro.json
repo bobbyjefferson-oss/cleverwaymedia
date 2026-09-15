@@ -461,11 +461,11 @@
   "legal": {
     "impressum": {
       "title": "Impressum",
-      "intro": "Informații obligatorii conform § 5 TMG (Germania). Vă rugăm completați datele lipsă (nume complet, adresă, eventual registrul comerțului, CUI) înainte de lansare.",
+      "intro": "Informații conform § 5 DDG (Germania).",
       "sections": [
         {
           "h": "Furnizor",
-          "p": "Clever Way Media\n[Nume complet / denumire firmă]\n[Stradă, număr]\n[Cod poștal, localitate]\n[Țară]"
+          "p": "Marwan Bouabid\nClever Way Media\nBrucknerstraße 13\n38226 Salzgitter\nGermania"
         },
         {
           "h": "Contact",
@@ -473,11 +473,11 @@
         },
         {
           "h": "Cod TVA",
-          "p": "[Dacă este cazul: cod TVA UE]"
+          "p": "Se va completa după finalizarea înregistrării firmei (Gewerbeanmeldung)."
         },
         {
           "h": "Responsabil pentru conținut",
-          "p": "[Nume]"
+          "p": "Marwan Bouabid\nBrucknerstraße 13\n38226 Salzgitter"
         },
         {
           "h": "Soluționarea litigiilor",
@@ -491,7 +491,7 @@
       "sections": [
         {
           "h": "Operator",
-          "p": "Clever Way Media, [adresă de introdus]. Contact: cleverwaymedia@gmail.com"
+          "p": "Marwan Bouabid – Clever Way Media, Brucknerstraße 13, 38226 Salzgitter. Contact: cleverwaymedia@gmail.com"
         },
         {
           "h": "Formular de contact & e-mail",

@@ -461,11 +461,11 @@
   "legal": {
     "impressum": {
       "title": "Impressum",
-      "intro": "Angaben gemäß § 5 TMG. Bitte ergänzen Sie die fehlenden Pflichtangaben (vollständiger Name, Anschrift, ggf. Handelsregister, USt-IdNr.), bevor die Seite live geht.",
+      "intro": "Angaben gemäß § 5 DDG.",
       "sections": [
         {
           "h": "Anbieter",
-          "p": "Clever Way Media\n[Vollständiger Name / Firmenname]\n[Straße, Hausnummer]\n[PLZ, Ort]\n[Land]"
+          "p": "Marwan Bouabid\nClever Way Media\nBrucknerstraße 13\n38226 Salzgitter\nDeutschland"
         },
         {
           "h": "Kontakt",
@@ -473,11 +473,11 @@
         },
         {
           "h": "Umsatzsteuer-ID",
-          "p": "[Falls vorhanden: USt-IdNr. gemäß §27a UStG]"
+          "p": "Wird nach Abschluss der Gewerbeanmeldung ergänzt."
         },
         {
           "h": "Verantwortlich für den Inhalt",
-          "p": "[Name gemäß § 55 Abs. 2 RStV]"
+          "p": "Marwan Bouabid\nBrucknerstraße 13\n38226 Salzgitter"
         },
         {
           "h": "Streitschlichtung",
@@ -491,7 +491,7 @@
       "sections": [
         {
           "h": "Verantwortlicher",
-          "p": "Clever Way Media, [Anschrift einfügen]. Kontakt: cleverwaymedia@gmail.com"
+          "p": "Marwan Bouabid – Clever Way Media, Brucknerstraße 13, 38226 Salzgitter. Kontakt: cleverwaymedia@gmail.com"
         },
         {
           "h": "Kontaktformular & E-Mail",

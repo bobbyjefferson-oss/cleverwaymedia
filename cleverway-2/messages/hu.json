@@ -461,11 +461,11 @@
   "legal": {
     "impressum": {
       "title": "Impresszum",
-      "intro": "A német TMG § 5 szerinti kötelező adatok. Kérjük, egészítse ki a hiányzó adatokat (teljes név, cím, adott esetben cégjegyzékszám, adószám), mielőtt az oldal élesedik.",
+      "intro": "Adatok a német § 5 DDG szerint.",
       "sections": [
         {
           "h": "Szolgáltató",
-          "p": "Clever Way Media\n[Teljes név / cégnév]\n[Utca, házszám]\n[Irányítószám, város]\n[Ország]"
+          "p": "Marwan Bouabid\nClever Way Media\nBrucknerstraße 13\n38226 Salzgitter\nNémetország"
         },
         {
           "h": "Kapcsolat",
@@ -473,11 +473,11 @@
         },
         {
           "h": "Adószám",
-          "p": "[Ha releváns: EU-s adószám]"
+          "p": "A Gewerbeanmeldung befejezése után kerül kiegészítésre."
         },
         {
           "h": "Tartalomért felelős",
-          "p": "[Név]"
+          "p": "Marwan Bouabid\nBrucknerstraße 13\n38226 Salzgitter"
         },
         {
           "h": "Vitarendezés",
@@ -491,7 +491,7 @@
       "sections": [
         {
           "h": "Adatkezelő",
-          "p": "Clever Way Media, [cím beillesztése]. Kapcsolat: cleverwaymedia@gmail.com"
+          "p": "Marwan Bouabid – Clever Way Media, Brucknerstraße 13, 38226 Salzgitter. Kapcsolat: cleverwaymedia@gmail.com"
         },
         {
           "h": "Kapcsolatfelvételi űrlap & e-mail",

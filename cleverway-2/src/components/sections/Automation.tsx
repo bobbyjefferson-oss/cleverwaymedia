@@ -41,7 +41,7 @@ export default function Automation() {
           <span className="eyebrow">{t('eyebrow')}</span>
           <h2 className="h-lg">{t('h2a')} <span className="gold-text">{t('goldWord')}</span></h2>
           <p className="lead" style={{ marginTop: 20 }}>
-            {t('leadPre')} <span className="hl">{t('leadHl')}</span> {t('leadPost')}
+            {t('leadPre')} <span className="hl">{t('leadHl')}</span>{t('leadPost')}
           </p>
         </Reveal>
 
