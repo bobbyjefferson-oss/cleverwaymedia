@@ -472,8 +472,8 @@
           "p": "E-mail: cleverwaymedia@gmail.com"
         },
         {
-          "h": "Cod TVA",
-          "p": "Se va completa după finalizarea înregistrării firmei (Gewerbeanmeldung)."
+          "h": "TVA",
+          "p": "Kleinunternehmer conform § 19 UStG (Germania) – nu se percepe TVA."
         },
         {
           "h": "Responsabil pentru conținut",
@@ -1551,5 +1551,8 @@
     "ctaText": "Să discutăm într-o discuție strategică gratuită ce are sens pentru compania dumneavoastră.",
     "ctaBtn": "Discuție strategică gratuită",
     "faqTitle": "Întrebări frecvente"
+  },
+  "ui": {
+    "more": "Vezi mai mult"
   }
 }

@@ -472,8 +472,8 @@
           "p": "E-Mail: cleverwaymedia@gmail.com"
         },
         {
-          "h": "Umsatzsteuer-ID",
-          "p": "Wird nach Abschluss der Gewerbeanmeldung ergänzt."
+          "h": "Umsatzsteuer",
+          "p": "Kleinunternehmer gemäß § 19 UStG – es wird keine Umsatzsteuer ausgewiesen."
         },
         {
           "h": "Verantwortlich für den Inhalt",
@@ -1724,5 +1724,8 @@
     "ctaText": "Lassen Sie uns in einem kostenlosen Strategiegespräch besprechen, was für Ihr Unternehmen sinnvoll ist.",
     "ctaBtn": "Kostenloses Strategiegespräch",
     "faqTitle": "Häufige Fragen"
+  },
+  "ui": {
+    "more": "Mehr anzeigen"
   }
 }

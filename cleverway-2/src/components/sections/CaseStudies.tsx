@@ -7,6 +7,7 @@ type Case = { cat: string; title: string; text: string; kpis: Kpi[]; slug: strin
 
 export default function CaseStudies() {
   const t = useTranslations('cases');
+  const tu = useTranslations('ui');
   const locale = useLocale();
   const items = t.raw('items') as Case[];
 
@@ -19,7 +20,8 @@ export default function CaseStudies() {
           <p className="lead" style={{ marginTop: 18 }}>{t('lead')}</p>
         </Reveal>
 
-        <div className="work-grid">
+        <input type="checkbox" id="more-referenzen" className="m-toggle" aria-hidden="true" />
+        <div className="work-grid m-collapse">
           {items.map((c, i) => (
             <Reveal as="article" className="case" key={i} delay={i * 0.1}>
               <div className="case__top">
@@ -43,6 +45,7 @@ export default function CaseStudies() {
             </Reveal>
           ))}
         </div>
+        <label htmlFor="more-referenzen" className="m-more">{tu('more')}</label>
 
         <Reveal style={{ textAlign: 'center', marginTop: 20 }}>
           <Link href={`/${locale}/referenzen`} className="btn btn--dark">

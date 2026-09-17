@@ -447,3 +447,21 @@
   .float{position:fixed;right:22px;bottom:22px;z-index:50;transform:translateY(140%);transition:transform .5s var(--ease)}
   .float.show{transform:none}
   @media(max-width:940px){.float{right:16px;bottom:16px}}
+
+  /* ===== Mobile: collapse long grids to 1 item + "show more" ===== */
+  .m-toggle{ display:none; }
+  .m-more{ display:none; }
+  @media (max-width:600px){
+    .m-collapse{ grid-template-columns:1fr !important; }
+    .m-toggle:not(:checked) ~ .m-collapse > *:nth-child(n+2){ display:none !important; }
+    .m-more{
+      display:flex; align-items:center; justify-content:center; gap:8px;
+      width:100%; margin-top:16px; padding:14px 22px; cursor:pointer;
+      border:1px solid rgba(140,140,140,.35); border-radius:100px;
+      font-weight:600; font-size:14px; letter-spacing:.02em;
+      background:transparent; color:inherit; -webkit-tap-highlight-color:transparent;
+    }
+    .m-more::after{ content:"\25be"; font-size:12px; opacity:.7; }
+    .m-toggle:checked ~ .m-more{ display:none; }
+  }
+

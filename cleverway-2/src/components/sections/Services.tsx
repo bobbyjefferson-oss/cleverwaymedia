@@ -18,6 +18,7 @@ const ICONS: Record<string, React.ReactNode> = {
 
 export default function Services() {
   const t = useTranslations('services');
+  const tu = useTranslations('ui');
   const locale = useLocale();
   const items = t.raw('items') as Item[];
 
@@ -35,7 +36,8 @@ export default function Services() {
 
         <div className="svc-group">
           <Reveal className="svc-group__title">{t('groupTitle')}</Reveal>
-          <div className="svc-grid">
+          <input type="checkbox" id="more-leistungen" className="m-toggle" aria-hidden="true" />
+          <div className="svc-grid m-collapse">
             {items.map((it, i) => (
               <Reveal as="article" className="svc" key={it.id} delay={(i % 3) * 0.08}>
                 <div className="svc__ico">
@@ -48,6 +50,7 @@ export default function Services() {
               </Reveal>
             ))}
           </div>
+          <label htmlFor="more-leistungen" className="m-more">{tu('more')}</label>
         </div>
 
         <Reveal className="svc-note">

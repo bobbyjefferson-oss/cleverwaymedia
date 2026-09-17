@@ -472,8 +472,8 @@
           "p": "E-mail: cleverwaymedia@gmail.com"
         },
         {
-          "h": "Adószám",
-          "p": "A Gewerbeanmeldung befejezése után kerül kiegészítésre."
+          "h": "Áfa",
+          "p": "Kleinunternehmer a német § 19 UStG szerint – áfát nem számítunk fel."
         },
         {
           "h": "Tartalomért felelős",
@@ -1551,5 +1551,8 @@
     "ctaText": "Beszéljük meg egy ingyenes stratégiai beszélgetésen, mi lenne értelmes az Ön vállalkozásának.",
     "ctaBtn": "Ingyenes stratégiai beszélgetés",
     "faqTitle": "Gyakori kérdések"
+  },
+  "ui": {
+    "more": "Tovább"
   }
 }

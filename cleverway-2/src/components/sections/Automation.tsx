@@ -30,6 +30,7 @@ function Ico({ id, size = 22 }: { id: string; size?: number }) {
 
 export default function Automation() {
   const t = useTranslations('automation');
+  const tu = useTranslations('ui');
   const tiles = t.raw('tiles') as Tile[];
   const stats = t.raw('stats') as { value: string; label: string }[];
 
@@ -45,7 +46,8 @@ export default function Automation() {
           </p>
         </Reveal>
 
-        <div className="bento">
+        <input type="checkbox" id="more-ki" className="m-toggle" aria-hidden="true" />
+        <div className="bento m-collapse">
           {tiles.map((tile, i) => (
             <Reveal
               key={tile.id}
@@ -72,6 +74,7 @@ export default function Automation() {
             </a>
           </Reveal>
         </div>
+        <label htmlFor="more-ki" className="m-more">{tu('more')}</label>
 
         <Reveal className="auto__foot">
           <div className="auto__stats">
