@@ -258,10 +258,16 @@
   /* ============================ PROCESS ============================ */
   .steps{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
   @media(max-width:860px){.steps{grid-template-columns:repeat(2,1fr)}}
-  @media(max-width:480px){.steps{grid-template-columns:1fr}}
-  .step{padding:28px 24px;border:1px solid var(--line);border-radius:var(--r);background:var(--card);position:relative}
+  @media(max-width:480px){
+    .steps{grid-template-columns:repeat(2,1fr);gap:12px}
+    .step{padding:18px 15px}
+    .step__n{font-size:.92rem}
+    .step h3{font-size:1rem;margin:11px 0 7px;letter-spacing:-.01em}
+    .step p{font-size:12.5px;line-height:1.45}
+  }
+  .step{padding:28px 24px;border:1px solid var(--line);border-radius:var(--r);background:var(--card);position:relative;min-width:0;overflow-wrap:break-word;word-break:break-word;hyphens:auto}
   .step__n{font-family:var(--serif);font-size:1rem;color:var(--gold-2);letter-spacing:.1em}
-  .step h3{font-size:1.2rem;margin:18px 0 10px}
+  .step h3{font-size:1.2rem;margin:18px 0 10px;overflow-wrap:break-word;hyphens:auto}
   .step p{font-size:14px;color:var(--muted)}
 
   /* ============================ WORK / CASE ============================ */
