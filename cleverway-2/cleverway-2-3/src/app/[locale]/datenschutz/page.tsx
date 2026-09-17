@@ -1,0 +1,26 @@
+import { getTranslations, setRequestLocale } from 'next-intl/server';
+import type { Locale } from '@/i18n/routing';
+import Nav from '@/components/Nav';
+import Footer from '@/components/Footer';
+import LegalPage from '@/components/LegalPage';
+
+export async function generateMetadata({ params }: { params: { locale: Locale } }) {
+  const t = await getTranslations({ locale: params.locale, namespace: 'legal.datenschutz' });
+  return { title: `${t('title')} — Clever Way Media`, robots: { index: true, follow: true } };
+}
+
+export default async function DatenschutzPage({ params }: { params: { locale: Locale } }) {
+  setRequestLocale(params.locale);
+  const t = await getTranslations({ locale: params.locale, namespace: 'legal.datenschutz' });
+  const sections = t.raw('sections') as { h: string; p: string }[];
+
+  return (
+    <>
+      <Nav />
+      <main>
+        <LegalPage title={t('title')} intro={t('intro')} sections={sections} />
+      </main>
+      <Footer />
+    </>
+  );
+}
