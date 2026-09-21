@@ -1,6 +1,6 @@
 export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.cleverwaymedia.de';
 export const SITE_NAME = 'Clever Way Media';
-export const CONTACT_EMAIL = 'cleverwaymedia@gmail.com';
+export const CONTACT_EMAIL = 'info@cleverwaymedia.de';
 
 // Central place to swap in your real booking + form endpoints later.
 export const BOOKING_URL = process.env.NEXT_PUBLIC_BOOKING_URL ?? 'https://cal.eu/cleverwaymedia';
