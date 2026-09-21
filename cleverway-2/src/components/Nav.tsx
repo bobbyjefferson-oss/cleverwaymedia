@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import { usePathname } from 'next/navigation';
 import { useLocale, useTranslations } from 'next-intl';
 import { locales } from '@/i18n/routing';
+import { CONTACT_EMAIL } from '@/lib/site';
 
 const SECTIONS = ['leistungen', 'ki', 'referenzen', 'preise', 'faq', 'kontakt'] as const;
 
@@ -67,24 +68,59 @@ export default function Nav() {
 
           <button
             className="burger"
-            aria-label="Menü öffnen"
+            aria-label={open ? 'Menü schließen' : 'Menü öffnen'}
             aria-expanded={open}
             onClick={() => setOpen((v) => !v)}
           >
-            <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8">
-              <path d="M4 7h16M4 12h16M4 17h16" />
-            </svg>
+            {open ? (
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8">
+                <path d="M6 6l12 12M18 6 6 18" />
+              </svg>
+            ) : (
+              <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8">
+                <path d="M4 7h16M4 12h16M4 17h16" />
+              </svg>
+            )}
           </button>
         </div>
       </header>
 
       <div className={`mobile${open ? ' open' : ''}`}>
-        {SECTIONS.map((s) => (
-          <a key={s} href={`${home}#${s}`} onClick={() => setOpen(false)}>{t(`links.${s}`)}</a>
-        ))}
-        <a href={`${home}#termin`} className="btn btn--gold" onClick={() => setOpen(false)}>
-          {t('cta')} →
-        </a>
+        <nav className="mobile__links" aria-label="Mobile Navigation">
+          {SECTIONS.map((s, i) => (
+            <a
+              key={s}
+              href={`${home}#${s}`}
+              onClick={() => setOpen(false)}
+              style={{ transitionDelay: `${70 + i * 45}ms` }}
+            >
+              {t(`links.${s}`)}
+            </a>
+          ))}
+        </nav>
+
+        <div className="mobile__foot">
+          <a href={`${home}#termin`} className="btn btn--gold mobile__cta" onClick={() => setOpen(false)}>
+            {t('cta')} <span className="btn__arrow">→</span>
+          </a>
+          <div className="mobile__meta">
+            <div className="mobile__lang">
+              {locales.map((l, i) => (
+                <span key={l}>
+                  <a
+                    href={`/${l}${restOfPath}`}
+                    onClick={() => setOpen(false)}
+                    className={l === locale ? 'is-active' : ''}
+                  >
+                    {l.toUpperCase()}
+                  </a>
+                  {i < locales.length - 1 ? <i>·</i> : null}
+                </span>
+              ))}
+            </div>
+            <a href={`mailto:${CONTACT_EMAIL}`} className="mobile__mail">{CONTACT_EMAIL}</a>
+          </div>
+        </div>
       </div>
     </>
   );
