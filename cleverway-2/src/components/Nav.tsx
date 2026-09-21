@@ -6,7 +6,14 @@ import { useLocale, useTranslations } from 'next-intl';
 import { locales } from '@/i18n/routing';
 import { CONTACT_EMAIL } from '@/lib/site';
 
-const SECTIONS = ['leistungen', 'ki', 'referenzen', 'preise', 'faq', 'kontakt'] as const;
+const NAV: { id: string; page?: string }[] = [
+  { id: 'leistungen', page: 'leistungen' },
+  { id: 'ki' },
+  { id: 'referenzen', page: 'referenzen' },
+  { id: 'preise', page: 'preise' },
+  { id: 'faq' },
+  { id: 'kontakt' },
+];
 
 export default function Nav() {
   const t = useTranslations('nav');
@@ -47,8 +54,8 @@ export default function Nav() {
           </a>
 
           <nav className="nav__links" aria-label="Hauptnavigation">
-            {SECTIONS.map((s) => (
-              <a key={s} href={`${home}#${s}`}>{t(`links.${s}`)}</a>
+            {NAV.map((item) => (
+              <a key={item.id} href={item.page ? `/${locale}/${item.page}` : `${home}#${item.id}`}>{t(`links.${item.id}`)}</a>
             ))}
           </nav>
 
@@ -87,14 +94,14 @@ export default function Nav() {
 
       <div className={`mobile${open ? ' open' : ''}`}>
         <nav className="mobile__links" aria-label="Mobile Navigation">
-          {SECTIONS.map((s, i) => (
+          {NAV.map((item, i) => (
             <a
-              key={s}
-              href={`${home}#${s}`}
+              key={item.id}
+              href={item.page ? `/${locale}/${item.page}` : `${home}#${item.id}`}
               onClick={() => setOpen(false)}
               style={{ transitionDelay: `${70 + i * 45}ms` }}
             >
-              {t(`links.${s}`)}
+              {t(`links.${item.id}`)}
             </a>
           ))}
         </nav>
