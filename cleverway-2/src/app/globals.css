@@ -484,12 +484,6 @@
     .m-more::after{ content:"\25be"; font-size:12px; opacity:.7; }
     .m-toggle:checked ~ .m-more{ display:none; }
   }
-
-  /* header phone */
-  .nav__phone{ display:inline-flex; align-items:center; gap:7px; color:var(--fg); font-size:14px; font-weight:500; white-space:nowrap; text-decoration:none; }
-  .nav__phone svg{ color:var(--gold-2); }
-  @media(max-width:1220px){ .nav__phone-num{ display:none; } .nav__phone{ padding:6px; } }
-
   /* Karriere page */
   .kar-step{ display:flex; gap:16px; align-items:flex-start; border:1px solid var(--line); border-radius:var(--r); background:var(--card); padding:20px 22px; margin-bottom:14px; }
   .kar-step__n{ font-family:var(--serif); color:var(--gold-2); font-size:22px; font-weight:700; line-height:1; flex-shrink:0; }
