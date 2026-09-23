@@ -14,6 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/datenschutz',
     '/agb',
     '/ueber-uns',
+    '/karriere',
     '/leistungen',
     ...SERVICE_SLUGS.map((s) => `/leistungen/${s.slug}`),
     '/preise',

@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Clever Way Media – A marketing találkozik az automatizációval | DE · HU · RO",
-    "description": "Prémium weboldalak, mérhető marketing és MI-automatizálás vállalkozásoknak Németországban, Magyarországon és Romániában. MI-telefonasszisztenssel, chatbotokkal és egyedi folyamat-automatizálással. Ügyfélkezelés németül, magyarul és románul."
+    "description": "Professzionális weboldalak, mérhető marketing és MI-automatizálás vállalkozásoknak Németországban, Magyarországon és Romániában. MI-telefonasszisztenssel, chatbotokkal és egyedi folyamat-automatizálással. Ügyfélkezelés németül, magyarul és románul."
   },
   "nav": {
     "links": {
@@ -10,7 +10,8 @@
       "referenzen": "Referenciák",
       "preise": "Árak",
       "faq": "GYIK",
-      "kontakt": "Kapcsolat"
+      "kontakt": "Kapcsolat",
+      "karriere": "Karrier"
     },
     "cta": "Stratégiai beszélgetés"
   },
@@ -20,7 +21,7 @@
     "ital1": "értékesít.",
     "h1b": "Automatizáció, ami",
     "ital2": "skálázódik.",
-    "lead": "Prémium weboldalak, mérhető kampányok és MI-automatizáció, ami kiszámíthatóan hoz új ügyfeleket. Hogy Ön a vállalkozására koncentrálhasson — ne a hidegmegkeresésre. Ambiciózus vállalkozásoknak Németországban, Magyarországon és Romániában — az Ön nyelvén.",
+    "lead": "Professzionális weboldalak, mérhető kampányok és MI-automatizáció, ami kiszámíthatóan hoz új ügyfeleket. Hogy Ön a vállalkozására koncentrálhasson — ne a hidegmegkeresésre. Ambiciózus vállalkozásoknak Németországban, Magyarországon és Romániában — az Ön nyelvén.",
     "cta1": "Ingyenes stratégiai beszélgetés",
     "cta2": "Szolgáltatások megtekintése",
     "trust": [
@@ -30,20 +31,20 @@
     ],
     "stats": [
       {
-        "value": "3",
-        "label": "nyelv — DE · HU · RO"
+        "value": "24 ó",
+        "label": "Válaszidő"
       },
       {
-        "value": "24/7",
-        "label": "automatizálás, ami sosem alszik"
+        "value": "1:1",
+        "label": "Személyes kapcsolattartó, nem call center"
       },
       {
-        "value": "100%",
-        "label": "egyedi — nincsenek sablonok"
+        "value": "DE·HU·RO",
+        "label": "3 nyelv"
       },
       {
         "value": "DSGVO",
-        "label": "megfelelő — EU-tárhely lehetséges"
+        "label": "megfelelő · EU"
       }
     ]
   },
@@ -99,8 +100,8 @@
       },
       {
         "id": "neukunden",
-        "title": "Automatizált ügyfélszerzés",
-        "text": "Személyre szabott megkereső kampányok folyamatosan hoznak új érdeklődőket — az Ön márkájának hangján, kézi hideghívás nélkül."
+        "title": "Automatikus érdeklődő-szerzés",
+        "text": "Landing page-ek, űrlapok és a Google-profil együtt dolgoznak, hogy az érdeklődők maguktól keressék meg Önt — és minden megkeresés azonnal választ kapjon."
       },
       {
         "id": "termin",
@@ -291,9 +292,9 @@
       },
       {
         "name": "Növekedési csomag",
-        "price": "440 €",
+        "price": "530 €",
         "unit": "/ hó",
-        "setup": "Beállítás egyszeri 620 €",
+        "setup": "Beállítás egyszeri 850 €",
         "feat": true,
         "badge": "Ajánlott",
         "features": [
@@ -307,9 +308,9 @@
       },
       {
         "name": "Teljes csomag",
-        "price": "890 €",
+        "price": "1.060 €",
         "unit": "/ hó",
-        "setup": "Beállítás egyszeri 890 €",
+        "setup": "Beállítás egyszeri 1.160 €",
         "features": [
           "Minden a Növekedés csomagból",
           "Folyamatos Google- & Meta-hirdetés",
@@ -320,7 +321,7 @@
       }
     ],
     "note": "Iparági csomagként is elérhető (pl. vendéglátás, e-kereskedelem, ingatlan, helyi szolgáltatók, B2B) — csak keressen minket.",
-    "foot": "Az árak a törvényes áfát nem tartalmazzák.",
+    "foot": "Kleinunternehmerként a német § 19 UStG szerint áfát nem számítunk fel.",
     "hubLink": "Minden csomag részletesen"
   },
   "faq": {
@@ -337,7 +338,7 @@
       },
       {
         "q": "Mennyibe kerül egy weboldal vagy kezelés?",
-        "a": "A Start csomag egyszeri 799 €-tól indul. A folyamatos marketinghez és automatizációhoz havi csomagok érhetők el 260 €-tól, valamint iparág-specifikus megoldások. Az ingyenes stratégiai beszélgetésen megtaláljuk a megfelelő modellt."
+        "a": "A Start csomag egyszeri 799 €-tól indul. A folyamatos marketinghez és automatizációhoz havi csomagok érhetők el 530 €-tól, valamint iparág-specifikus megoldások. Az ingyenes stratégiai beszélgetésen megtaláljuk a megfelelő modellt."
       },
       {
         "q": "Milyen nyelveken és régiókban dolgoznak?",
@@ -383,7 +384,7 @@
       "service": "Érdeklődés",
       "message": "Üzenet",
       "submit": "Üzenet küldése",
-      "note": "A küldéssel elfogadja az adatvédelmi tájékoztatónkat.",
+      "note": "Az adatai kezeléséről az Adatvédelmi tájékoztatónkban olvashat.",
       "select": "Kérjük, válasszon",
       "successTitle": "Köszönjük!",
       "successText": "24 órán belül jelentkezünk Önnél.",
@@ -403,8 +404,8 @@
     },
     "soon": "Hamarosan",
     "coverageTitle": "Hol dolgozunk",
-    "coverageText": "Digitálisan működő csapat vagyunk, és helytől függetlenül szolgálunk ki ügyfeleket három piacon — mindig az adott ország nyelvén.",
-    "remote": "Helytől függetlenül · Távoli",
+    "coverageText": "Az Ön személyes kapcsolattartója: Marwan Bouabid, Salzgitterből. A niedersachseni cégeket személyesen, országosan és Magyarországon/Romániában videón keresztül szolgálom ki — mindig az Ön nyelvén.",
+    "remote": "Marwan Bouabid · Salzgitter",
     "marketsList": [
       {
         "code": "DE",
@@ -421,13 +422,12 @@
     ]
   },
   "footer": {
-    "tagline": "A marketing találkozik az automatizációval. Prémium weboldalak és MI-alapú ügyfélszerzés vállalkozásoknak Németországban, Magyarországon és Romániában.",
+    "tagline": "A marketing találkozik az automatizációval. Professzionális weboldalak és MI-alapú ügyfélszerzés vállalkozásoknak Németországban, Magyarországon és Romániában.",
     "servicesTitle": "Szolgáltatások",
     "services": [
       "Weboldalkészítés",
       "SEO & hirdetések",
-      "MI-automatizáció",
-      "Automatizáció"
+      "MI-automatizáció"
     ],
     "agencyTitle": "Ügynökség",
     "agency": [
@@ -469,7 +469,7 @@
         },
         {
           "h": "Kapcsolat",
-          "p": "E-mail: info@cleverwaymedia.de"
+          "p": "Telefon: +49 177 5401500\nE-mail: info@cleverwaymedia.de"
         },
         {
           "h": "Áfa",
@@ -481,7 +481,7 @@
         },
         {
           "h": "Vitarendezés",
-          "p": "Az Európai Bizottság online vitarendezési platformot biztosít: https://ec.europa.eu/consumers/odr/. Fogyasztói vitarendezési testület előtti eljárásban való részvételre nem vagyunk kötelezettek."
+          "p": "Nem vagyunk kötelesek és nem is állunk készen fogyasztói békéltető testület előtti vitarendezési eljárásban részt venni."
         }
       ]
     },
@@ -952,8 +952,8 @@
       "name": "Növekedés csomag",
       "category": "general",
       "priceModel": "monthly",
-      "setup": "620 €",
-      "price": "440 €",
+      "setup": "850 €",
+      "price": "530 €",
       "audience": "Már működő vállalkozásoknak, akik több ügyfelet és nagyobb elérést szeretnének.",
       "features": [
         "Professzionális weboldal",
@@ -978,8 +978,8 @@
       "category": "general",
       "badge": "Prémium",
       "priceModel": "monthly",
-      "setup": "890 €",
-      "price": "890 €",
+      "setup": "1.160 €",
+      "price": "1.060 €",
       "audience": "Nagyobb vállalkozásoknak, akik kulcsrakész marketinget akarnak, ráfordítás nélkül.",
       "features": [
         "Minden a Növekedés csomagból",
@@ -1053,7 +1053,7 @@
       "name": "Webshop / e-kereskedelem csomag",
       "category": "industry",
       "priceModel": "monthly",
-      "setup": "1.340 €",
+      "setup": "1.650 €",
       "price": "620 €",
       "audience": "Online kereskedőknek, akik több eladást szeretnének.",
       "features": [
@@ -1149,7 +1149,7 @@
   "pricingHub": {
     "eyebrow": "Árak & csomagok",
     "h1": "Minden csomag részletesen.",
-    "lead": "Átlátható csomagok a növekedés minden szakaszához — általános vagy iparág-specifikus. Az árak a törvényes áfát nem tartalmazzák.",
+    "lead": "Átlátható csomagok a növekedés minden szakaszához — általános vagy iparág-specifikus. Kleinunternehmerként a német § 19 UStG szerint áfát nem számítunk fel.",
     "generalTitle": "Általános szintek",
     "industryTitle": "Iparág-specifikus csomagok",
     "ctaLabel": "Részletek",
@@ -1262,7 +1262,7 @@
       }
     ],
     "teamTitle": "Hogyan dolgozunk",
-    "teamText": "A Clever Way Media egy karcsú, specializált csapat — tudatosan úgy felépítve, hogy minden ügyfélnek közvetlen, személyes kapcsolata legyen, ne vesszen el egy nagy ügynökségi gépezetben.",
+    "teamText": "A Clever Way Media szándékosan karcsú felépítésű: nálunk minden ügyfél közvetlen, személyes kapcsolatban áll Marwan Bouabiddal — nem vész el egy nagy ügynökségi gépezetben.",
     "marketsTitle": "Piacaink",
     "markets": [
       "Németország",
@@ -1554,5 +1554,40 @@
   },
   "ui": {
     "more": "Tovább"
+  },
+  "karriere": {
+    "metaTitle": "Karrier & Partnerprogram — Clever Way Media",
+    "metaDesc": "Legyél a Clever Way Media ajánló partnere: cégeket ajánlasz és keresel vele — 20% az első számlából, 10% havonta. Alkalmazás nélkül, kockázat nélkül.",
+    "eyebrow": "Partnerprogram",
+    "h1": "Ajánlj és keress vele — kockázat nélkül.",
+    "lead": "Ismersz vállalkozókat, akiknek jól jönne egy jobb weboldal, hirdetés vagy MI-automatizáció? Ajánlj minket, és keress vele — alkalmazás, fix órák és kötelezettség nélkül.",
+    "steps": [
+      {
+        "n": "1",
+        "t": "Megkeresés",
+        "x": "Ismersz egy vállalkozót — fodrász, étterem, bolt, bármilyen kiscég —, akinek jól jönne egy jobb weboldal, hirdetés vagy MI-automatizáció? Keresd meg."
+      },
+      {
+        "n": "2",
+        "t": "Összekötés",
+        "x": "Ha meggyőzted, hogy szüksége van rá, összekötöd velünk. A többit — egyeztetés, ajánlat, szerződés — mi intézzük."
+      },
+      {
+        "n": "3",
+        "t": "Törődés",
+        "x": "Ha nálunk az ügyfél, hetente egyszer röviden ráírsz — hogy érezze, törődünk vele."
+      }
+    ],
+    "role": "Nem alkalmazottként dolgozol, hanem ajánló partnerként. Nincs fix óra, nincs szerződéses kötelezettség.",
+    "payTitle": "Amit kapsz",
+    "pay": [
+      "20% az első számlából (beállítás + 1. hónap) — amint az ügyfél fizetett.",
+      "A 2. hónaptól: 10% a havidíjból — amíg az ügyfél nálunk marad.",
+      "Kifizetés a fizetés után 1–2 héten belül, utalással."
+    ],
+    "risk": "Nulla kockázat: csak akkor kapsz pénzt, ha tényleg lesz belőle ügyfél — de akkor folyamatosan, amíg marad.",
+    "ctaTitle": "Benne vagy?",
+    "ctaText": "Mindent rögzítünk egy rövid, írásbeli megállapodásban. Csak jelentkezz.",
+    "ctaBtn": "Partner leszek"
   }
 }

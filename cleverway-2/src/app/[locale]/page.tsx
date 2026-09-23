@@ -2,7 +2,6 @@ import { setRequestLocale } from 'next-intl/server';
 import type { Locale } from '@/i18n/routing';
 import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
-import ExitModal from '@/components/ExitModal';
 import Hero from '@/components/sections/Hero';
 import Marquee from '@/components/sections/Marquee';
 import Automation from '@/components/sections/Automation';
@@ -34,7 +33,6 @@ export default async function Home({ params }: { params: { locale: Locale } }) {
         <Contact />
       </main>
       <Footer />
-      <ExitModal />
     </>
   );
 }

@@ -22,7 +22,7 @@ export function organizationSchema(description: string) {
       { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Suchmaschinenoptimierung (SEO)' } },
       { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'KI-Automatisierung & Workflow-Automatisierung' } },
       { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'KI-Chatbot & Sprachassistent' } },
-      { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Automatisierte Neukundengewinnung' } },
+      { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Automatisierte Anfragen-Gewinnung' } },
     ],
   };
 }

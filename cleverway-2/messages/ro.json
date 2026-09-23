@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Clever Way Media – Marketing întâlnește automatizarea | DE · HU · RO",
-    "description": "Site-uri premium, marketing măsurabil și automatizare AI pentru companii din Germania, Ungaria și România. Cu asistent telefonic AI, chatboți și automatizări de flux personalizate. Asistență în germană, maghiară și română."
+    "description": "Site-uri profesionale, marketing măsurabil și automatizare AI pentru companii din Germania, Ungaria și România. Cu asistent telefonic AI, chatboți și automatizări de flux personalizate. Asistență în germană, maghiară și română."
   },
   "nav": {
     "links": {
@@ -10,7 +10,8 @@
       "referenzen": "Referințe",
       "preise": "Prețuri",
       "faq": "Întrebări",
-      "kontakt": "Contact"
+      "kontakt": "Contact",
+      "karriere": "Cariere"
     },
     "cta": "Discuție strategică"
   },
@@ -20,7 +21,7 @@
     "ital1": "vinde.",
     "h1b": "Automatizare care",
     "ital2": "scalează.",
-    "lead": "Site-uri premium, campanii măsurabile și automatizare AI care vă aduce clienți noi în mod previzibil. Ca să vă concentrați pe afacere — nu pe prospectarea la rece. Pentru companii ambițioase din Germania, Ungaria și România — în limba dumneavoastră.",
+    "lead": "Site-uri profesionale, campanii măsurabile și automatizare AI care vă aduce clienți noi în mod previzibil. Ca să vă concentrați pe afacere — nu pe prospectarea la rece. Pentru companii ambițioase din Germania, Ungaria și România — în limba dumneavoastră.",
     "cta1": "Discuție strategică gratuită",
     "cta2": "Descoperiți serviciile",
     "trust": [
@@ -30,20 +31,20 @@
     ],
     "stats": [
       {
-        "value": "3",
-        "label": "limbi — DE · HU · RO"
+        "value": "24 h",
+        "label": "Timp de răspuns"
       },
       {
-        "value": "24/7",
-        "label": "automatizare care nu doarme niciodată"
+        "value": "1:1",
+        "label": "Persoană de contact, nu call center"
       },
       {
-        "value": "100%",
-        "label": "personalizat — fără șabloane"
+        "value": "DE·HU·RO",
+        "label": "3 limbi"
       },
       {
         "value": "DSGVO",
-        "label": "conform — găzduire în UE posibilă"
+        "label": "conform · UE"
       }
     ]
   },
@@ -99,8 +100,8 @@
       },
       {
         "id": "neukunden",
-        "title": "Atragere automată de clienți",
-        "text": "Campanii de contactare personalizate aduc constant cereri noi — pe tonul mărcii dvs., fără prospectare la rece manuală."
+        "title": "Atragere automată de cereri",
+        "text": "Paginile de destinație, formularele și profilul Google lucrează împreună, astfel încât cei interesați să vină singuri către dvs. — iar fiecare cerere să primească imediat răspuns."
       },
       {
         "id": "termin",
@@ -291,9 +292,9 @@
       },
       {
         "name": "Pachet de creștere",
-        "price": "440 €",
+        "price": "530 €",
         "unit": "/ lună",
-        "setup": "Configurare unică 620 €",
+        "setup": "Configurare unică 850 €",
         "feat": true,
         "badge": "Recomandat",
         "features": [
@@ -307,9 +308,9 @@
       },
       {
         "name": "Pachet complet",
-        "price": "890 €",
+        "price": "1.060 €",
         "unit": "/ lună",
-        "setup": "Configurare o singură dată 890 €",
+        "setup": "Configurare o singură dată 1.160 €",
         "features": [
           "Tot din pachetul Creștere",
           "Reclame Google & Meta continue",
@@ -320,7 +321,7 @@
       }
     ],
     "note": "Disponibil și ca pachet pe domenii (ex. gastronomie, e-commerce, imobiliare, servicii locale, B2B) — contactați-ne pur și simplu.",
-    "foot": "Toate prețurile sunt fără TVA legal.",
+    "foot": "Ca Kleinunternehmer conform § 19 UStG (Germania), nu se percepe TVA.",
     "hubLink": "Vezi toate pachetele în detaliu"
   },
   "faq": {
@@ -337,7 +338,7 @@
       },
       {
         "q": "Cât costă un site sau administrarea?",
-        "a": "Pachetul Start începe de la 799 € o singură dată. Pentru marketing și automatizare continue există pachete lunare de la 260 €, precum și soluții specifice industriei. În discuția strategică gratuită găsim modelul potrivit."
+        "a": "Pachetul Start începe de la 799 € o singură dată. Pentru marketing și automatizare continue există pachete lunare de la 530 €, precum și soluții specifice industriei. În discuția strategică gratuită găsim modelul potrivit."
       },
       {
         "q": "În ce limbi și regiuni lucrați?",
@@ -383,7 +384,7 @@
       "service": "Interes pentru",
       "message": "Mesaj",
       "submit": "Trimite mesajul",
-      "note": "Prin trimitere sunteți de acord cu politica noastră de confidențialitate.",
+      "note": "Informații despre prelucrarea datelor dvs. găsiți în Politica noastră de confidențialitate.",
       "select": "Vă rugăm alegeți",
       "successTitle": "Mulțumim!",
       "successText": "Revenim la dumneavoastră în 24 de ore.",
@@ -403,8 +404,8 @@
     },
     "soon": "În curând",
     "coverageTitle": "Unde lucrăm",
-    "coverageText": "Suntem o echipă care lucrează digital și deservim clienți indiferent de locație, pe trei piețe — de fiecare dată în limba țării respective.",
-    "remote": "Indiferent de locație · Remote",
+    "coverageText": "Persoana dvs. de contact: Marwan Bouabid din Salzgitter. Deservesc firmele din Saxonia Inferioară personal — la nivel național, precum și în Ungaria și România prin video, de fiecare dată în limba dvs.",
+    "remote": "Marwan Bouabid · Salzgitter",
     "marketsList": [
       {
         "code": "DE",
@@ -421,13 +422,12 @@
     ]
   },
   "footer": {
-    "tagline": "Marketing întâlnește automatizarea. Site-uri premium și atragere de clienți bazată pe AI pentru companii din Germania, Ungaria și România.",
+    "tagline": "Marketing întâlnește automatizarea. Site-uri profesionale și atragere de clienți bazată pe AI pentru companii din Germania, Ungaria și România.",
     "servicesTitle": "Servicii",
     "services": [
       "Creare site",
       "SEO & reclame",
-      "Automatizare AI",
-      "Automatizare"
+      "Automatizare AI"
     ],
     "agencyTitle": "Agenție",
     "agency": [
@@ -469,7 +469,7 @@
         },
         {
           "h": "Contact",
-          "p": "E-mail: info@cleverwaymedia.de"
+          "p": "Telefon: +49 177 5401500\nE-mail: info@cleverwaymedia.de"
         },
         {
           "h": "TVA",
@@ -481,7 +481,7 @@
         },
         {
           "h": "Soluționarea litigiilor",
-          "p": "Comisia Europeană pune la dispoziție o platformă de soluționare online a litigiilor: https://ec.europa.eu/consumers/odr/. Nu suntem obligați să participăm la o procedură de soluționare a litigiilor în fața unei autorități pentru consumatori."
+          "p": "Nu suntem obligați și nici dispuși să participăm la o procedură de soluționare a litigiilor în fața unui organism de soluționare a litigiilor cu consumatorii."
         }
       ]
     },
@@ -533,7 +533,7 @@
         },
         {
           "h": "Condiții de plată",
-          "p": "Termenele și modalitățile de plată sunt stabilite în oferta individuală. Toate prețurile sunt fără TVA legal."
+          "p": "Termenele și modalitățile de plată sunt stabilite în oferta individuală. Ca Kleinunternehmer conform § 19 UStG (Germania), nu se percepe TVA."
         },
         {
           "h": "Răspundere",
@@ -952,8 +952,8 @@
       "name": "Pachet Creștere",
       "category": "general",
       "priceModel": "monthly",
-      "setup": "620 €",
-      "price": "440 €",
+      "setup": "850 €",
+      "price": "530 €",
       "audience": "Pentru companii deja stabilite care doresc mai mulți clienți și acoperire.",
       "features": [
         "Site profesional",
@@ -978,8 +978,8 @@
       "category": "general",
       "badge": "Premium",
       "priceModel": "monthly",
-      "setup": "890 €",
-      "price": "890 €",
+      "setup": "1.160 €",
+      "price": "1.060 €",
       "audience": "Pentru companii mai mari care doresc marketing complet, fără efort.",
       "features": [
         "Tot din Pachetul Creștere",
@@ -1053,7 +1053,7 @@
       "name": "Pachet magazin online / e-commerce",
       "category": "industry",
       "priceModel": "monthly",
-      "setup": "1.340 €",
+      "setup": "1.650 €",
       "price": "620 €",
       "audience": "Pentru comercianți online care doresc mai multe vânzări.",
       "features": [
@@ -1149,7 +1149,7 @@
   "pricingHub": {
     "eyebrow": "Prețuri & pachete",
     "h1": "Fiecare pachet în detaliu.",
-    "lead": "Pachete transparente pentru fiecare etapă a creșterii dumneavoastră — generale sau specifice industriei. Toate prețurile sunt fără TVA legal.",
+    "lead": "Pachete transparente pentru fiecare etapă a creșterii dumneavoastră — generale sau specifice industriei. Ca Kleinunternehmer conform § 19 UStG (Germania), nu se percepe TVA.",
     "generalTitle": "Niveluri generale",
     "industryTitle": "Pachete specifice industriei",
     "ctaLabel": "Vezi detalii",
@@ -1262,7 +1262,7 @@
       }
     ],
     "teamTitle": "Cum lucrăm",
-    "teamText": "Clever Way Media este o echipă suplă, specializată — construită în mod deliberat astfel încât fiecare client să aibă contact direct, personal, în loc să se piardă într-un aparat mare de agenție.",
+    "teamText": "Clever Way Media este structurată intenționat suplu: la noi fiecare client are contact direct, personal cu Marwan Bouabid — fără să se piardă într-un aparat mare de agenție.",
     "marketsTitle": "Piețele noastre",
     "markets": [
       "Germania",
@@ -1554,5 +1554,40 @@
   },
   "ui": {
     "more": "Vezi mai mult"
+  },
+  "karriere": {
+    "metaTitle": "Cariere & Program de parteneriat — Clever Way Media",
+    "metaDesc": "Devino partener de recomandare Clever Way Media: recomanzi firme și câștigi — 20% din prima factură, 10% lunar. Fără angajare, fără risc.",
+    "eyebrow": "Program de parteneriat",
+    "h1": "Recomandă și câștigă — fără risc.",
+    "lead": "Cunoști antreprenori care ar avea nevoie de un site mai bun, reclame sau automatizare AI? Recomandă-ne și câștigă — fără angajare, fără ore fixe, fără obligații.",
+    "steps": [
+      {
+        "n": "1",
+        "t": "Abordare",
+        "x": "Cunoști un antreprenor — frizer, restaurant, magazin, orice firmă mică — care ar profita de un site mai bun, reclame sau automatizare AI? Vorbește cu el."
+      },
+      {
+        "n": "2",
+        "t": "Conectare",
+        "x": "Când l-ai convins că are nevoie, îl pui în legătură cu noi. Restul — programare, ofertă, contract — ne ocupăm noi."
+      },
+      {
+        "n": "3",
+        "t": "Grijă",
+        "x": "Odată ce clientul e la noi, îi scrii scurt o dată pe săptămână — ca să simtă că ne pasă."
+      }
+    ],
+    "role": "Nu lucrezi ca angajat, ci ca partener de recomandare. Fără ore fixe, fără obligații contractuale.",
+    "payTitle": "Ce primești",
+    "pay": [
+      "20% din prima factură (configurare + prima lună) — de îndată ce clientul a plătit.",
+      "Din luna a 2-a: 10% din tariful lunar — cât timp clientul rămâne la noi.",
+      "Plata în 1–2 săptămâni după încasare, prin transfer bancar."
+    ],
+    "risk": "Fără risc: primești bani doar dacă chiar devine client — dar apoi continuu, cât timp rămâne.",
+    "ctaTitle": "Ești în echipă?",
+    "ctaText": "Punem totul într-un acord scris scurt. Contactează-ne pur și simplu.",
+    "ctaBtn": "Devino partener"
   }
 }

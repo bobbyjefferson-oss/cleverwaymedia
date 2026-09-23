@@ -55,7 +55,7 @@ export default function Automation() {
               className={VARIANT[tile.id] ?? 'bx'}
               delay={(i % 3) * 0.08}
             >
-              {tile.id === 'telefon' ? <span className="tag">{t('tag')}</span> : null}
+              {null}
               <Ico id={tile.id} size={tile.id === 'telefon' ? 24 : 22} />
               <h3>{tile.title}</h3>
               <p>{tile.text}</p>

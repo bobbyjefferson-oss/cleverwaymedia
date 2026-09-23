@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: { params: { locale: Locale } 
   return {
     title: `${t('h1')} — Clever Way Media`,
     description: t('lead'),
-    alternates: { canonical: `${SITE_URL}/${params.locale}/preise` },
+    alternates: { canonical: `${SITE_URL}/${params.locale}/preise`, languages: { de: `${SITE_URL}/de/preise`, hu: `${SITE_URL}/hu/preise`, ro: `${SITE_URL}/ro/preise`, 'x-default': `${SITE_URL}/de/preise` } },
   };
 }
 

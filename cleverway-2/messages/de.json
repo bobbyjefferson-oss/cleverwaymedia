@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Clever Way Media – Marketing trifft Automation | DE · HU · RO",
-    "description": "Premium-Websites, messbares Marketing und KI-Automatisierung für Unternehmen in Deutschland, Ungarn und Rumänien. Mit KI-Telefonassistent, Chatbots und maßgeschneiderter Workflow-Automatisierung. Betreuung auf Deutsch, Ungarisch und Rumänisch."
+    "description": "Professionelle Websites, messbares Marketing und KI-Automatisierung für Unternehmen in Deutschland, Ungarn und Rumänien. Mit KI-Telefonassistent, Chatbots und maßgeschneiderter Workflow-Automatisierung. Betreuung auf Deutsch, Ungarisch und Rumänisch."
   },
   "nav": {
     "links": {
@@ -10,7 +10,8 @@
       "referenzen": "Referenzen",
       "preise": "Preise",
       "faq": "FAQ",
-      "kontakt": "Kontakt"
+      "kontakt": "Kontakt",
+      "karriere": "Karriere"
     },
     "cta": "Strategiegespräch"
   },
@@ -20,7 +21,7 @@
     "ital1": "verkauft.",
     "h1b": "Automatisierung, die",
     "ital2": "skaliert.",
-    "lead": "Premium-Websites, messbare Kampagnen und KI-Automatisierung, die Ihnen planbar neue Kunden bringt. Damit Sie sich auf Ihr Geschäft konzentrieren — nicht auf die Kaltakquise. Für ambitionierte Unternehmen in Deutschland, Ungarn und Rumänien — in Ihrer Sprache.",
+    "lead": "Professionelle Websites, messbare Kampagnen und KI-Automatisierung, die Ihnen planbar neue Kunden bringt. Damit Sie sich auf Ihr Geschäft konzentrieren — nicht auf die Kaltakquise. Für ambitionierte Unternehmen in Deutschland, Ungarn und Rumänien — in Ihrer Sprache.",
     "cta1": "Kostenloses Strategiegespräch",
     "cta2": "Leistungen entdecken",
     "trust": [
@@ -30,20 +31,20 @@
     ],
     "stats": [
       {
-        "value": "3",
-        "label": "Sprachen — DE · HU · RO"
+        "value": "24 h",
+        "label": "Antwortzeit"
       },
       {
-        "value": "24/7",
-        "label": "Automatisierung, die nie schläft"
+        "value": "1:1",
+        "label": "Persönlicher Ansprechpartner, kein Callcenter"
       },
       {
-        "value": "100%",
-        "label": "maßgeschneidert — keine Templates"
+        "value": "DE·HU·RO",
+        "label": "3 Sprachen"
       },
       {
         "value": "DSGVO",
-        "label": "konform — EU-Hosting möglich"
+        "label": "konform · EU"
       }
     ]
   },
@@ -99,8 +100,8 @@
       },
       {
         "id": "neukunden",
-        "title": "Automatisierte Neukundengewinnung",
-        "text": "Personalisierte Outreach-Kampagnen bringen kontinuierlich neue Anfragen — im Ton Ihrer Marke, ohne manuelle Kaltakquise."
+        "title": "Automatische Anfragen-Gewinnung",
+        "text": "Landingpages, Anfrage-Formulare und Google-Profil arbeiten zusammen, damit Interessenten von selbst auf Sie zukommen — und jede Anfrage sofort beantwortet wird."
       },
       {
         "id": "termin",
@@ -291,9 +292,9 @@
       },
       {
         "name": "Wachstums-Paket",
-        "price": "440 €",
+        "price": "530 €",
         "unit": "/ Monat",
-        "setup": "Einrichtung einmalig 620 €",
+        "setup": "Einrichtung einmalig 850 €",
         "feat": true,
         "badge": "Empfohlen",
         "features": [
@@ -307,9 +308,9 @@
       },
       {
         "name": "Komplett-Paket",
-        "price": "890 €",
+        "price": "1.060 €",
         "unit": "/ Monat",
-        "setup": "Einrichtung einmalig 890 €",
+        "setup": "Einrichtung einmalig 1.160 €",
         "features": [
           "Alles aus dem Wachstums-Paket",
           "Laufende Google- & Meta-Werbung",
@@ -320,7 +321,7 @@
       }
     ],
     "note": "Auch als Branchenpaket verfügbar (z. B. Gastronomie, E-Commerce, Immobilien, lokale Dienstleister, B2B) — sprechen Sie uns einfach an.",
-    "foot": "Alle Preise verstehen sich zzgl. gesetzlicher MwSt.",
+    "foot": "Als Kleinunternehmer gemäß § 19 UStG wird keine Umsatzsteuer berechnet.",
     "hubLink": "Alle Pakete im Detail ansehen"
   },
   "faq": {
@@ -329,15 +330,15 @@
     "items": [
       {
         "q": "Was macht Clever Way Media anders?",
-        "a": "Wir verbinden klassisches Marketing mit KI-Automatisierung. Intelligente Systeme übernehmen wiederkehrende Aufgaben — von der Neukundengewinnung über KI-Chatbots bis zur Belegverarbeitung — verbunden mit Ihren bestehenden Tools. So sparen Sie Zeit und gewinnen planbar neue Kunden."
+        "a": "Wir verbinden klassisches Marketing mit KI-Automatisierung. Intelligente Systeme übernehmen wiederkehrende Aufgaben — von der Anfragen-Gewinnung über KI-Chatbots bis zur Belegverarbeitung — verbunden mit Ihren bestehenden Tools. So sparen Sie Zeit und gewinnen planbar neue Kunden."
       },
       {
         "q": "Welche KI-Automatisierungen bieten Sie an?",
-        "a": "Unter anderem: ein KI-Telefonassistent, der Anrufe rund um die Uhr entgegennimmt und Termine bucht; automatisierte Neukundengewinnung; KI-Chatbots für Website und WhatsApp; Lead-Qualifizierung mit CRM-Anbindung; Rechnungs- und Belegverarbeitung (DATEV, lexoffice, sevDesk); Angebots- und Dokumentengeneratoren; Content- und Reporting-Automatisierung sowie maßgeschneiderte Workflow-Automatisierungen, die Ihre Tools nahtlos verbinden."
+        "a": "Unter anderem: ein KI-Telefonassistent, der Anrufe rund um die Uhr entgegennimmt und Termine bucht; automatisierte Anfragen-Gewinnung; KI-Chatbots für Website und WhatsApp; Lead-Qualifizierung mit CRM-Anbindung; Rechnungs- und Belegverarbeitung (DATEV, lexoffice, sevDesk); Angebots- und Dokumentengeneratoren; Content- und Reporting-Automatisierung sowie maßgeschneiderte Workflow-Automatisierungen, die Ihre Tools nahtlos verbinden."
       },
       {
         "q": "Was kostet eine Website oder Betreuung?",
-        "a": "Das Start-Paket beginnt bei einmalig 799 €. Für laufendes Marketing und Automatisierung gibt es monatliche Pakete ab 260 € sowie branchenspezifische Lösungen. Im kostenlosen Strategiegespräch finden wir das passende Modell."
+        "a": "Das Start-Paket beginnt bei einmalig 799 €. Für laufendes Marketing und Automatisierung gibt es monatliche Pakete ab 530 € sowie branchenspezifische Lösungen. Im kostenlosen Strategiegespräch finden wir das passende Modell."
       },
       {
         "q": "In welchen Sprachen und Regionen arbeiten Sie?",
@@ -383,7 +384,7 @@
       "service": "Interesse an",
       "message": "Nachricht",
       "submit": "Nachricht senden",
-      "note": "Mit dem Absenden stimmen Sie unserer Datenschutzerklärung zu.",
+      "note": "Informationen zur Verarbeitung Ihrer Daten finden Sie in unserer Datenschutzerklärung.",
       "select": "Bitte wählen",
       "successTitle": "Danke!",
       "successText": "Wir melden uns innerhalb von 24 Stunden bei Ihnen.",
@@ -403,8 +404,8 @@
     },
     "soon": "Bald verfügbar",
     "coverageTitle": "Wo wir arbeiten",
-    "coverageText": "Wir sind ein digital arbeitendes Team und betreuen Kunden ortsunabhängig in drei Märkten — jeweils in der Landessprache.",
-    "remote": "Ortsunabhängig · Remote",
+    "coverageText": "Ihr persönlicher Ansprechpartner: Marwan Bouabid aus Salzgitter. Ich betreue Betriebe in Niedersachsen persönlich — bundesweit sowie in Ungarn und Rumänien per Video, jeweils in Ihrer Sprache.",
+    "remote": "Marwan Bouabid · Salzgitter",
     "marketsList": [
       {
         "code": "DE",
@@ -421,13 +422,12 @@
     ]
   },
   "footer": {
-    "tagline": "Marketing trifft Automation. Premium-Websites und KI-gestützte Kundengewinnung für Unternehmen in Deutschland, Ungarn und Rumänien.",
+    "tagline": "Marketing trifft Automation. Professionelle Websites und KI-gestützte Kundengewinnung für Unternehmen in Deutschland, Ungarn und Rumänien.",
     "servicesTitle": "Leistungen",
     "services": [
       "Website-Erstellung",
       "SEO & Ads",
-      "KI-Automatisierung",
-      "Automatisierung"
+      "KI-Automatisierung"
     ],
     "agencyTitle": "Agentur",
     "agency": [
@@ -469,7 +469,7 @@
         },
         {
           "h": "Kontakt",
-          "p": "E-Mail: info@cleverwaymedia.de"
+          "p": "Telefon: +49 177 5401500\nE-Mail: info@cleverwaymedia.de"
         },
         {
           "h": "Umsatzsteuer",
@@ -481,7 +481,7 @@
         },
         {
           "h": "Streitschlichtung",
-          "p": "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/. Wir sind nicht verpflichtet und nicht bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."
+          "p": "Wir sind nicht verpflichtet und nicht bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."
         }
       ]
     },
@@ -533,7 +533,7 @@
         },
         {
           "h": "Zahlungsbedingungen",
-          "p": "Zahlungsziele und -modalitäten werden im individuellen Angebot festgelegt. Alle Preise verstehen sich zzgl. gesetzlicher Mehrwertsteuer."
+          "p": "Zahlungsziele und -modalitäten werden im individuellen Angebot festgelegt. Als Kleinunternehmer gemäß § 19 UStG wird keine Umsatzsteuer berechnet."
         },
         {
           "h": "Haftung",
@@ -1042,8 +1042,8 @@
       "name": "Wachstums-Paket",
       "category": "general",
       "priceModel": "monthly",
-      "setup": "620 €",
-      "price": "440 €",
+      "setup": "850 €",
+      "price": "530 €",
       "audience": "Etabliertes Unternehmen, das mehr Kunden und Reichweite möchte.",
       "features": [
         "Professionelle Website",
@@ -1068,8 +1068,8 @@
       "category": "general",
       "badge": "Premium",
       "priceModel": "monthly",
-      "setup": "890 €",
-      "price": "890 €",
+      "setup": "1.160 €",
+      "price": "1.060 €",
       "audience": "Größeres Unternehmen, das schlüsselfertiges Marketing ohne Aufwand will.",
       "features": [
         "Alles aus dem Wachstums-Paket",
@@ -1143,7 +1143,7 @@
       "name": "Onlineshop- / E-Commerce-Paket",
       "category": "industry",
       "priceModel": "monthly",
-      "setup": "1.340 €",
+      "setup": "1.650 €",
       "price": "620 €",
       "audience": "Online-Händler, die mehr Verkäufe wollen.",
       "features": [
@@ -1239,7 +1239,7 @@
   "pricingHub": {
     "eyebrow": "Preise & Pakete",
     "h1": "Jedes Paket im Detail.",
-    "lead": "Transparente Pakete für jede Phase Ihres Wachstums — allgemein oder branchenspezifisch. Alle Preise verstehen sich zzgl. gesetzlicher MwSt.",
+    "lead": "Transparente Pakete für jede Phase Ihres Wachstums — allgemein oder branchenspezifisch. Als Kleinunternehmer gemäß § 19 UStG wird keine Umsatzsteuer berechnet.",
     "generalTitle": "Allgemeine Stufen",
     "industryTitle": "Branchenspezifische Pakete",
     "ctaLabel": "Details ansehen",
@@ -1352,7 +1352,7 @@
       }
     ],
     "teamTitle": "Wie wir arbeiten",
-    "teamText": "Clever Way Media ist ein schlankes, spezialisiertes Team — bewusst so aufgestellt, dass jeder Kunde direkten, persönlichen Kontakt hat, statt in einem großen Agentur-Apparat unterzugehen.",
+    "teamText": "Clever Way Media ist bewusst schlank aufgestellt: Bei uns hat jeder Kunde direkten, persönlichen Kontakt zu Marwan Bouabid — statt in einem großen Agentur-Apparat unterzugehen.",
     "marketsTitle": "Unsere Märkte",
     "markets": [
       "Deutschland",
@@ -1564,7 +1564,7 @@
         },
         {
           "type": "h2",
-          "text": "1. Automatisierte Neukundengewinnung"
+          "text": "1. Automatisierte Anfragen-Gewinnung"
         },
         {
           "type": "p",
@@ -1727,5 +1727,40 @@
   },
   "ui": {
     "more": "Mehr anzeigen"
+  },
+  "karriere": {
+    "metaTitle": "Karriere & Partnerprogramm — Clever Way Media",
+    "metaDesc": "Werde Empfehlungspartner von Clever Way Media: Betriebe empfehlen und mitverdienen — 20 % auf die erste Rechnung, 10 % monatlich. Ohne Anstellung, ohne Risiko.",
+    "eyebrow": "Partnerprogramm",
+    "h1": "Empfehlen und mitverdienen — ohne Risiko.",
+    "lead": "Kennst du Unternehmer, die eine bessere Website, Werbung oder KI-Automatisierung gebrauchen könnten? Empfiehl uns weiter und verdiene mit — ohne Anstellung, ohne feste Stunden, ohne Verpflichtung.",
+    "steps": [
+      {
+        "n": "1",
+        "t": "Ansprechen",
+        "x": "Du kennst einen Unternehmer — Friseur, Restaurant, Laden, egal welcher kleine Betrieb —, der von einer besseren Website, Werbung oder KI-Automatisierung profitieren würde? Sprich ihn an."
+      },
+      {
+        "n": "2",
+        "t": "Verbinden",
+        "x": "Wenn du ihn überzeugt hast, dass er das braucht, bringst du ihn mit uns zusammen. Den Rest — Termin, Angebot und Vertrag — übernehmen wir."
+      },
+      {
+        "n": "3",
+        "t": "Betreuen",
+        "x": "Ist der Kunde bei uns, meldest du dich einmal pro Woche kurz bei ihm — damit er merkt, dass wir uns kümmern."
+      }
+    ],
+    "role": "Du arbeitest nicht als Angestellter, sondern als Empfehlungspartner. Keine festen Stunden, keine vertragliche Verpflichtung.",
+    "payTitle": "Deine Vergütung",
+    "pay": [
+      "20 % auf die erste Rechnung (Einrichtung + 1. Monat) — sobald der Kunde bezahlt hat.",
+      "Ab dem 2. Monat: 10 % der monatlichen Betreuungsgebühr — solange der Kunde bei uns bleibt.",
+      "Auszahlung 1–2 Wochen nach Zahlungseingang, per Überweisung."
+    ],
+    "risk": "Kein Risiko: Du bekommst nur Geld, wenn wirklich ein Kunde daraus wird — dafür dann laufend, solange er bleibt.",
+    "ctaTitle": "Bist du dabei?",
+    "ctaText": "Wir halten alles in einer kurzen, schriftlichen Vereinbarung fest. Melde dich einfach.",
+    "ctaBtn": "Partner werden"
   }
 }

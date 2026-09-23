@@ -485,3 +485,24 @@
     .m-toggle:checked ~ .m-more{ display:none; }
   }
 
+  /* header phone */
+  .nav__phone{ display:inline-flex; align-items:center; gap:7px; color:var(--fg); font-size:14px; font-weight:500; white-space:nowrap; text-decoration:none; }
+  .nav__phone svg{ color:var(--gold-2); }
+  @media(max-width:1220px){ .nav__phone-num{ display:none; } .nav__phone{ padding:6px; } }
+
+  /* Karriere page */
+  .kar-step{ display:flex; gap:16px; align-items:flex-start; border:1px solid var(--line); border-radius:var(--r); background:var(--card); padding:20px 22px; margin-bottom:14px; }
+  .kar-step__n{ font-family:var(--serif); color:var(--gold-2); font-size:22px; font-weight:700; line-height:1; flex-shrink:0; }
+  .kar-step h3{ font-size:1.15rem; margin:0 0 6px; }
+  .kar-step p{ margin:0; color:var(--muted); font-size:15px; line-height:1.6; }
+  .kar-role{ color:var(--muted); font-style:italic; font-size:14px; margin:6px 0 0; }
+  .kar-pay{ background:var(--ink); border:1px solid var(--line); border-radius:var(--r); padding:26px 28px; margin:24px 0 18px; }
+  .kar-pay__k{ color:var(--gold-2); font-size:12px; letter-spacing:2px; text-transform:uppercase; font-weight:700; }
+  .kar-pay ul{ margin:14px 0 0; padding:0; list-style:none; }
+  .kar-pay li{ color:var(--fg); font-size:15px; padding:10px 0 10px 26px; position:relative; border-top:1px solid var(--line); }
+  .kar-pay li:first-child{ border-top:none; }
+  .kar-pay li:before{ content:"\2713"; color:var(--gold-2); position:absolute; left:0; font-weight:700; }
+  .kar-risk{ color:#3fae52; font-weight:600; margin:6px 0 22px; }
+  .kar-cta{ border:1px solid var(--line); border-radius:var(--r); padding:28px; text-align:center; background:var(--card); }
+  .kar-cta h3{ font-size:1.4rem; margin:0 0 8px; }
+  .kar-cta p{ color:var(--muted); margin:0 0 18px; }

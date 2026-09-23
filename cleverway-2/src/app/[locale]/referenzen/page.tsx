@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: { params: { locale: Locale } 
   return {
     title: `${t('h1')} — Clever Way Media`,
     description: t('lead'),
-    alternates: { canonical: `${SITE_URL}/${params.locale}/referenzen` },
+    alternates: { canonical: `${SITE_URL}/${params.locale}/referenzen`, languages: { de: `${SITE_URL}/de/referenzen`, hu: `${SITE_URL}/hu/referenzen`, ro: `${SITE_URL}/ro/referenzen`, 'x-default': `${SITE_URL}/de/referenzen` } },
   };
 }
 
