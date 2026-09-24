@@ -9,7 +9,7 @@ export const CALCOM_ORIGIN = process.env.NEXT_PUBLIC_CALCOM_ORIGIN ?? 'https://c
 export const FORM_ENDPOINT = process.env.NEXT_PUBLIC_FORM_ENDPOINT ?? 'https://formspree.io/f/mlgyvzne';
 
 export const SOCIAL = {
-  facebook: process.env.NEXT_PUBLIC_FACEBOOK_URL ?? 'https://www.facebook.com/share/19ZM4MK8da/',
+  facebook: process.env.NEXT_PUBLIC_FACEBOOK_URL ?? 'https://www.facebook.com/profile.php?id=100091651446199',
   instagram: process.env.NEXT_PUBLIC_INSTAGRAM_URL ?? 'https://instagram.com/cleverwaymedia',
   linkedin: process.env.NEXT_PUBLIC_LINKEDIN_URL ?? '',
 };
