@@ -3,8 +3,8 @@ export const SITE_NAME = 'Clever Way Media';
 export const CONTACT_EMAIL = 'info@cleverwaymedia.de';
 
 // Central place to swap in your real booking + form endpoints later.
-export const BOOKING_URL = process.env.NEXT_PUBLIC_BOOKING_URL ?? 'https://cal.eu/cleverwaymedia';
-export const CALCOM_LINK = process.env.NEXT_PUBLIC_CALCOM_LINK ?? 'cleverwaymedia'; // username (+ /event-slug if you add one)
+export const BOOKING_URL = process.env.NEXT_PUBLIC_BOOKING_URL ?? 'https://cal.eu/cleverwaymedia/1-hour-meeting';
+export const CALCOM_LINK = process.env.NEXT_PUBLIC_CALCOM_LINK ?? 'cleverwaymedia/1-hour-meeting'; // username (+ /event-slug if you add one)
 export const CALCOM_ORIGIN = process.env.NEXT_PUBLIC_CALCOM_ORIGIN ?? 'https://cal.eu'; // your Cal.com instance domain
 export const FORM_ENDPOINT = process.env.NEXT_PUBLIC_FORM_ENDPOINT ?? 'https://formspree.io/f/mlgyvzne';
 
