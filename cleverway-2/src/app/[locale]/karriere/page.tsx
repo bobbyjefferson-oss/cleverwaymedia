@@ -1,4 +1,5 @@
 import { getTranslations, setRequestLocale } from 'next-intl/server';
+import { pageMetadata } from '@/lib/site';
 import type { Locale } from '@/i18n/routing';
 import { locales } from '@/i18n/routing';
 import { SITE_URL, CONTACT_EMAIL } from '@/lib/site';
@@ -10,14 +11,7 @@ import Reveal from '@/components/Reveal';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'karriere' });
-  return {
-    title: t('metaTitle'),
-    description: t('metaDesc'),
-    alternates: {
-      canonical: `${SITE_URL}/${params.locale}/karriere`,
-      languages: Object.fromEntries(locales.map((l) => [l, `${SITE_URL}/${l}/karriere`])),
-    },
-  };
+  return pageMetadata(params.locale, '/karriere', t('metaTitle'), t('metaDesc'));
 }
 
 export default async function KarrierePage({ params }: { params: { locale: Locale } }) {

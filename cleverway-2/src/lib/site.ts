@@ -9,7 +9,7 @@ export const CALCOM_ORIGIN = process.env.NEXT_PUBLIC_CALCOM_ORIGIN ?? 'https://c
 export const FORM_ENDPOINT = process.env.NEXT_PUBLIC_FORM_ENDPOINT ?? 'https://formspree.io/f/mlgyvzne';
 
 export const SOCIAL = {
-  facebook: process.env.NEXT_PUBLIC_FACEBOOK_URL ?? 'https://www.facebook.com/share/19ZM4MK8da/?mibextid=wwXIfr',
+  facebook: process.env.NEXT_PUBLIC_FACEBOOK_URL ?? 'https://www.facebook.com/share/19ZM4MK8da/',
   instagram: process.env.NEXT_PUBLIC_INSTAGRAM_URL ?? 'https://instagram.com/cleverwaymedia',
   linkedin: process.env.NEXT_PUBLIC_LINKEDIN_URL ?? '',
 };
@@ -25,4 +25,30 @@ export function buildMailto(subject: string, fields: Record<string, string | und
     .map(([k, v]) => `${k}: ${v}`);
   const body = encodeURIComponent(lines.join('\n'));
   return `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}&body=${body}`;
+}
+
+
+export function pageMetadata(locale: string, path: string, title: string, description: string) {
+  const url = `${SITE_URL}/${locale}${path}`;
+  return {
+    title,
+    description,
+    alternates: {
+      canonical: url,
+      languages: {
+        de: `${SITE_URL}/de${path}`,
+        hu: `${SITE_URL}/hu${path}`,
+        ro: `${SITE_URL}/ro${path}`,
+        'x-default': `${SITE_URL}/de${path}`,
+      },
+    },
+    openGraph: {
+      type: 'website',
+      url,
+      siteName: 'Clever Way Media',
+      title,
+      description,
+      locale,
+    },
+  };
 }

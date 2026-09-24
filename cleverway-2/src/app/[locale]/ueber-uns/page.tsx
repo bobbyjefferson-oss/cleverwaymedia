@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { pageMetadata } from '@/lib/site';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Locale } from '@/i18n/routing';
 import { locales } from '@/i18n/routing';
@@ -11,14 +12,7 @@ import Reveal from '@/components/Reveal';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'about' });
-  return {
-    title: `${t('h1')} — Clever Way Media`,
-    description: t('lead'),
-    alternates: {
-      canonical: `${SITE_URL}/${params.locale}/ueber-uns`,
-      languages: Object.fromEntries(locales.map((l) => [l, `${SITE_URL}/${l}/ueber-uns`])),
-    },
-  };
+  return pageMetadata(params.locale, '/ueber-uns', `${t('h1')} — Clever Way Media`, t('lead'));
 }
 
 export default async function AboutPage({ params }: { params: { locale: Locale } }) {

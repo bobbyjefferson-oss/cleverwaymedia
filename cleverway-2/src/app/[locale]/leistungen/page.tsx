@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { pageMetadata } from '@/lib/site';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Locale } from '@/i18n/routing';
 import { SERVICE_SLUGS } from '@/lib/services-data';
@@ -11,11 +12,7 @@ import Reveal from '@/components/Reveal';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'servicesHub' });
-  return {
-    title: `${t('h1')} — Clever Way Media`,
-    description: t('lead'),
-    alternates: { canonical: `${SITE_URL}/${params.locale}/leistungen`, languages: { de: `${SITE_URL}/de/leistungen`, hu: `${SITE_URL}/hu/leistungen`, ro: `${SITE_URL}/ro/leistungen`, 'x-default': `${SITE_URL}/de/leistungen` } },
-  };
+  return pageMetadata(params.locale, '/leistungen', `${t('h1')} — Clever Way Media`, t('lead'));
 }
 
 export default async function ServicesHubPage({ params }: { params: { locale: Locale } }) {

@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { pageMetadata } from '@/lib/site';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Locale } from '@/i18n/routing';
 import { BLOG_SLUGS } from '@/lib/blog-data';
@@ -11,11 +12,7 @@ import Reveal from '@/components/Reveal';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'blogHub' });
-  return {
-    title: `${t('h1')} — Clever Way Media Blog`,
-    description: t('lead'),
-    alternates: { canonical: `${SITE_URL}/${params.locale}/blog`, languages: { de: `${SITE_URL}/de/blog`, hu: `${SITE_URL}/hu/blog`, ro: `${SITE_URL}/ro/blog`, 'x-default': `${SITE_URL}/de/blog` } },
-  };
+  return pageMetadata(params.locale, '/blog', `${t('h1')} — Clever Way Media Blog`, t('lead'));
 }
 
 export default async function BlogHubPage({ params }: { params: { locale: Locale } }) {

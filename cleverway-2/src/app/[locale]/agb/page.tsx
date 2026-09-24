@@ -1,4 +1,5 @@
 import { getTranslations, setRequestLocale } from 'next-intl/server';
+import { pageMetadata } from '@/lib/site';
 import type { Locale } from '@/i18n/routing';
 import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
@@ -6,7 +7,7 @@ import LegalPage from '@/components/LegalPage';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'legal.agb' });
-  return { title: `${t('title')} — Clever Way Media`, robots: { index: true, follow: true } };
+  return pageMetadata(params.locale, '/agb', `${t('title')} — Clever Way Media`, `Allgemeine Geschäftsbedingungen von Clever Way Media`);
 }
 
 export default async function AgbPage({ params }: { params: { locale: Locale } }) {

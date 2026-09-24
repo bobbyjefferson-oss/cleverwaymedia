@@ -9,12 +9,12 @@ export default function Footer() {
   const agency = t.raw('agency') as string[];
   const legal = t.raw('legal') as string[];
 
-  const serviceHrefs = ['#leistungen', '#leistungen', '#ki', '#ki'].map((h) => `/${locale}${h}`);
+  const serviceHrefs = services.map(() => `/${locale}/leistungen`);
   const agencyHrefs = [
     `/${locale}/ueber-uns`,
     `/${locale}/blog`,
-    `/${locale}#referenzen`,
-    `/${locale}#preise`,
+    `/${locale}/referenzen`,
+    `/${locale}/preise`,
     `/${locale}#faq`,
     `/${locale}#termin`,
   ];
