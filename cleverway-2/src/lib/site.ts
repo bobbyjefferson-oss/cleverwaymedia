@@ -1,3 +1,4 @@
+import type { Metadata } from 'next';
 export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.cleverwaymedia.de';
 export const SITE_NAME = 'Clever Way Media';
 export const CONTACT_EMAIL = 'info@cleverwaymedia.de';
@@ -28,7 +29,7 @@ export function buildMailto(subject: string, fields: Record<string, string | und
 }
 
 
-export function pageMetadata(locale: string, path: string, title: string, description: string) {
+export function pageMetadata(locale: string, path: string, title: string, description: string): Metadata {
   const url = `${SITE_URL}/${locale}${path}`;
   return {
     title,
@@ -49,6 +50,13 @@ export function pageMetadata(locale: string, path: string, title: string, descri
       title,
       description,
       locale,
+      images: [{ url: `${SITE_URL}/og-image.png`, width: 1200, height: 630, alt: 'Clever Way Media' }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: [`${SITE_URL}/og-image.png`],
     },
   };
 }
