@@ -320,7 +320,7 @@
         "btn": "Csomag választása"
       }
     ],
-    "note": "Iparági csomagként is elérhető (pl. vendéglátás, e-kereskedelem, ingatlan, helyi szolgáltatók, B2B) — csak keressen minket.",
+    "note": "Nem talál pontosan illő csomagot? Összeállítunk egy egyedi csomagot az igényei szerint — csak keressen minket.",
     "foot": "Kleinunternehmerként a német § 19 UStG szerint áfát nem számítunk fel.",
     "hubLink": "Minden csomag részletesen"
   },
@@ -1162,7 +1162,11 @@
     "backToOverview": "Vissza az árak áttekintéséhez",
     "monthlyLabel": "/ hó",
     "onceLabel": "egyszeri",
-    "setupLabel": "Beállítás (egyszeri)"
+    "setupLabel": "Beállítás (egyszeri)",
+    "customEyebrow": "Egyedi",
+    "customTitle": "Nem talál pontosan illő csomagot?",
+    "customText": "Semmi gond — összeállítunk egy egyedi csomagot pontosan az Ön igényei szerint. Csak azért fizet, amire tényleg szüksége van.",
+    "customBtn": "Egyedi csomagot kérek"
   },
   "casesDetail": {
     "ki-telefonassistent": {

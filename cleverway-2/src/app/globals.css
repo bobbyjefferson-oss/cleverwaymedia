@@ -103,7 +103,7 @@
   .lang b{color:var(--fg)}
   .lang span{opacity:.4}
   .burger{display:none;background:none;border:0;color:var(--fg);cursor:pointer;padding:8px;flex-shrink:0}
-  @media(max-width:1220px){
+  @media(max-width:1400px){
     .nav__links,.nav__cta .btn,.nav__cta .lang{display:none}
     .burger{display:block}
   }
@@ -500,3 +500,9 @@
   .kar-cta{ border:1px solid var(--line); border-radius:var(--r); padding:28px; text-align:center; background:var(--card); }
   .kar-cta h3{ font-size:1.4rem; margin:0 0 8px; }
   .kar-cta p{ color:var(--muted); margin:0 0 18px; }
+
+  /* custom package block (replaces branchen packages) */
+  .custom-pkg{ border:1px solid var(--line); border-radius:var(--r); background:var(--card); padding:38px 32px; text-align:center; }
+  .custom-pkg .eyebrow{ display:block; margin-bottom:10px; }
+  .custom-pkg h3{ font-size:1.6rem; margin:0 0 10px; }
+  .custom-pkg p{ color:var(--muted); max-width:580px; margin:0 auto 22px; line-height:1.6; }

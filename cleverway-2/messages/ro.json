@@ -320,7 +320,7 @@
         "btn": "Alegeți pachetul"
       }
     ],
-    "note": "Disponibil și ca pachet pe domenii (ex. gastronomie, e-commerce, imobiliare, servicii locale, B2B) — contactați-ne pur și simplu.",
+    "note": "Niciun pachet nu se potrivește exact? Vă alcătuim un pachet personalizat după nevoile dvs. — contactați-ne pur și simplu.",
     "foot": "Ca Kleinunternehmer conform § 19 UStG (Germania), nu se percepe TVA.",
     "hubLink": "Vezi toate pachetele în detaliu"
   },
@@ -1162,7 +1162,11 @@
     "backToOverview": "Înapoi la prezentarea prețurilor",
     "monthlyLabel": "/ lună",
     "onceLabel": "o singură dată",
-    "setupLabel": "Configurare (o singură dată)"
+    "setupLabel": "Configurare (o singură dată)",
+    "customEyebrow": "Personalizat",
+    "customTitle": "Niciun pachet nu se potrivește exact?",
+    "customText": "Nicio problemă — vă alcătuim un pachet personalizat exact după nevoile dvs. Plătiți doar pentru ceea ce aveți cu adevărat nevoie.",
+    "customBtn": "Solicită pachet personalizat"
   },
   "casesDetail": {
     "ki-telefonassistent": {

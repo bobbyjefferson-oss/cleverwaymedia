@@ -54,7 +54,6 @@ export default async function PricingHubPage({ params }: { params: { locale: Loc
   ]);
 
   const general = PACKAGE_SLUGS.filter((p) => p.category === 'general');
-  const industry = PACKAGE_SLUGS.filter((p) => p.category === 'industry');
 
   const tt = (k: string) => t(k as any);
 
@@ -94,26 +93,14 @@ export default async function PricingHubPage({ params }: { params: { locale: Loc
               })}
             </div>
 
-            <Reveal className="group-title-dark" style={{ marginTop: 60 }}>{t('industryTitle')}</Reveal>
-            <div className="price-grid">
-              {industry.map((p) => {
-                const d = raw(p.slug);
-                return (
-                  <PackageCard
-                    key={p.slug}
-                    locale={params.locale}
-                    slug={p.slug}
-                    name={d.name}
-                    price={d.price}
-                    priceModel={d.priceModel}
-                    setup={d.setup}
-                    badge={d.badge ?? null}
-                    audience={d.audience}
-                    t={tt}
-                  />
-                );
-              })}
-            </div>
+            <Reveal className="custom-pkg" style={{ marginTop: 60 }}>
+              <span className="eyebrow">{t('customEyebrow')}</span>
+              <h3>{t('customTitle')}</h3>
+              <p>{t('customText')}</p>
+              <a href={`/${params.locale}#termin`} className="btn btn--gold">
+                {t('customBtn')} <span className="btn__arrow">→</span>
+              </a>
+            </Reveal>
           </div>
         </section>
       </main>

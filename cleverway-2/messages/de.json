@@ -320,7 +320,7 @@
         "btn": "Paket wählen"
       }
     ],
-    "note": "Auch als Branchenpaket verfügbar (z. B. Gastronomie, E-Commerce, Immobilien, lokale Dienstleister, B2B) — sprechen Sie uns einfach an.",
+    "note": "Kein Paket passt genau? Wir stellen Ihnen ein individuelles Paket nach Ihrem Bedarf zusammen — sprechen Sie uns einfach an.",
     "foot": "Als Kleinunternehmer gemäß § 19 UStG wird keine Umsatzsteuer berechnet.",
     "hubLink": "Alle Pakete im Detail ansehen"
   },
@@ -1252,7 +1252,11 @@
     "backToOverview": "Zurück zur Preisübersicht",
     "monthlyLabel": "/ Monat",
     "onceLabel": "einmalig",
-    "setupLabel": "Einrichtung (einmalig)"
+    "setupLabel": "Einrichtung (einmalig)",
+    "customEyebrow": "Individuell",
+    "customTitle": "Kein Paket passt genau?",
+    "customText": "Kein Problem — wir stellen Ihnen ein individuelles Paket genau nach Ihrem Bedarf zusammen. Sie zahlen nur für das, was Sie wirklich brauchen.",
+    "customBtn": "Individuelles Paket anfragen"
   },
   "casesDetail": {
     "ki-telefonassistent": {
