@@ -13,70 +13,96 @@ export default function VoiceDemo() {
   const t = useTranslations('voiceDemo');
   const [status, setStatus] = useState<Status>('idle');
   const [seconds, setSeconds] = useState(0);
-  const clientRef = useRef<any>(null);
+  // Typed as `any` on purpose: keeps the build independent of SDK typing changes.
+  const callRef = useRef<any>(null);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
-  const cleanup = useCallback(() => {
+  const stopTimer = useCallback(() => {
     if (timerRef.current) {
       clearInterval(timerRef.current);
       timerRef.current = null;
     }
   }, []);
 
-  const endCall = useCallback(() => {
-    try {
-      clientRef.current?.stopCall?.();
-    } catch {
-      /* no-op: call may already be closed */
-    }
-    cleanup();
-    setStatus((s) => (s === 'error' ? s : 'ended'));
-  }, [cleanup]);
+  const startTimer = useCallback(() => {
+    stopTimer();
+    setSeconds(0);
+    timerRef.current = setInterval(() => {
+      setSeconds((s) => {
+        const next = s + 1;
+        if (next >= MAX_SECONDS) {
+          stopTimer();
+          try {
+            callRef.current?.end?.();
+          } catch {
+            /* already ended */
+          }
+        }
+        return next;
+      });
+    }, 1000);
+  }, [stopTimer]);
 
-  useEffect(() => cleanup, [cleanup]);
+  const endCall = useCallback(async () => {
+    try {
+      await callRef.current?.end?.();
+    } catch {
+      /* already ended */
+    }
+    stopTimer();
+    setStatus((s) => (s === 'error' ? s : 'ended'));
+  }, [stopTimer]);
+
+  // Clean up if the user navigates away mid-call.
+  useEffect(
+    () => () => {
+      stopTimer();
+      try {
+        callRef.current?.end?.();
+      } catch {
+        /* no-op */
+      }
+    },
+    [stopTimer]
+  );
 
   const startCall = useCallback(async () => {
-    if (!AGENT_ID || !PUBLIC_KEY) {
-      setStatus('error');
-      return;
-    }
+    if (callRef.current && callRef.current.status !== 'ended') return;
     setStatus('connecting');
     setSeconds(0);
     try {
-      const { RetellClient } = await import('retell-client-js-sdk');
-      const client = new RetellClient({ key: PUBLIC_KEY });
-      clientRef.current = client;
+      const mod: any = await import('retell-client-js-sdk');
+      const client: any = new mod.RetellClient({ key: PUBLIC_KEY });
 
-      client.on?.('call_started', () => setStatus('active'));
-      client.on?.('call_ended', () => {
-        cleanup();
-        setStatus('ended');
+      callRef.current = client.createWebCall({
+        agent_id: AGENT_ID,
+        hooks: {
+          onStatus: (s: string) => {
+            if (s === 'live') {
+              setStatus('active');
+              startTimer();
+            } else if (s === 'ended') {
+              stopTimer();
+              setStatus((prev) => (prev === 'error' ? prev : 'ended'));
+            }
+          },
+          onEnd: () => {
+            stopTimer();
+            setStatus((prev) => (prev === 'error' ? prev : 'ended'));
+          },
+          onError: () => {
+            stopTimer();
+            setStatus('error');
+          },
+        },
       });
-      client.on?.('error', () => {
-        cleanup();
-        setStatus('error');
-      });
-
-      await client.createWebCall({ agentId: AGENT_ID });
-
-      // Fallback: if no 'call_started' event fires, still reflect connection.
-      setStatus('active');
-      timerRef.current = setInterval(() => {
-        setSeconds((s) => {
-          if (s + 1 >= MAX_SECONDS) {
-            endCall();
-            return MAX_SECONDS;
-          }
-          return s + 1;
-        });
-      }, 1000);
     } catch {
-      cleanup();
+      stopTimer();
       setStatus('error');
     }
-  }, [cleanup, endCall]);
+  }, [startTimer, stopTimer]);
 
-  const mm = String(Math.floor(seconds / 60)).padStart(1, '0');
+  const mm = String(Math.floor(seconds / 60));
   const ss = String(seconds % 60).padStart(2, '0');
 
   return (
@@ -96,18 +122,13 @@ export default function VoiceDemo() {
         </div>
       </div>
 
-      {status === 'active' ? (
+      {status === 'active' || status === 'connecting' ? (
         <button type="button" className="btn btn--ghost voice-demo__btn" onClick={endCall}>
           {t('endBtn')}
         </button>
       ) : (
-        <button
-          type="button"
-          className="btn btn--gold voice-demo__btn"
-          onClick={startCall}
-          disabled={status === 'connecting'}
-        >
-          {status === 'connecting' ? t('connecting') : t('startBtn')} <span className="btn__arrow">→</span>
+        <button type="button" className="btn btn--gold voice-demo__btn" onClick={startCall}>
+          {t('startBtn')} <span className="btn__arrow">→</span>
         </button>
       )}
 
