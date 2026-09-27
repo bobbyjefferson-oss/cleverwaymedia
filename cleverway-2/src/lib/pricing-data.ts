@@ -1,6 +1,7 @@
 export type PackageSlug = 'start' | 'wachstum' | 'komplett';
+export type PackageCategory = 'general' | 'industry';
 
-export const PACKAGE_SLUGS: { slug: PackageSlug; category: 'general' }[] = [
+export const PACKAGE_SLUGS: { slug: PackageSlug; category: PackageCategory }[] = [
   { slug: 'start', category: 'general' },
   { slug: 'wachstum', category: 'general' },
   { slug: 'komplett', category: 'general' },
