@@ -1766,5 +1766,15 @@
     "ctaTitle": "Bist du dabei?",
     "ctaText": "Wir halten alles in einer kurzen, schriftlichen Vereinbarung fest. Melde dich einfach.",
     "ctaBtn": "Partner werden"
+  },
+  "voiceDemo": {
+    "idle": "Bereit? Sprechen Sie mit Max, unserem KI-Telefonassistenten.",
+    "connecting": "Verbindung wird hergestellt …",
+    "active": "Sie sprechen mit Max.",
+    "ended": "Gespräch beendet. Danke fürs Testen!",
+    "error": "Verbindung nicht möglich. Bitte Mikrofon erlauben oder später erneut versuchen.",
+    "startBtn": "KI-Assistenten testen",
+    "endBtn": "Gespräch beenden",
+    "privacyNote": "Läuft direkt im Browser über Ihr Mikrofon. Max ist eine KI — das wird zu Beginn des Gesprächs angesagt. Max. 2 Minuten pro Test."
   }
 }

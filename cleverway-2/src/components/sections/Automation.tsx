@@ -1,5 +1,6 @@
 import { useTranslations } from 'next-intl';
 import Reveal from '@/components/Reveal';
+import VoiceDemo from '@/components/VoiceDemo';
 
 type Tile = { id: string; title: string; text: string };
 
@@ -59,6 +60,7 @@ export default function Automation() {
               <Ico id={tile.id} size={tile.id === 'telefon' ? 24 : 22} />
               <h3>{tile.title}</h3>
               <p>{tile.text}</p>
+              {tile.id === 'telefon' ? <VoiceDemo /> : null}
             </Reveal>
           ))}
 

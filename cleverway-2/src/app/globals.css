@@ -506,3 +506,17 @@
   .custom-pkg .eyebrow{ display:block; margin-bottom:10px; }
   .custom-pkg h3{ font-size:1.6rem; margin:0 0 10px; }
   .custom-pkg p{ color:var(--muted); max-width:580px; margin:0 auto 22px; line-height:1.6; }
+
+  /* Voice demo widget (KI-Telefonassistent live test) */
+  .voice-demo{ margin-top:18px; padding-top:16px; border-top:1px solid rgba(201,159,96,.22); }
+  .voice-demo__row{ display:flex; align-items:center; gap:9px; margin-bottom:12px; }
+  .voice-demo__dot{ width:9px; height:9px; border-radius:50%; background:var(--muted); flex-shrink:0; }
+  .voice-demo__dot--connecting{ background:#e3c07a; animation:vd-pulse 1s ease-in-out infinite; }
+  .voice-demo__dot--active{ background:#4ade80; animation:vd-pulse 1.4s ease-in-out infinite; }
+  .voice-demo__dot--error{ background:#e06a6a; }
+  .voice-demo__dot--ended{ background:var(--muted); }
+  @keyframes vd-pulse{ 0%,100%{opacity:1} 50%{opacity:.35} }
+  .voice-demo__text p{ margin:0; font-size:14px; color:var(--fg); }
+  .voice-demo__timer{ color:var(--gold-2); font-variant-numeric:tabular-nums; margin-left:4px; }
+  .voice-demo__btn{ width:100%; justify-content:center; padding:12px 20px; font-size:14.5px; }
+  .voice-demo__note{ margin:10px 0 0; font-size:12px; color:var(--muted); line-height:1.5; }

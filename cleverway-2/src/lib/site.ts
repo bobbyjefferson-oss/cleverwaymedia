@@ -60,3 +60,8 @@ export function pageMetadata(locale: string, path: string, title: string, descri
     },
   };
 }
+
+// KI-Telefonassistent live demo (VoiceDemo component).
+// Set these in Vercel → Project → Settings → Environment Variables:
+//   NEXT_PUBLIC_RETELL_AGENT_ID  = agent_f8be111504f83c267bdc21551f
+//   NEXT_PUBLIC_RETELL_PUBLIC_KEY = public_key_... (copy the FULL value from Retell → Settings → API Keys → Public Keys)

@@ -1593,5 +1593,15 @@
     "ctaTitle": "Benne vagy?",
     "ctaText": "Mindent rögzítünk egy rövid, írásbeli megállapodásban. Csak jelentkezz.",
     "ctaBtn": "Partner leszek"
+  },
+  "voiceDemo": {
+    "idle": "Készen áll? Beszéljen Max-szal, MI-telefonasszisztensünkkel.",
+    "connecting": "Kapcsolódás …",
+    "active": "Ön Max-szal beszél.",
+    "ended": "A hívás véget ért. Köszönjük a kipróbálást!",
+    "error": "Nem sikerült csatlakozni. Engedélyezze a mikrofont, vagy próbálja később.",
+    "startBtn": "MI-asszisztens kipróbálása",
+    "endBtn": "Hívás befejezése",
+    "privacyNote": "Közvetlenül a böngészőben fut, a mikrofonján keresztül. Max egy MI — ezt a beszélgetés elején bemondja. Max. 2 perc tesztenként."
   }
 }

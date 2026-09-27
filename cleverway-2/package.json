@@ -2,7 +2,7 @@
   "name": "cleverway-media",
   "version": "1.0.0",
   "private": true,
-  "description": "Clever Way Media – Marketing trifft Automation. Next.js Website (DE/HU/RO).",
+  "description": "Clever Way Media \u2013 Marketing trifft Automation. Next.js Website (DE/HU/RO).",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -15,7 +15,8 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "framer-motion": "^11.11.1",
-    "lenis": "^1.1.13"
+    "lenis": "^1.1.13",
+    "retell-client-js-sdk": "^3.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.16.11",

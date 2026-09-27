@@ -1593,5 +1593,15 @@
     "ctaTitle": "Ești în echipă?",
     "ctaText": "Punem totul într-un acord scris scurt. Contactează-ne pur și simplu.",
     "ctaBtn": "Devino partener"
+  },
+  "voiceDemo": {
+    "idle": "Gata? Vorbiți cu Max, asistentul nostru telefonic AI.",
+    "connecting": "Se conectează …",
+    "active": "Vorbiți cu Max.",
+    "ended": "Apel încheiat. Mulțumim pentru testare!",
+    "error": "Conectare imposibilă. Permiteți microfonul sau încercați din nou mai târziu.",
+    "startBtn": "Testează asistentul AI",
+    "endBtn": "Încheie apelul",
+    "privacyNote": "Rulează direct în browser, prin microfonul dvs. Max este un AI — acest lucru este anunțat la începutul apelului. Max. 2 minute per test."
   }
 }
