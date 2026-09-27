@@ -1614,5 +1614,167 @@
     "text": "Descoperiți cum preia apelurile asistentul nostru telefonic AI — direct în browser, fără număr de telefon.",
     "close": "Închide",
     "tileBtn": "Testează acum live"
+  },
+  "audit": {
+    "metaTitle": "Verificare gratuită a site-ului — Clever Way Media",
+    "metaDesc": "Verificați-vă site-ul în câteva secunde: adaptare pentru mobil, vizibilitate în Google, viteză și date de contact — gratuit și fără obligații.",
+    "eyebrow": "Verificare gratuită a site-ului",
+    "h1": "Cât de bun este de fapt site-ul dvs.?",
+    "lead": "Introduceți adresa și aflați în câteva secunde ce îi încetinește pe clienți și pe Google pe site-ul dvs. — cu recomandări concrete.",
+    "placeholder": "site-ul-dvs.ro",
+    "submit": "Verifică site-ul",
+    "checking": "Se verifică …",
+    "bullets": [
+      "Peste 10 puncte de verificare",
+      "Rezultat în câteva secunde",
+      "Gratuit și fără obligații"
+    ],
+    "errors": {
+      "invalid": "Vă rugăm să introduceți o adresă validă, de ex. firma-mea.ro.",
+      "blocked": "Această adresă nu poate fi verificată.",
+      "unreachable": "Site-ul nu a putut fi accesat. Este corectă adresa?",
+      "notHtml": "La această adresă nu a fost găsit niciun site.",
+      "rate": "Prea multe verificări într-un timp scurt — vă rugăm să reîncercați peste câteva minute.",
+      "generic": "Ceva nu a funcționat. Vă rugăm să reîncercați."
+    },
+    "scoreLabel": "Scor total",
+    "verdict": {
+      "good": "Bază solidă",
+      "ok": "Se poate îmbunătăți",
+      "bad": "Necesită intervenție urgentă"
+    },
+    "speedPending": "Viteza pe mobil se măsoară încă …",
+    "issuesTitle": "Cele mai importante probleme",
+    "noIssues": "Excelent — nu am găsit probleme la punctele verificate.",
+    "passedTitle": "Ce este deja în regulă",
+    "tipLabel": "Recomandarea noastră",
+    "locked": "Încă {n} puncte de verificare și toate recomandările în raportul complet",
+    "unlock": {
+      "title": "Deblocați raportul complet",
+      "text": "Vedeți toate rezultatele cu recomandări concrete. La cerere, îl parcurgem împreună într-o discuție gratuită.",
+      "name": "Nume",
+      "email": "E-mail",
+      "phone": "Telefon (opțional)",
+      "submit": "Afișează raportul",
+      "note": "Fără newsletter, fără spam. Vă contactăm cel mult o dată, personal, legat de rezultat."
+    },
+    "ctaTitle": "Rezolvăm noi aceste probleme?",
+    "ctaText": "În discuția strategică gratuită vă arătăm ce puncte aduc cel mai mult — și cât costă.",
+    "ctaBtn": "Programați discuția strategică",
+    "again": "Verificați alt site",
+    "privacy": "Citim doar conținutul public al paginii principale. Viteza pe mobil este măsurată prin Google PageSpeed Insights.",
+    "teaser": {
+      "eyebrow": "Verificare gratuită a site-ului",
+      "h2": "Cât de bun este de fapt site-ul dvs.?",
+      "text": "Peste 10 puncte de verificare, în câteva secunde — mobil, Google, viteză, contact. Cu recomandări concrete.",
+      "btn": "Verificați acum, gratuit"
+    },
+    "checks": {
+      "speed": {
+        "name": "Viteza pe mobil",
+        "pass": "Rapid: {value}/100 puncte la Google PageSpeed (mobil).",
+        "warn": "Mediu: {value}/100 puncte la Google PageSpeed (mobil).",
+        "fail": "Lent: doar {value}/100 puncte la Google PageSpeed (mobil).",
+        "tip": "Comprimați imaginile (WebP), eliminați scripturile și pluginurile inutile și folosiți un hosting rapid. Fiecare secundă de întârziere costă solicitări."
+      },
+      "https": {
+        "name": "Conexiune sigură (HTTPS)",
+        "pass": "Site-ul rulează criptat prin HTTPS.",
+        "warn": "Conexiunea nu este complet criptată.",
+        "fail": "Site-ul nu este criptat — browserele afișează „Nesigur”.",
+        "tip": "Activați un certificat SSL (gratuit la majoritatea firmelor de hosting) și redirecționați totul către HTTPS."
+      },
+      "response": {
+        "name": "Timpul de răspuns al serverului",
+        "pass": "Serverul răspunde rapid ({value} ms).",
+        "warn": "Serverul răspunde cam lent ({value} ms).",
+        "fail": "Serverul răspunde foarte lent ({value} ms).",
+        "tip": "Activați caching-ul sau treceți la un hosting mai rapid. Sub 800 ms este o valoare bună."
+      },
+      "viewport": {
+        "name": "Afișare pe mobil",
+        "pass": "Site-ul este configurat pentru smartphone.",
+        "warn": "Configurarea pentru mobil este incompletă.",
+        "fail": "Site-ul nu este optimizat pentru smartphone — deși majoritatea vizitatorilor vin de pe mobil.",
+        "tip": "Folosiți un layout responsive cu setare viewport, ca textele și butoanele să fie ușor de folosit pe telefon."
+      },
+      "title": {
+        "name": "Titlul paginii în Google",
+        "pass": "Titlul paginii există și are o lungime bună ({value} caractere).",
+        "warn": "Titlul are o lungime nepotrivită ({value} caractere) — prea scurt irosește potențial, prea lung este tăiat de Google.",
+        "fail": "Lipsește titlul paginii — Google nu știe cum să afișeze site-ul.",
+        "tip": "Un titlu de 15–65 de caractere: serviciu + oraș + nume firmă, de ex. „Frizerie în Cluj | Salon Exemplu”."
+      },
+      "description": {
+        "name": "Descrierea din rezultatele căutării",
+        "pass": "Meta descrierea există și are o lungime bună ({value} caractere).",
+        "warn": "Meta descrierea are o lungime nepotrivită ({value} caractere) — prea scurtă nu convinge, prea lungă este tăiată.",
+        "fail": "Lipsește meta descrierea — Google alege atunci un fragment aleatoriu.",
+        "tip": "70–165 de caractere care combină beneficiul și un îndemn la acțiune — este reclama dvs. în rezultatele căutării."
+      },
+      "h1": {
+        "name": "Titlul principal (H1)",
+        "pass": "Exact un titlu principal — structură curată.",
+        "warn": "Există {value} titluri principale — tema paginii devine neclară.",
+        "fail": "Lipsește titlul principal.",
+        "tip": "Exact un H1 pe pagină, care spune clar ce oferiți și unde."
+      },
+      "contact": {
+        "name": "Posibilități de contact",
+        "pass": "Vizitatorii vă pot suna direct, cu un clic.",
+        "warn": "Contactul este posibil, dar lipsește un număr de telefon pe care se poate da clic.",
+        "fail": "Pe pagina principală nu există nicio posibilitate de contact direct.",
+        "tip": "Afișați vizibil un telefon pe care se poate da clic, e-mail sau WhatsApp — ideal și în antet."
+      },
+      "legal": {
+        "name": "Date legale și confidențialitate",
+        "pass": "Datele legale (Impressum) și politica de confidențialitate sunt legate.",
+        "warn": "Lipsesc datele legale sau politica de confidențialitate de pe pagina principală.",
+        "fail": "Nu sunt legate nici datele legale, nici politica de confidențialitate.",
+        "tip": "Legați ambele pagini de pe fiecare subpagină, de exemplu în subsol."
+      },
+      "schema": {
+        "name": "Date structurate pentru Google",
+        "pass": "Google primește datele firmei în format structurat.",
+        "warn": "Există date structurate, dar fără datele firmei.",
+        "fail": "Nu există date structurate — Google trebuie să ghicească datele firmei.",
+        "tip": "Adăugați marcaj LocalBusiness cu nume, adresă, telefon și program. Asta întărește vizibilitatea locală."
+      },
+      "alt": {
+        "name": "Descrierea imaginilor (texte alt)",
+        "pass": "{value}% dintre imagini au descriere.",
+        "warn": "Doar {value}% dintre imagini au descriere.",
+        "fail": "Doar {value}% dintre imagini au descriere.",
+        "tip": "Dați fiecărei imagini un text alt scurt și descriptiv — bun pentru Google Imagini și accesibilitate."
+      },
+      "crawl": {
+        "name": "robots.txt și sitemap",
+        "pass": "Există robots.txt și sitemap.",
+        "warn": "Lipsește robots.txt sau sitemap-ul.",
+        "fail": "Nu au fost găsite nici robots.txt, nici sitemap.",
+        "tip": "Creați un sitemap.xml și trimiteți-l în Google Search Console, ca toate paginile să fie găsite."
+      },
+      "og": {
+        "name": "Previzualizare la distribuire",
+        "pass": "La distribuirea pe WhatsApp, Facebook etc. apare o previzualizare frumoasă.",
+        "warn": "Previzualizarea la distribuire este incompletă.",
+        "fail": "La distribuirea paginii nu apare o previzualizare atractivă.",
+        "tip": "Setați titlu și imagine Open Graph, ca linkurile distribuite să arate profesionist."
+      },
+      "lang": {
+        "name": "Limba paginii",
+        "pass": "Limba paginii este setată corect.",
+        "warn": "Setarea limbii este incompletă.",
+        "fail": "Limba paginii nu este specificată.",
+        "tip": "Setați atributul lang (de ex. „ro”) — ajută Google și cititoarele de ecran."
+      },
+      "favicon": {
+        "name": "Favicon",
+        "pass": "Există un favicon (iconița din browser).",
+        "warn": "Lipsește faviconul din fila browserului.",
+        "fail": "Lipsește faviconul din fila browserului.",
+        "tip": "Adăugați logoul ca iconiță mică — arată mai profesionist și apare și în Google."
+      }
+    }
   }
 }

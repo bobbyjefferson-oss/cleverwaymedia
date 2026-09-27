@@ -3,6 +3,7 @@ import { locales } from '@/i18n/routing';
 
 export default function Footer() {
   const t = useTranslations('footer');
+  const ta = useTranslations('audit');
   const locale = useLocale();
 
   const services = t.raw('services') as string[];
@@ -36,6 +37,7 @@ export default function Footer() {
           <div className="foot-col">
             <h4>{t('agencyTitle')}</h4>
             {agency.map((l, i) => <a key={i} href={agencyHrefs[i]}>{l}</a>)}
+            <a href={`/${locale}/website-check`}>{ta('eyebrow')}</a>
           </div>
           <div className="foot-col">
             <h4>{t('legalTitle')}</h4>

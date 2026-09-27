@@ -7,6 +7,7 @@ import Marquee from '@/components/sections/Marquee';
 import Automation from '@/components/sections/Automation';
 import Services from '@/components/sections/Services';
 import Process from '@/components/sections/Process';
+import CheckTeaser from '@/components/sections/CheckTeaser';
 import CaseStudies from '@/components/sections/CaseStudies';
 import Pricing from '@/components/sections/Pricing';
 import Faq from '@/components/sections/Faq';
@@ -25,6 +26,7 @@ export default async function Home({ params }: { params: { locale: Locale } }) {
         <Marquee />
         <Automation />
         <Services />
+        <CheckTeaser />
         <Process />
         <CaseStudies />
         <Pricing />

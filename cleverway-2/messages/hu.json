@@ -1614,5 +1614,167 @@
     "text": "Tapasztalja meg, hogyan fogadja a hívásokat az MI-telefonasszisztensünk — közvetlenül a böngészőben, telefonszám nélkül.",
     "close": "Bezárás",
     "tileBtn": "Kipróbálom élőben"
+  },
+  "audit": {
+    "metaTitle": "Ingyenes weboldal-ellenőrzés — Clever Way Media",
+    "metaDesc": "Ellenőrizze weboldalát pár másodperc alatt: mobilbarát-e, látja-e a Google, milyen gyors, és könnyű-e kapcsolatba lépni Önnel — ingyen.",
+    "eyebrow": "Ingyenes weboldal-ellenőrzés",
+    "h1": "Mennyire jó valójában a weboldala?",
+    "lead": "Adja meg a címét, és pár másodperc alatt megtudja, mi fékezi az ügyfeleket és a Google-t az oldalán — konkrét javítási tippekkel.",
+    "placeholder": "az-on-weboldala.hu",
+    "submit": "Weboldal ellenőrzése",
+    "checking": "Ellenőrzés folyamatban …",
+    "bullets": [
+      "Több mint 10 ellenőrzési pont",
+      "Eredmény pár másodperc alatt",
+      "Ingyenes és kötelezettségmentes"
+    ],
+    "errors": {
+      "invalid": "Kérjük, adjon meg egy érvényes webcímet, pl. cegem.hu.",
+      "blocked": "Ez a cím nem ellenőrizhető.",
+      "unreachable": "A weboldal nem érhető el. Biztosan jó a cím?",
+      "notHtml": "Ezen a címen nem található weboldal.",
+      "rate": "Túl sok ellenőrzés rövid idő alatt — kérjük, próbálja újra pár perc múlva.",
+      "generic": "Valami hiba történt. Kérjük, próbálja újra."
+    },
+    "scoreLabel": "Összpontszám",
+    "verdict": {
+      "good": "Stabil alap",
+      "ok": "Van mit javítani",
+      "bad": "Sürgős teendők"
+    },
+    "speedPending": "A mobilos betöltési sebességet még mérjük …",
+    "issuesTitle": "A legfontosabb hiányosságok",
+    "noIssues": "Szép munka — az ellenőrzött pontokon nem találtunk problémát.",
+    "passedTitle": "Ami már rendben van",
+    "tipLabel": "Tippünk",
+    "locked": "További {n} ellenőrzési pont és az összes tipp a teljes jelentésben",
+    "unlock": {
+      "title": "Teljes jelentés megnyitása",
+      "text": "Nézze meg az összes eredményt konkrét javítási tippekkel. Igény esetén egy ingyenes beszélgetésen közösen is átnézzük.",
+      "name": "Név",
+      "email": "E-mail",
+      "phone": "Telefon (opcionális)",
+      "submit": "Jelentés megtekintése",
+      "note": "Nincs hírlevél, nincs spam. Legfeljebb egyszer, személyesen jelentkezünk az eredménnyel kapcsolatban."
+    },
+    "ctaTitle": "Kijavítsuk Ön helyett?",
+    "ctaText": "Az ingyenes stratégiai beszélgetésen megmutatjuk, mely pontok hozzák a legtöbbet — és mennyibe kerül.",
+    "ctaBtn": "Stratégiai beszélgetés foglalása",
+    "again": "Másik weboldal ellenőrzése",
+    "privacy": "Csak a kezdőlap nyilvánosan látható tartalmát olvassuk be. A mobilos sebességet a Google PageSpeed Insights méri.",
+    "teaser": {
+      "eyebrow": "Ingyenes weboldal-ellenőrzés",
+      "h2": "Mennyire jó valójában a weboldala?",
+      "text": "Több mint 10 ellenőrzési pont, pár másodperc alatt — mobil, Google, sebesség, kapcsolat. Konkrét tippekkel.",
+      "btn": "Ellenőrzés most, ingyen"
+    },
+    "checks": {
+      "speed": {
+        "name": "Mobilos betöltési sebesség",
+        "pass": "Gyors: {value}/100 pont a Google PageSpeed mobilos mérésén.",
+        "warn": "Közepes: {value}/100 pont a Google PageSpeed mobilos mérésén.",
+        "fail": "Lassú: csak {value}/100 pont a Google PageSpeed mobilos mérésén.",
+        "tip": "Tömörítse a képeket (WebP), távolítsa el a felesleges szkripteket és bővítményeket, és használjon gyors tárhelyet. Minden másodperc késés érdeklődőkbe kerül."
+      },
+      "https": {
+        "name": "Biztonságos kapcsolat (HTTPS)",
+        "pass": "Az oldal titkosítva, HTTPS-en fut.",
+        "warn": "A kapcsolat nem teljesen titkosított.",
+        "fail": "Az oldal nem titkosított — a böngészők „Nem biztonságos” figyelmeztetést mutatnak.",
+        "tip": "Kapcsoljon be SSL-tanúsítványt (a legtöbb tárhelynél ingyenes), és irányítson át minden látogatást HTTPS-re."
+      },
+      "response": {
+        "name": "Szerver válaszideje",
+        "pass": "A szerver gyorsan válaszol ({value} ms).",
+        "warn": "A szerver kissé lassan válaszol ({value} ms).",
+        "fail": "A szerver nagyon lassan válaszol ({value} ms).",
+        "tip": "Kapcsoljon be gyorsítótárazást, vagy váltson gyorsabb tárhelyre. 800 ms alatt jó az érték."
+      },
+      "viewport": {
+        "name": "Mobilos megjelenés",
+        "pass": "Az oldal okostelefonra van optimalizálva.",
+        "warn": "A mobilos beállítás hiányos.",
+        "fail": "Az oldal nincs okostelefonra optimalizálva — pedig a látogatók többsége mobilról érkezik.",
+        "tip": "Reszponzív elrendezés viewport-beállítással, hogy a szövegek és gombok telefonon is kényelmesen használhatók legyenek."
+      },
+      "title": {
+        "name": "Oldalcím a Google-ben",
+        "pass": "Az oldalcím megvan, és jó hosszúságú ({value} karakter).",
+        "warn": "Az oldalcím hossza nem ideális ({value} karakter) — ha túl rövid, kihasználatlan, ha túl hosszú, a Google levágja.",
+        "fail": "Hiányzik az oldalcím — a Google nem tudja, hogyan jelenítse meg az oldalt.",
+        "tip": "15–65 karakteres cím: szolgáltatás + helyszín + cégnév, pl. „Fodrász Győrben | Minta Szalon”."
+      },
+      "description": {
+        "name": "Leírás a találati listában",
+        "pass": "A meta leírás megvan, és jó hosszúságú ({value} karakter).",
+        "warn": "A meta leírás hossza nem ideális ({value} karakter) — ha túl rövid, nem győz meg, ha túl hosszú, levágódik.",
+        "fail": "Hiányzik a meta leírás — a Google ilyenkor véletlenszerű szövegrészt mutat.",
+        "tip": "70–165 karakter, ami összeköti az előnyt és a cselekvésre hívást — ez az Ön hirdetése a találati listában."
+      },
+      "h1": {
+        "name": "Főcím (H1)",
+        "pass": "Pontosan egy főcím — tiszta szerkezet.",
+        "warn": "{value} főcím van az oldalon — ez elmossa az oldal témáját.",
+        "fail": "Hiányzik a főcím.",
+        "tip": "Oldalanként pontosan egy H1, ami egyértelműen megmondja, mit kínál és hol."
+      },
+      "contact": {
+        "name": "Elérhetőség",
+        "pass": "A látogatók egy kattintással felhívhatják Önt.",
+        "warn": "Van kapcsolati lehetőség, de hiányzik a kattintható telefonszám.",
+        "fail": "A kezdőlapon nincs közvetlen kapcsolati lehetőség.",
+        "tip": "Helyezzen el jól láthatóan kattintható telefonszámot, e-mailt vagy WhatsAppot — lehetőleg a fejlécben is."
+      },
+      "legal": {
+        "name": "Impresszum és adatvédelem",
+        "pass": "Az impresszum és az adatvédelmi tájékoztató is linkelve van.",
+        "warn": "Az impresszum vagy az adatvédelmi tájékoztató hiányzik a kezdőlapról.",
+        "fail": "Sem impresszum, sem adatvédelmi tájékoztató nincs linkelve.",
+        "tip": "Mindkét oldalt linkelje minden aloldalról, például a láblécben."
+      },
+      "schema": {
+        "name": "Strukturált adatok a Google-nek",
+        "pass": "A Google strukturáltan megkapja a cégadatait.",
+        "warn": "Vannak strukturált adatok, de cégadatok nélkül.",
+        "fail": "Nincsenek strukturált adatok — a Google-nek ki kell találnia a cégadatait.",
+        "tip": "Egészítse ki LocalBusiness jelöléssel (név, cím, telefon, nyitvatartás). Ez erősíti a helyi láthatóságot."
+      },
+      "alt": {
+        "name": "Képleírások (alt-szövegek)",
+        "pass": "A képek {value}%-ának van leírása.",
+        "warn": "A képeknek csak {value}%-a rendelkezik leírással.",
+        "fail": "A képeknek csak {value}%-a rendelkezik leírással.",
+        "tip": "Adjon minden képnek rövid, leíró alt-szöveget — jó a Google képkeresőnek és az akadálymentességnek."
+      },
+      "crawl": {
+        "name": "robots.txt és oldaltérkép",
+        "pass": "A robots.txt és az oldaltérkép is megvan.",
+        "warn": "Hiányzik a robots.txt vagy az oldaltérkép.",
+        "fail": "Sem robots.txt, sem oldaltérkép nem található.",
+        "tip": "Készítsen sitemap.xml-t, és küldje be a Google Search Console-ba, hogy minden aloldal megtalálható legyen."
+      },
+      "og": {
+        "name": "Előnézet megosztáskor",
+        "pass": "WhatsAppon, Facebookon és máshol megosztva szép előnézet jelenik meg.",
+        "warn": "A megosztási előnézet hiányos.",
+        "fail": "Megosztáskor nem jelenik meg vonzó előnézet.",
+        "tip": "Adjon meg Open Graph címet és képet, hogy a megosztott linkek profin nézzenek ki."
+      },
+      "lang": {
+        "name": "Nyelv megadása",
+        "pass": "Az oldal nyelve helyesen meg van adva.",
+        "warn": "A nyelv megadása hiányos.",
+        "fail": "Az oldal nyelve nincs megadva.",
+        "tip": "Állítsa be a lang attribútumot (pl. „hu”) — segít a Google-nek és a képernyőolvasóknak."
+      },
+      "favicon": {
+        "name": "Favicon",
+        "pass": "Van favicon (böngészőikon).",
+        "warn": "Hiányzik a favicon a böngészőfülön.",
+        "fail": "Hiányzik a favicon a böngészőfülön.",
+        "tip": "Tegye be a logóját kis ikonként — profibb hatást kelt, és a Google találati listájában is megjelenik."
+      }
+    }
   }
 }

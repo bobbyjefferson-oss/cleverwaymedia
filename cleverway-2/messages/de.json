@@ -1789,5 +1789,167 @@
     "text": "Erleben Sie selbst, wie unser KI-Telefonassistent Anrufe annimmt — direkt im Browser, ohne Telefonnummer.",
     "close": "Schließen",
     "tileBtn": "Jetzt live testen"
+  },
+  "audit": {
+    "metaTitle": "Kostenloser Website-Check — Clever Way Media",
+    "metaDesc": "Testen Sie Ihre Website in wenigen Sekunden: Mobil-Tauglichkeit, Google-Sichtbarkeit, Ladezeit und Kontaktmöglichkeiten — kostenlos und unverbindlich.",
+    "eyebrow": "Kostenloser Website-Check",
+    "h1": "Wie gut ist Ihre Website wirklich?",
+    "lead": "Geben Sie Ihre Adresse ein und erfahren Sie in wenigen Sekunden, was Kunden und Google auf Ihrer Seite ausbremst — mit konkreten Tipps zur Verbesserung.",
+    "placeholder": "ihre-website.de",
+    "submit": "Website prüfen",
+    "checking": "Wird geprüft …",
+    "bullets": [
+      "Über 10 Prüfpunkte",
+      "Ergebnis in wenigen Sekunden",
+      "Kostenlos & unverbindlich"
+    ],
+    "errors": {
+      "invalid": "Bitte geben Sie eine gültige Website-Adresse ein, z. B. meine-firma.de.",
+      "blocked": "Diese Adresse kann nicht geprüft werden.",
+      "unreachable": "Die Website war nicht erreichbar. Stimmt die Adresse?",
+      "notHtml": "Unter dieser Adresse wurde keine Webseite gefunden.",
+      "rate": "Zu viele Prüfungen in kurzer Zeit — bitte versuchen Sie es in ein paar Minuten erneut.",
+      "generic": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
+    },
+    "scoreLabel": "Gesamtwertung",
+    "verdict": {
+      "good": "Solide Basis",
+      "ok": "Ausbaufähig",
+      "bad": "Dringender Handlungsbedarf"
+    },
+    "speedPending": "Mobile Ladezeit wird noch gemessen …",
+    "issuesTitle": "Die wichtigsten Baustellen",
+    "noIssues": "Stark — bei den geprüften Punkten haben wir keine Probleme gefunden.",
+    "passedTitle": "Das passt bereits",
+    "tipLabel": "Unser Tipp",
+    "locked": "{n} weitere Prüfpunkte und alle Tipps im vollständigen Bericht",
+    "unlock": {
+      "title": "Vollständigen Bericht freischalten",
+      "text": "Sehen Sie alle Ergebnisse mit konkreten Verbesserungstipps. Auf Wunsch gehen wir den Bericht in einem kostenlosen Gespräch gemeinsam durch.",
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Telefon (optional)",
+      "submit": "Bericht anzeigen",
+      "note": "Kein Newsletter, kein Spam. Wir melden uns höchstens einmal persönlich zu Ihrem Ergebnis."
+    },
+    "ctaTitle": "Sollen wir das für Sie beheben?",
+    "ctaText": "Im kostenlosen Strategiegespräch zeigen wir Ihnen, welche Punkte am meisten bringen — und was es kostet.",
+    "ctaBtn": "Strategiegespräch buchen",
+    "again": "Andere Website prüfen",
+    "privacy": "Wir rufen nur öffentlich sichtbare Inhalte Ihrer Startseite ab. Die mobile Ladezeit wird über Google PageSpeed Insights gemessen.",
+    "teaser": {
+      "eyebrow": "Kostenloser Website-Check",
+      "h2": "Wie gut ist Ihre Website wirklich?",
+      "text": "Über 10 Prüfpunkte in wenigen Sekunden — Mobil, Google, Ladezeit, Kontakt. Mit konkreten Tipps.",
+      "btn": "Jetzt kostenlos prüfen"
+    },
+    "checks": {
+      "speed": {
+        "name": "Mobile Ladezeit",
+        "pass": "Schnell: {value}/100 Punkte bei Google PageSpeed (mobil).",
+        "warn": "Mittelmäßig: {value}/100 Punkte bei Google PageSpeed (mobil).",
+        "fail": "Langsam: nur {value}/100 Punkte bei Google PageSpeed (mobil).",
+        "tip": "Bilder komprimieren (WebP), unnötige Skripte und Plugins entfernen und schnelles Hosting nutzen. Jede Sekunde Ladezeit kostet Anfragen."
+      },
+      "https": {
+        "name": "Sichere Verbindung (HTTPS)",
+        "pass": "Ihre Seite läuft verschlüsselt über HTTPS.",
+        "warn": "Die Verbindung ist nicht vollständig verschlüsselt.",
+        "fail": "Ihre Seite ist nicht verschlüsselt — Browser zeigen „Nicht sicher“ an.",
+        "tip": "Ein SSL-Zertifikat aktivieren (bei den meisten Hostern kostenlos) und alle Aufrufe auf HTTPS umleiten."
+      },
+      "response": {
+        "name": "Server-Antwortzeit",
+        "pass": "Der Server antwortet schnell ({value} ms).",
+        "warn": "Der Server antwortet etwas träge ({value} ms).",
+        "fail": "Der Server antwortet sehr langsam ({value} ms).",
+        "tip": "Caching aktivieren oder zu einem schnelleren Hosting wechseln. Unter 800 ms ist ein guter Wert."
+      },
+      "viewport": {
+        "name": "Mobil-Darstellung",
+        "pass": "Die Seite ist für Smartphones eingerichtet.",
+        "warn": "Die Mobil-Einstellung ist unvollständig.",
+        "fail": "Die Seite ist nicht für Smartphones optimiert — dabei kommen meist über 60 % der Besucher mobil.",
+        "tip": "Ein responsives Layout mit Viewport-Angabe verwenden, damit Texte und Buttons auf dem Handy gut nutzbar sind."
+      },
+      "title": {
+        "name": "Seitentitel für Google",
+        "pass": "Der Seitentitel ist vorhanden und hat eine gute Länge ({value} Zeichen).",
+        "warn": "Der Seitentitel hat eine ungünstige Länge ({value} Zeichen) — zu kurz verschenkt Potenzial, zu lang wird bei Google abgeschnitten.",
+        "fail": "Es fehlt ein Seitentitel — Google weiß nicht, wie es Ihre Seite anzeigen soll.",
+        "tip": "Einen Titel mit 15–65 Zeichen formulieren: Leistung + Ort + Firmenname, z. B. „Friseur in Salzgitter | Salon Muster“."
+      },
+      "description": {
+        "name": "Beschreibung in den Suchergebnissen",
+        "pass": "Die Meta-Beschreibung ist vorhanden und gut dimensioniert ({value} Zeichen).",
+        "warn": "Die Meta-Beschreibung hat eine ungünstige Länge ({value} Zeichen) — zu kurz überzeugt nicht, zu lang wird abgeschnitten.",
+        "fail": "Es fehlt eine Meta-Beschreibung — Google wählt dann einen zufälligen Textausschnitt.",
+        "tip": "70–165 Zeichen, die Nutzen und Handlungsaufforderung verbinden — das ist Ihre Werbeanzeige in den Suchergebnissen."
+      },
+      "h1": {
+        "name": "Hauptüberschrift (H1)",
+        "pass": "Genau eine Hauptüberschrift — sauber strukturiert.",
+        "warn": "Es gibt {value} Hauptüberschriften — das verwässert das Thema der Seite.",
+        "fail": "Es fehlt eine Hauptüberschrift.",
+        "tip": "Genau eine H1 pro Seite, die klar sagt, was Sie anbieten und wo."
+      },
+      "contact": {
+        "name": "Kontaktmöglichkeiten",
+        "pass": "Besucher können Sie direkt per Klick anrufen.",
+        "warn": "Kontakt ist möglich, aber es fehlt eine klickbare Telefonnummer.",
+        "fail": "Auf der Startseite gibt es keine direkte Kontaktmöglichkeit.",
+        "tip": "Klickbare Telefonnummer, E-Mail oder WhatsApp gut sichtbar platzieren — am besten auch im Kopfbereich."
+      },
+      "legal": {
+        "name": "Impressum & Datenschutz",
+        "pass": "Impressum und Datenschutzerklärung sind verlinkt.",
+        "warn": "Impressum oder Datenschutzerklärung fehlt auf der Startseite.",
+        "fail": "Weder Impressum noch Datenschutzerklärung sind verlinkt — in Deutschland abmahngefährdet.",
+        "tip": "Beide Seiten von jeder Unterseite aus verlinken, z. B. im Footer."
+      },
+      "schema": {
+        "name": "Strukturierte Daten für Google",
+        "pass": "Google bekommt Ihre Firmendaten strukturiert geliefert.",
+        "warn": "Es gibt strukturierte Daten, aber keine Firmenangaben.",
+        "fail": "Keine strukturierten Daten — Google muss Ihre Firmendaten erraten.",
+        "tip": "LocalBusiness-Markup mit Name, Adresse, Telefon und Öffnungszeiten ergänzen. Das stärkt die lokale Sichtbarkeit."
+      },
+      "alt": {
+        "name": "Bildbeschreibungen (Alt-Texte)",
+        "pass": "{value} % der Bilder haben eine Beschreibung.",
+        "warn": "Nur {value} % der Bilder haben eine Beschreibung.",
+        "fail": "Nur {value} % der Bilder haben eine Beschreibung.",
+        "tip": "Jedem Bild einen kurzen, beschreibenden Alt-Text geben — gut für Google-Bildersuche und Barrierefreiheit."
+      },
+      "crawl": {
+        "name": "robots.txt & Sitemap",
+        "pass": "robots.txt und Sitemap sind vorhanden.",
+        "warn": "robots.txt oder Sitemap fehlt.",
+        "fail": "Weder robots.txt noch Sitemap gefunden.",
+        "tip": "Eine sitemap.xml erstellen und in der Google Search Console einreichen, damit alle Seiten gefunden werden."
+      },
+      "og": {
+        "name": "Vorschau beim Teilen",
+        "pass": "Beim Teilen auf WhatsApp, Facebook & Co. erscheint eine schöne Vorschau.",
+        "warn": "Die Vorschau beim Teilen ist unvollständig.",
+        "fail": "Beim Teilen der Seite erscheint keine ansprechende Vorschau.",
+        "tip": "Open-Graph-Titel und -Bild hinterlegen, damit geteilte Links professionell aussehen."
+      },
+      "lang": {
+        "name": "Sprachangabe",
+        "pass": "Die Sprache der Seite ist korrekt hinterlegt.",
+        "warn": "Die Sprachangabe ist unvollständig.",
+        "fail": "Die Sprache der Seite ist nicht angegeben.",
+        "tip": "Das lang-Attribut setzen (z. B. „de“) — hilft Google und Screenreadern."
+      },
+      "favicon": {
+        "name": "Favicon",
+        "pass": "Ein Favicon (Browser-Symbol) ist vorhanden.",
+        "warn": "Es fehlt ein Favicon im Browser-Tab.",
+        "fail": "Es fehlt ein Favicon im Browser-Tab.",
+        "tip": "Ihr Logo als kleines Symbol hinterlegen — wirkt professioneller und wird auch in Google angezeigt."
+      }
+    }
   }
 }
