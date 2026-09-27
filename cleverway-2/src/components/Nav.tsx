@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { usePathname } from 'next/navigation';
 import { useLocale, useTranslations } from 'next-intl';
 import { locales } from '@/i18n/routing';
@@ -11,6 +11,7 @@ const NAV: { id: string; page?: string }[] = [
   { id: 'ki' },
   { id: 'referenzen', page: 'referenzen' },
   { id: 'preise', page: 'preise' },
+  { id: 'karriere', page: 'karriere' },
   { id: 'faq' },
   { id: 'kontakt' },
 ];
@@ -37,6 +38,35 @@ export default function Nav() {
     document.body.style.overflow = open ? 'hidden' : '';
   }, [open]);
 
+  // Safety net: if the desktop row (brand + links + languages + CTA) doesn't fit
+  // at the current width/language, fall back to the burger instead of overlapping.
+  const innerRef = useRef<HTMLDivElement>(null);
+  const [compact, setCompact] = useState(false);
+  useEffect(() => {
+    const inner = innerRef.current;
+    if (!inner) return;
+    const check = () => {
+      const header = inner.parentElement!;
+      header.classList.remove('nav--compact');
+      const links = inner.querySelector<HTMLElement>('.nav__links');
+      if (!links || getComputedStyle(links).display === 'none') return setCompact(false);
+      const cs = getComputedStyle(inner);
+      const gap = parseFloat(cs.columnGap) || 0;
+      const needed = [...inner.children]
+        .filter((el) => getComputedStyle(el).display !== 'none')
+        .reduce((sum, el, i) => sum + el.getBoundingClientRect().width + (i ? gap : 0), 0);
+      const available = inner.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+      const tooWide = needed > available - 8;
+      header.classList.toggle('nav--compact', tooWide);
+      setCompact(tooWide);
+    };
+    check();
+    const ro = new ResizeObserver(check);
+    ro.observe(inner);
+    document.fonts?.ready.then(check);
+    return () => ro.disconnect();
+  }, [locale]);
+
   const Monogram = (
     <svg className="brand__mark" viewBox="0 0 100 100" aria-hidden="true">
       <text x="8" y="72" style={{ fontFamily: 'var(--font-fraunces)' }} fontWeight="600" fontSize="72" fill="currentColor">C</text>
@@ -46,8 +76,8 @@ export default function Nav() {
 
   return (
     <>
-      <header className={`nav${scrolled ? ' scrolled' : ''}`} id="nav">
-        <div className="wrap nav__inner">
+      <header className={`nav${scrolled ? ' scrolled' : ''}${compact ? ' nav--compact' : ''}`} id="nav">
+        <div className="wrap nav__inner" ref={innerRef}>
           <a href={`${home}#top`} className="brand" aria-label={`${SITE} Startseite`}>
             {Monogram}
             <span><b>Clever</b><span className="w">Way</span></span>

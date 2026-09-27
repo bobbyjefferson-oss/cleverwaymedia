@@ -103,10 +103,21 @@
   .lang b{color:var(--fg)}
   .lang span{opacity:.4}
   .burger{display:none;background:none;border:0;color:var(--fg);cursor:pointer;padding:8px;flex-shrink:0}
+  /* Laptop widths: tighten spacing so links, languages and CTA all fit */
+  @media(max-width:1439px){
+    .nav__inner{gap:20px}
+    .nav__links{gap:15px}
+    .nav__links a{font-size:13px}
+    .nav__cta{gap:12px}
+    .nav__cta .btn{padding:12px 20px;font-size:14px}
+  }
+  /* Burger below 1280px, or whenever Nav.tsx measures that the row doesn't fit */
   @media(max-width:1280px){
     .nav__links,.nav__cta .btn,.nav__cta .lang{display:none}
     .burger{display:block}
   }
+  .nav--compact .nav__links,.nav--compact .nav__cta .btn,.nav--compact .nav__cta .lang{display:none}
+  .nav--compact .burger{display:block}
 
   /* mobile menu */
   .mobile{position:fixed;inset:0;z-index:55;background:rgba(9,9,11,.985);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
