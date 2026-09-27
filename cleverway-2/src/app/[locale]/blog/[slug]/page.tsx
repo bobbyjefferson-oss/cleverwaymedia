@@ -4,7 +4,7 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Locale } from '@/i18n/routing';
 import { locales } from '@/i18n/routing';
 import { BLOG_SLUGS, isValidBlogSlug } from '@/lib/blog-data';
-import { SITE_URL } from '@/lib/site';
+import { SITE_URL, seoTitle, seoDescription } from '@/lib/site';
 import { blogPostingSchema, breadcrumbSchema, faqSchema } from '@/lib/schema';
 import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
@@ -15,7 +15,7 @@ import ServiceFaq from '@/components/ServiceFaq';
 
 type Block = { type: 'p'; text: string } | { type: 'h2'; text: string } | { type: 'ul'; items: string[] };
 type Post = {
-  category: string; title: string; description: string; excerpt: string;
+  category: string; title: string; seoTitle?: string; description: string; excerpt: string;
   date: string; readMin: number; body: Block[]; faq: { q: string; a: string }[];
   relatedServiceSlug: string; relatedPackageSlug: string;
 };
@@ -30,8 +30,8 @@ export async function generateMetadata({ params }: { params: { locale: Locale; s
   const p = bd.raw(params.slug) as Post;
   const url = `${SITE_URL}/${params.locale}/blog/${params.slug}`;
   return {
-    title: `${p.title} — Clever Way Media Blog`,
-    description: p.description,
+    title: seoTitle(p.seoTitle ?? p.title, ' — Clever Way Media Blog'),
+    description: seoDescription(p.description),
     alternates: {
       canonical: url,
       languages: Object.fromEntries(locales.map((l) => [l, `${SITE_URL}/${l}/blog/${params.slug}`])),

@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { pageMetadata } from '@/lib/site';
+import { pageMetadata, seoTitle } from '@/lib/site';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Locale } from '@/i18n/routing';
 import { PACKAGE_SLUGS } from '@/lib/pricing-data';
@@ -12,7 +12,7 @@ import Reveal from '@/components/Reveal';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'pricingHub' });
-  return pageMetadata(params.locale, '/preise', `${t('h1')} — Clever Way Media`, t('lead'));
+  return pageMetadata(params.locale, '/preise', seoTitle(t('h1')), t('lead'));
 }
 
 function PackageCard({

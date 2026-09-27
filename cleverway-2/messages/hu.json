@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Clever Way Media – A marketing találkozik az automatizációval | DE · HU · RO",
-    "description": "Professzionális weboldalak, mérhető marketing és MI-automatizálás vállalkozásoknak Németországban, Magyarországon és Romániában. MI-telefonasszisztenssel, chatbotokkal és egyedi folyamat-automatizálással. Ügyfélkezelés németül, magyarul és románul."
+    "title": "Clever Way Media – Marketing és MI-automatizáció",
+    "description": "Weboldal, Google-láthatóság, MI-telefonasszisztens és automatizálás vállalkozásoknak Németországban, Magyarországon és Romániában – az Ön nyelvén."
   },
   "nav": {
     "links": {
@@ -71,7 +71,7 @@
       {
         "id": "telefon",
         "title": "MI-telefonasszisztens",
-        "text": "Éjjel-nappal fogadja a hívásokat — németül, az Ön cége nevében. Felveszi a nevet, a számot és az igényt, időpontot foglal közvetlenül a naptárába, a sürgős eseteket pedig azonnal továbbítja Önnek. Nincs több nem fogadott hívás. Átláthatóan MI-ként jelölve, DSGVO-konform."
+        "text": "Éjjel-nappal fogadja a hívásokat — az Ön nyelvén, az Ön cége nevében. Felveszi a nevet, a számot és az igényt, időpontot foglal közvetlenül a naptárába, a sürgős eseteket pedig azonnal továbbítja Önnek. Nincs több nem fogadott hívás. Átláthatóan MI-ként jelölve, DSGVO-konform."
       },
       {
         "id": "workflow",
@@ -1332,6 +1332,7 @@
     "steuerkanzlei-mandanten-gewinnen": {
       "category": "Könyvelőirodák",
       "title": "Ügyfélszerzés könyvelőirodaként: 5 mód, ami 2026-ban tényleg működik",
+      "seoTitle": "Ügyfélszerzés könyvelőirodaként: 5 bevált mód 2026-ban",
       "description": "Hogyan szerezhetnek könyvelőirodák kiszámíthatóan új ügyfeleket — véletlenszerű ajánlásokra hagyatkozás nélkül.",
       "excerpt": "Az ajánlások önmagukban ritkán elegendők a növekedéshez. Öt konkrét, megvalósítható megközelítés.",
       "date": "2026-02-03",
@@ -1371,7 +1372,7 @@
         }
       ],
       "relatedServiceSlug": "ki-automatisierung",
-      "relatedPackageSlug": "steuerkanzlei"
+      "relatedPackageSlug": "wachstum"
     },
     "seo-oder-google-ads": {
       "category": "Marketing-stratégia",
@@ -1418,6 +1419,7 @@
     "ki-automatisierung-einstieg": {
       "category": "MI & automatizáció",
       "title": "MI-automatizáció kisvállalkozásoknak: Hol érdemes tényleg elkezdeni?",
+      "seoTitle": "MI-automatizáció kisvállalkozásoknak: hol kezdjük?",
       "description": "Az MI-automatizáció bonyolultnak hangzik, de nem kell annak lennie. Három belépési pont a legnagyobb hatással.",
       "excerpt": "Nem minden automatizáció ér egyformán sokat. Ez a három terület hozza a leggyorsabb, érezhető hasznot.",
       "date": "2026-03-05",
@@ -1499,7 +1501,7 @@
         }
       ],
       "relatedServiceSlug": "local-seo",
-      "relatedPackageSlug": "gastronomie"
+      "relatedPackageSlug": "start"
     },
     "social-media-kosten": {
       "category": "Árak & büdzsé",

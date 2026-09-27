@@ -29,8 +29,20 @@ export function buildMailto(subject: string, fields: Record<string, string | und
 }
 
 
+// Google shows ~60 title chars and ~155 description chars; keep snippets untruncated.
+export function seoTitle(base: string, suffix = ' — Clever Way Media') {
+  return (base + suffix).length <= 60 ? base + suffix : base;
+}
+
+export function seoDescription(text: string, max = 155) {
+  if (text.length <= max) return text;
+  const cut = text.slice(0, max - 1);
+  return cut.slice(0, cut.lastIndexOf(' ')).replace(/[\s,;:—–-]+$/, '') + '…';
+}
+
 export function pageMetadata(locale: string, path: string, title: string, description: string): Metadata {
   const url = `${SITE_URL}/${locale}${path}`;
+  description = seoDescription(description);
   return {
     title,
     description,

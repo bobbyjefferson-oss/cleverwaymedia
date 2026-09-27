@@ -1,5 +1,5 @@
 import { getTranslations, setRequestLocale } from 'next-intl/server';
-import { pageMetadata } from '@/lib/site';
+import { pageMetadata, seoTitle } from '@/lib/site';
 import type { Locale } from '@/i18n/routing';
 import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
@@ -7,7 +7,7 @@ import LegalPage from '@/components/LegalPage';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'legal.datenschutz' });
-  return pageMetadata(params.locale, '/datenschutz', `${t('title')} — Clever Way Media`, `Datenschutzerklärung von Clever Way Media`);
+  return pageMetadata(params.locale, '/datenschutz', seoTitle(t('title')), t('intro'));
 }
 
 export default async function DatenschutzPage({ params }: { params: { locale: Locale } }) {

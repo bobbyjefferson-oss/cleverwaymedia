@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Clever Way Media – Marketing întâlnește automatizarea | DE · HU · RO",
-    "description": "Site-uri profesionale, marketing măsurabil și automatizare AI pentru companii din Germania, Ungaria și România. Cu asistent telefonic AI, chatboți și automatizări de flux personalizate. Asistență în germană, maghiară și română."
+    "title": "Clever Way Media – Marketing și automatizare AI",
+    "description": "Site-uri web, vizibilitate Google, asistent telefonic AI și automatizări pentru firme din Germania, Ungaria și România – în limba dvs."
   },
   "nav": {
     "links": {
@@ -71,7 +71,7 @@
       {
         "id": "telefon",
         "title": "Asistent telefonic AI",
-        "text": "Preia apelurile non-stop — în germană, în numele firmei dvs. Notează numele, numărul și solicitarea, programează întâlniri direct în calendarul dvs. și transmite imediat cazurile urgente. Niciun apel pierdut. Marcat transparent ca AI, conform DSGVO."
+        "text": "Preia apelurile non-stop — în limba dvs., în numele firmei dvs. Notează numele, numărul și solicitarea, programează întâlniri direct în calendarul dvs. și transmite imediat cazurile urgente. Niciun apel pierdut. Marcat transparent ca AI, conform DSGVO."
       },
       {
         "id": "workflow",
@@ -1332,6 +1332,7 @@
     "steuerkanzlei-mandanten-gewinnen": {
       "category": "Firme de contabilitate",
       "title": "Atragerea de clienți ca firmă de contabilitate: 5 metode care chiar funcționează în 2026",
+      "seoTitle": "Firmă de contabilitate: 5 metode de a atrage clienți",
       "description": "Cum pot firmele de contabilitate să atragă clienți noi în mod previzibil — fără să depindă doar de recomandări întâmplătoare.",
       "excerpt": "Recomandările singure rareori sunt suficiente pentru creștere. Cinci abordări concrete, aplicabile.",
       "date": "2026-02-03",
@@ -1371,7 +1372,7 @@
         }
       ],
       "relatedServiceSlug": "ki-automatisierung",
-      "relatedPackageSlug": "steuerkanzlei"
+      "relatedPackageSlug": "wachstum"
     },
     "seo-oder-google-ads": {
       "category": "Strategie de marketing",
@@ -1418,6 +1419,7 @@
     "ki-automatisierung-einstieg": {
       "category": "AI & automatizare",
       "title": "Automatizare AI pentru companii mici: De unde ar trebui să începeți cu adevărat",
+      "seoTitle": "Automatizare AI pentru firme mici: de unde începeți",
       "description": "Automatizarea AI sună complex, dar nu trebuie să fie. Trei puncte de pornire cu cel mai mare impact.",
       "excerpt": "Nu orice automatizare are aceeași valoare. Aceste trei domenii aduc cel mai rapid beneficiu vizibil.",
       "date": "2026-03-05",
@@ -1499,7 +1501,7 @@
         }
       ],
       "relatedServiceSlug": "local-seo",
-      "relatedPackageSlug": "gastronomie"
+      "relatedPackageSlug": "start"
     },
     "social-media-kosten": {
       "category": "Prețuri & buget",

@@ -4,7 +4,7 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Locale } from '@/i18n/routing';
 import { locales } from '@/i18n/routing';
 import { SERVICE_SLUGS, isValidSlug } from '@/lib/services-data';
-import { SITE_URL } from '@/lib/site';
+import { SITE_URL, seoTitle, seoDescription } from '@/lib/site';
 import { serviceSchema, breadcrumbSchema, faqSchema } from '@/lib/schema';
 import Nav from '@/components/Nav';
 import Footer from '@/components/Footer';
@@ -28,8 +28,8 @@ export async function generateMetadata({
   const url = `${SITE_URL}/${params.locale}/leistungen/${params.slug}`;
 
   return {
-    title: `${title} — Clever Way Media`,
-    description: subtitle,
+    title: seoTitle(title),
+    description: seoDescription(subtitle),
     alternates: {
       canonical: url,
       languages: Object.fromEntries(locales.map((l) => [l, `${SITE_URL}/${l}/leistungen/${params.slug}`])),

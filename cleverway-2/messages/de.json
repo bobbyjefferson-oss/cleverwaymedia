@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Clever Way Media – Marketing trifft Automation | DE · HU · RO",
-    "description": "Professionelle Websites, messbares Marketing und KI-Automatisierung für Unternehmen in Deutschland, Ungarn und Rumänien. Mit KI-Telefonassistent, Chatbots und maßgeschneiderter Workflow-Automatisierung. Betreuung auf Deutsch, Ungarisch und Rumänisch."
+    "title": "Clever Way Media – Marketing trifft Automation",
+    "description": "Websites, Google-Sichtbarkeit, KI-Telefonassistent und Automatisierung für Unternehmen in Deutschland, Ungarn und Rumänien – in Ihrer Sprache."
   },
   "nav": {
     "links": {
@@ -1372,6 +1372,7 @@
     "website-kosten-2026": {
       "category": "Preise & Budget",
       "title": "Website-Kosten 2026: Was kostet eine professionelle Website wirklich?",
+      "seoTitle": "Website-Kosten 2026: Was kostet eine Website wirklich?",
       "description": "Realistische Preisspannen für Unternehmenswebsites 2026 — von der einfachen Präsenzseite bis zum Komplettpaket mit Automatisierung. Ohne versteckte Kosten.",
       "excerpt": "Die ehrliche Antwort auf die Frage, die fast jeder stellt, bevor er eine Agentur beauftragt — inklusive der Faktoren, die den Preis wirklich beeinflussen.",
       "date": "2026-01-14",
@@ -1434,6 +1435,7 @@
     "steuerkanzlei-mandanten-gewinnen": {
       "category": "Steuerkanzleien",
       "title": "Mandanten gewinnen als Steuerkanzlei: 5 Wege, die 2026 wirklich funktionieren",
+      "seoTitle": "Steuerkanzlei: 5 Wege, 2026 Mandanten zu gewinnen",
       "description": "Wie Steuerkanzleien planbar neue Mandanten gewinnen — ohne auf Zufallsempfehlungen angewiesen zu sein. Mit konkreten, umsetzbaren Ansätzen.",
       "excerpt": "Empfehlungen allein reichen für Wachstum selten aus. Diese fünf Ansätze bringen planbar neue Anfragen — auch ohne zusätzliches Vertriebspersonal.",
       "date": "2026-02-03",
@@ -1499,7 +1501,7 @@
         }
       ],
       "relatedServiceSlug": "ki-automatisierung",
-      "relatedPackageSlug": "steuerkanzlei"
+      "relatedPackageSlug": "wachstum"
     },
     "seo-oder-google-ads": {
       "category": "Marketing-Strategie",
@@ -1558,6 +1560,7 @@
     "ki-automatisierung-einstieg": {
       "category": "KI & Automatisierung",
       "title": "KI-Automatisierung für kleine Unternehmen: Wo Sie wirklich anfangen sollten",
+      "seoTitle": "KI-Automatisierung für KMU: Wo Sie anfangen sollten",
       "description": "KI-Automatisierung klingt komplex — muss es aber nicht sein. Diese drei Einstiegspunkte bringen den größten Effekt bei überschaubarem Aufwand.",
       "excerpt": "Nicht jede Automatisierung ist gleich sinnvoll. Diese drei Bereiche bringen für die meisten kleinen Unternehmen den schnellsten, spürbarsten Nutzen.",
       "date": "2026-03-05",
@@ -1660,11 +1663,12 @@
         }
       ],
       "relatedServiceSlug": "local-seo",
-      "relatedPackageSlug": "gastronomie"
+      "relatedPackageSlug": "start"
     },
     "social-media-kosten": {
       "category": "Preise & Budget",
       "title": "Was kostet Social-Media-Betreuung? Realistische Preise im Überblick",
+      "seoTitle": "Was kostet Social-Media-Betreuung? Realistische Preise",
       "description": "Was professionelle Social-Media-Betreuung wirklich kostet — und wovon der Preis abhängt. Ein realistischer Überblick ohne Marketing-Floskeln.",
       "excerpt": "Zwischen 0 € Freelancer-Angeboten und 5-stelligen Agentur-Retainern liegt eine große Spanne. Hier die realistischen Faktoren dahinter.",
       "date": "2026-04-02",

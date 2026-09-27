@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { pageMetadata } from '@/lib/site';
+import { pageMetadata, seoTitle } from '@/lib/site';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Locale } from '@/i18n/routing';
 import { BLOG_SLUGS } from '@/lib/blog-data';
@@ -12,7 +12,7 @@ import Reveal from '@/components/Reveal';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'blogHub' });
-  return pageMetadata(params.locale, '/blog', `${t('h1')} — Clever Way Media Blog`, t('lead'));
+  return pageMetadata(params.locale, '/blog', seoTitle(t('h1'), ' — Clever Way Media Blog'), t('lead'));
 }
 
 export default async function BlogHubPage({ params }: { params: { locale: Locale } }) {
