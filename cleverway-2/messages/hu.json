@@ -338,7 +338,7 @@
       },
       {
         "q": "Mennyibe kerül egy weboldal vagy kezelés?",
-        "a": "A Start csomag egyszeri 799 €-tól indul. A folyamatos marketinghez és automatizációhoz havi csomagok érhetők el 530 €-tól, valamint iparág-specifikus megoldások. Az ingyenes stratégiai beszélgetésen megtaláljuk a megfelelő modellt."
+        "a": "A Start csomag egyszeri 799 €-tól indul. A folyamatos marketinghez és automatizációhoz havi csomagok érhetők el 530 €-tól, valamint egyedileg összeállított csomagok. Az ingyenes stratégiai beszélgetésen megtaláljuk a megfelelő modellt."
       },
       {
         "q": "Milyen nyelveken és régiókban dolgoznak?",
@@ -436,7 +436,8 @@
       "Referenciák",
       "Árak",
       "GYIK",
-      "Stratégiai beszélgetés"
+      "Stratégiai beszélgetés",
+      "Partnerprogram"
     ],
     "legalTitle": "Jogi",
     "legal": [

@@ -17,6 +17,7 @@ export default function Footer() {
     `/${locale}/preise`,
     `/${locale}#faq`,
     `/${locale}#termin`,
+    `/${locale}/karriere`,
   ];
   const legalHrefs = [`/${locale}/impressum`, `/${locale}/datenschutz`, `/${locale}/agb`];
 

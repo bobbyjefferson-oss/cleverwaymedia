@@ -11,7 +11,6 @@ const NAV: { id: string; page?: string }[] = [
   { id: 'ki' },
   { id: 'referenzen', page: 'referenzen' },
   { id: 'preise', page: 'preise' },
-  { id: 'karriere', page: 'karriere' },
   { id: 'faq' },
   { id: 'kontakt' },
 ];
