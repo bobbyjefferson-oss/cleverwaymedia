@@ -448,17 +448,6 @@
     "rights": "© 2026 Clever Way Media. Toate drepturile rezervate.",
     "langLabel": "Limbi"
   },
-  "exit": {
-    "eyebrow": "Înainte să plecați",
-    "title": "Analiză de marketing gratuită — obțineți un avans.",
-    "text": "În 15 minute vă arătăm concret unde pierdeți clienți online și cum schimbă asta sistemul nostru AI. Fără obligații, în limba dumneavoastră.",
-    "placeholder": "Adresa dumneavoastră de e-mail",
-    "btn": "Solicitați analiza",
-    "trust": "100% gratuit · Fără presiune de vânzare · Răspuns în 24 h",
-    "successTitle": "Mulțumim!",
-    "successText": "Revenim în 24 de ore cu analiza dumneavoastră gratuită.",
-    "floatCta": "Rezervați o programare"
-  },
   "legal": {
     "impressum": {
       "title": "Impressum",
@@ -1775,6 +1764,14 @@
         "fail": "Lipsește faviconul din fila browserului.",
         "tip": "Adăugați logoul ca iconiță mică — arată mai profesionist și apare și în Google."
       }
+    },
+    "popup": {
+      "eyebrow": "Verificare gratuită a site-ului",
+      "title": "Cât de bun este de fapt site-ul dvs.?",
+      "text": "Aflați în câteva secunde ce îi încetinește pe clienți și pe Google pe site-ul dvs. — cu recomandări concrete.",
+      "btn": "Verifică",
+      "close": "Închide",
+      "trust": "Gratuit · Fără înregistrare · Rezultat în câteva secunde"
     }
   }
 }

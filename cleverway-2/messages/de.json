@@ -448,17 +448,6 @@
     "rights": "© 2026 Clever Way Media. Alle Rechte vorbehalten.",
     "langLabel": "Sprachen"
   },
-  "exit": {
-    "eyebrow": "Bevor Sie gehen",
-    "title": "Kostenlose Marketing-Analyse — sichern Sie sich Ihren Vorsprung.",
-    "text": "Wir zeigen Ihnen in 15 Minuten konkret, wo Sie online Kunden verlieren und wie unser KI-System das ändert. Unverbindlich, in Ihrer Sprache.",
-    "placeholder": "Ihre E-Mail-Adresse",
-    "btn": "Analyse sichern",
-    "trust": "100 % kostenlos · Kein Verkaufsdruck · Antwort in 24 h",
-    "successTitle": "Danke!",
-    "successText": "Wir melden uns innerhalb von 24 Stunden mit Ihrer kostenlosen Analyse.",
-    "floatCta": "Termin buchen"
-  },
   "legal": {
     "impressum": {
       "title": "Impressum",
@@ -1950,6 +1939,14 @@
         "fail": "Es fehlt ein Favicon im Browser-Tab.",
         "tip": "Ihr Logo als kleines Symbol hinterlegen — wirkt professioneller und wird auch in Google angezeigt."
       }
+    },
+    "popup": {
+      "eyebrow": "Kostenloser Website-Check",
+      "title": "Wie gut ist Ihre Website wirklich?",
+      "text": "Finden Sie in wenigen Sekunden heraus, was Kunden und Google auf Ihrer Seite ausbremst — mit konkreten Tipps.",
+      "btn": "Jetzt prüfen",
+      "close": "Schließen",
+      "trust": "Kostenlos · Ohne Anmeldung · Ergebnis in Sekunden"
     }
   }
 }

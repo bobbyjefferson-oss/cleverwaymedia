@@ -446,7 +446,7 @@
   @keyframes pulse{0%{transform:scale(1);opacity:.5}70%{transform:scale(2.4);opacity:0}100%{opacity:0}}
   @media (prefers-reduced-motion:reduce){.urgency__dot::after{animation:none}}
 
-  /* ============================ EXIT-INTENT MODAL ============================ */
+  /* ============================ POPUP MODAL ============================ */
   .modal{position:fixed;inset:0;z-index:90;display:grid;place-items:center;padding:24px;
     background:rgba(6,6,8,.72);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);
     opacity:0;visibility:hidden;transition:opacity .4s var(--ease),visibility .4s}
@@ -469,15 +469,8 @@
   .modal__form input:focus{outline:none;border-color:var(--gold-2)}
   .modal__form .btn{flex:1 1 auto}
   .modal__trust{position:relative;margin-top:16px;font-size:12.5px;color:var(--muted);text-align:center}
-  .modal__ok{position:relative;display:none;text-align:center;padding:14px 0 4px}
-  .modal__ok svg{color:var(--gold-2);margin:0 auto 12px}
-  .modal.sent .modal__form,.modal.sent>.modal__box>p{display:none}
-  .modal.sent .modal__ok{display:block}
 
   /* ============================ FLOATING CTA ============================ */
-  .float{position:fixed;right:22px;bottom:22px;z-index:50;transform:translateY(140%);transition:transform .5s var(--ease)}
-  .float.show{transform:none}
-  @media(max-width:940px){.float{right:16px;bottom:16px}}
 
   /* ===== Mobile: collapse long grids to 1 item + "show more" ===== */
   .m-toggle{ display:none; }
@@ -616,3 +609,10 @@
   .wc-teaser__box .eyebrow{margin-bottom:12px}
   .wc-teaser__box p{color:var(--muted);margin-top:10px;max-width:56ch}
   @media(max-width:760px){.wc-teaser__box{flex-direction:column;align-items:flex-start}}
+
+  /* Website-Check popup: bottom sheet on phones so it doesn't cover the whole screen */
+  @media(max-width:600px){
+    .modal--check{place-items:end center;padding:0}
+    .modal--check .modal__box{border-radius:22px 22px 0 0;padding:30px 22px calc(24px + env(safe-area-inset-bottom));transform:translateY(100%)}
+    .modal--check.open .modal__box{transform:none}
+  }

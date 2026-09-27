@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { useTranslations } from 'next-intl';
 import Reveal from '@/components/Reveal';
-import { CONTACT_EMAIL, FORM_ENDPOINT, SOCIAL, buildMailto } from '@/lib/site';
+import { CONTACT_EMAIL, SOCIAL, buildMailto, postLead } from '@/lib/site';
 
 export default function Contact() {
   const t = useTranslations('contact');
@@ -15,21 +15,9 @@ export default function Contact() {
     e.preventDefault();
     const data = Object.fromEntries(new FormData(e.currentTarget).entries()) as Record<string, string>;
 
-    if (FORM_ENDPOINT) {
-      try {
-        await fetch(FORM_ENDPOINT, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(data),
-        });
-      } catch {
-        // Endpoint failed — still fall back to mailto so the message isn't lost.
-        window.location.href = buildMailto(`Neue Anfrage von ${data.name || 'Website'}`, data);
-      }
-    } else {
-      // No backend configured yet — open the visitor's mail client with everything pre-filled.
-      window.location.href = buildMailto(`Neue Anfrage von ${data.name || 'Website'}`, data);
-    }
+    const ok = await postLead({ ...data, source: 'Kontaktformular', _subject: `Neue Anfrage von ${data.name || 'Website'}` }).catch(() => false);
+    // Relay failed — fall back to the visitor's mail client so the message isn't lost.
+    if (!ok) window.location.href = buildMailto(`Neue Anfrage von ${data.name || 'Website'}`, data);
     setSent(true);
   }
 

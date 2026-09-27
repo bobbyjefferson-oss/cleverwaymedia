@@ -448,17 +448,6 @@
     "rights": "© 2026 Clever Way Media. Minden jog fenntartva.",
     "langLabel": "Nyelvek"
   },
-  "exit": {
-    "eyebrow": "Mielőtt elmenne",
-    "title": "Ingyenes marketingelemzés — szerezzen előnyt.",
-    "text": "15 perc alatt konkrétan megmutatjuk, hol veszít ügyfeleket online, és hogyan változtat ezen az MI-rendszerünk. Kötelezettségmentesen, az Ön nyelvén.",
-    "placeholder": "Az Ön e-mail-címe",
-    "btn": "Elemzés kérése",
-    "trust": "100% ingyenes · Nincs értékesítési nyomás · Válasz 24 órán belül",
-    "successTitle": "Köszönjük!",
-    "successText": "24 órán belül jelentkezünk az ingyenes elemzésével.",
-    "floatCta": "Időpontfoglalás"
-  },
   "legal": {
     "impressum": {
       "title": "Impresszum",
@@ -1775,6 +1764,14 @@
         "fail": "Hiányzik a favicon a böngészőfülön.",
         "tip": "Tegye be a logóját kis ikonként — profibb hatást kelt, és a Google találati listájában is megjelenik."
       }
+    },
+    "popup": {
+      "eyebrow": "Ingyenes weboldal-ellenőrzés",
+      "title": "Mennyire jó valójában a weboldala?",
+      "text": "Tudja meg pár másodperc alatt, mi fékezi az ügyfeleket és a Google-t az oldalán — konkrét tippekkel.",
+      "btn": "Ellenőrzés",
+      "close": "Bezárás",
+      "trust": "Ingyenes · Regisztráció nélkül · Eredmény másodpercek alatt"
     }
   }
 }

@@ -1,8 +1,8 @@
 'use client';
 
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useLocale, useTranslations } from 'next-intl';
-import { FORM_ENDPOINT } from '@/lib/site';
+import { postLead } from '@/lib/site';
 import { scoreOf, sortByPriority, type AuditResult, type CheckResult } from '@/lib/audit-shared';
 
 const FREE_ISSUES = 3;
@@ -36,8 +36,22 @@ export default function WebsiteCheck() {
   const verdict = score >= 80 ? 'good' : score >= 50 ? 'ok' : 'bad';
   const text = (c: CheckResult) => t(`checks.${c.id}.${c.status}`, { value: c.value ?? '' });
 
-  async function onCheck(e: React.FormEvent) {
+  // Arriving from the popup (/website-check?url=…): start right away.
+  useEffect(() => {
+    const preset = new URLSearchParams(window.location.search).get('url');
+    if (preset) {
+      setUrl(preset);
+      runCheck(preset);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  function onCheck(e: React.FormEvent) {
     e.preventDefault();
+    runCheck(url);
+  }
+
+  async function runCheck(url: string) {
     if (!url.trim()) return;
     setPhase('loading');
     setError('');
@@ -79,23 +93,17 @@ export default function WebsiteCheck() {
     const form = Object.fromEntries(new FormData(e.currentTarget).entries()) as Record<string, string>;
     setSending(true);
     try {
-      if (FORM_ENDPOINT) {
-        await fetch(FORM_ENDPOINT, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-          body: JSON.stringify({
-            _subject: `Website-Check Lead: ${result.host} (${score}/100)`,
-            source: 'Website-Check',
-            name: form.name,
-            email: form.email,
-            phone: form.phone,
-            website: result.url,
-            score: `${score}/100`,
-            language: locale.toUpperCase(),
-            problems: issues.map((c) => `[${c.status.toUpperCase()}] ${t(`checks.${c.id}.name`)}: ${text(c)}`).join('\n'),
-          }),
-        });
-      }
+      await postLead({
+        _subject: `Website-Check Lead: ${result.host} (${score}/100)`,
+        source: 'Website-Check',
+        name: form.name,
+        email: form.email,
+        phone: form.phone,
+        website: result.url,
+        score: `${score}/100`,
+        language: locale.toUpperCase(),
+        problems: issues.map((c) => `[${c.status.toUpperCase()}] ${t(`checks.${c.id}.name`)}: ${text(c)}`).join('\n'),
+      });
     } catch {
       // Never block the visitor from their report because of a form-backend hiccup.
     }

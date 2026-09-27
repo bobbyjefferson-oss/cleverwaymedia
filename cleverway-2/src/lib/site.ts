@@ -17,7 +17,7 @@ export const SOCIAL = {
 
 /**
  * Builds a working mailto: link from form data so the contact form and
- * exit-intent modal genuinely send an email even before a backend
+ * website forms genuinely send an email even before a backend
  * (Formspree/Resend) is wired up via NEXT_PUBLIC_FORM_ENDPOINT.
  */
 export function buildMailto(subject: string, fields: Record<string, string | undefined>) {
@@ -77,3 +77,13 @@ export function pageMetadata(locale: string, path: string, title: string, descri
 // Set these in Vercel → Project → Settings → Environment Variables:
 //   NEXT_PUBLIC_RETELL_AGENT_ID  = agent_f8be111504f83c267bdc21551f
 //   NEXT_PUBLIC_RETELL_PUBLIC_KEY = public_key_... (copy the FULL value from Retell → Settings → API Keys → Public Keys)
+
+/** Sends a form submission via our own /api/lead relay (see app/api/lead/route.ts). */
+export async function postLead(fields: Record<string, string | undefined>) {
+  const res = await fetch('/api/lead', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(fields),
+  });
+  return res.ok;
+}

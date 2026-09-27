@@ -8,6 +8,7 @@ import { SITE_URL, SITE_NAME } from '@/lib/site';
 import { organizationSchema, faqSchema } from '@/lib/schema';
 import SmoothScroll from '@/components/SmoothScroll';
 import VoiceWidget from '@/components/VoiceWidget';
+import CheckPopup from '@/components/CheckPopup';
 import '../globals.css';
 
 const fraunces = Fraunces({ subsets: ['latin'], variable: '--font-fraunces', display: 'swap' });
@@ -90,6 +91,7 @@ export default async function LocaleLayout({
           <SmoothScroll />
           {children}
           <VoiceWidget />
+          <CheckPopup />
         </NextIntlClientProvider>
       </body>
     </html>
