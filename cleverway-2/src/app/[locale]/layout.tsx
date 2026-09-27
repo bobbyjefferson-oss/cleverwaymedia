@@ -7,6 +7,7 @@ import { routing, locales, type Locale } from '@/i18n/routing';
 import { SITE_URL, SITE_NAME } from '@/lib/site';
 import { organizationSchema, faqSchema } from '@/lib/schema';
 import SmoothScroll from '@/components/SmoothScroll';
+import VoiceWidget from '@/components/VoiceWidget';
 import '../globals.css';
 
 const fraunces = Fraunces({ subsets: ['latin'], variable: '--font-fraunces', display: 'swap' });
@@ -88,6 +89,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider messages={messages}>
           <SmoothScroll />
           {children}
+          <VoiceWidget />
         </NextIntlClientProvider>
       </body>
     </html>

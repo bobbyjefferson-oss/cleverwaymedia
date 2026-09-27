@@ -1603,5 +1603,13 @@
     "startBtn": "Testează asistentul AI",
     "endBtn": "Încheie apelul",
     "privacyNote": "Rulează direct în browser, prin microfonul dvs. Max este un AI — acest lucru este anunțat la începutul apelului. Max. 2 minute per test."
+  },
+  "voiceWidget": {
+    "label": "Testează asistentul AI",
+    "eyebrow": "Demo live",
+    "title": "Vorbiți cu Max",
+    "text": "Descoperiți cum preia apelurile asistentul nostru telefonic AI — direct în browser, fără număr de telefon.",
+    "close": "Închide",
+    "tileBtn": "Testează acum live"
   }
 }

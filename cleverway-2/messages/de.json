@@ -1776,5 +1776,13 @@
     "startBtn": "KI-Assistenten testen",
     "endBtn": "Gespräch beenden",
     "privacyNote": "Läuft direkt im Browser über Ihr Mikrofon. Max ist eine KI — das wird zu Beginn des Gesprächs angesagt. Max. 2 Minuten pro Test."
+  },
+  "voiceWidget": {
+    "label": "KI-Assistent testen",
+    "eyebrow": "Live-Demo",
+    "title": "Sprechen Sie mit Max",
+    "text": "Erleben Sie selbst, wie unser KI-Telefonassistent Anrufe annimmt — direkt im Browser, ohne Telefonnummer.",
+    "close": "Schließen",
+    "tileBtn": "Jetzt live testen"
   }
 }

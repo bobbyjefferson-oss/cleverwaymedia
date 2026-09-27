@@ -520,3 +520,28 @@
   .voice-demo__timer{ color:var(--gold-2); font-variant-numeric:tabular-nums; margin-left:4px; }
   .voice-demo__btn{ width:100%; justify-content:center; padding:12px 20px; font-size:14.5px; }
   .voice-demo__note{ margin:10px 0 0; font-size:12px; color:var(--muted); line-height:1.5; }
+
+  /* ===== Floating voice widget (bottom-right) ===== */
+  .vw{ position:fixed; right:22px; bottom:22px; z-index:70; display:flex; flex-direction:column; align-items:flex-end; gap:14px; }
+  .vw__fab{ display:inline-flex; align-items:center; gap:10px; height:58px; min-width:58px; padding:0 20px 0 17px; border:0; border-radius:100px; cursor:pointer;
+    background:var(--gold-grad); color:#1a1305; font-weight:600; font-size:14.5px; box-shadow:0 10px 30px rgba(0,0,0,.45), 0 0 0 0 rgba(201,159,96,.55);
+    animation:vw-ring 2.6s ease-out infinite; transition:transform .2s; }
+  .vw__fab:hover{ transform:translateY(-2px); }
+  .vw--open .vw__fab{ padding:0; width:58px; justify-content:center; animation:none; }
+  @keyframes vw-ring{ 0%{box-shadow:0 10px 30px rgba(0,0,0,.45),0 0 0 0 rgba(201,159,96,.55)} 70%{box-shadow:0 10px 30px rgba(0,0,0,.45),0 0 0 16px rgba(201,159,96,0)} 100%{box-shadow:0 10px 30px rgba(0,0,0,.45),0 0 0 0 rgba(201,159,96,0)} }
+  .vw__panel{ position:relative; width:340px; max-width:calc(100vw - 32px); background:#111114; border:1px solid rgba(201,159,96,.35); border-radius:18px;
+    padding:24px 22px 20px; box-shadow:0 24px 60px rgba(0,0,0,.6); animation:vw-in .28s var(--ease); }
+  @keyframes vw-in{ from{opacity:0; transform:translateY(12px) scale(.98)} to{opacity:1; transform:none} }
+  .vw__close{ position:absolute; top:10px; right:12px; background:none; border:0; color:var(--muted); font-size:24px; line-height:1; cursor:pointer; padding:4px 8px; }
+  .vw__close:hover{ color:var(--fg); }
+  .vw__title{ font-family:var(--serif); font-size:1.35rem; margin:8px 0 6px; color:var(--fg); }
+  .vw__text{ color:var(--muted); font-size:14px; line-height:1.55; margin:0; }
+  .vw__panel .voice-demo{ margin-top:16px; }
+  .vw-tile-btn{ margin-top:18px; }
+  @media(max-width:600px){
+    .vw{ right:16px; bottom:16px; }
+    .vw__label{ display:none; }
+    .vw__fab{ padding:0; width:56px; height:56px; justify-content:center; }
+    .vw__panel{ width:calc(100vw - 32px); }
+  }
+  @media (prefers-reduced-motion: reduce){ .vw__fab{ animation:none; } .vw__panel{ animation:none; } }
