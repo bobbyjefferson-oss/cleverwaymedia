@@ -1,0 +1,1952 @@
+{
+  "meta": {
+    "title": "Clever Way Media – Marketing meets Automation",
+    "description": "Websites, Google visibility, an AI phone assistant and automation for businesses in Germany, Hungary and Romania – in your language."
+  },
+  "nav": {
+    "links": {
+      "leistungen": "Services",
+      "ki": "AI & Automation",
+      "referenzen": "Case Studies",
+      "preise": "Pricing",
+      "faq": "FAQ",
+      "kontakt": "Contact",
+      "karriere": "Partner Program"
+    },
+    "cta": "Strategy Call"
+  },
+  "hero": {
+    "eyebrow": "Marketing · meets · Automation",
+    "h1a": "Missed calls and slow replies",
+    "ital1": "cost you jobs.",
+    "h1b": "We make sure you",
+    "ital2": "never lose one again.",
+    "lead": "A website, Google visibility, an AI phone assistant that answers calls and books appointments, and automation that takes manual work off your plate — so no job slips through the cracks. In Germany, Hungary and Romania, in your language.",
+    "cta1": "Free Strategy Call",
+    "cta2": "Explore Services",
+    "trust": [
+      "Free & no obligation",
+      "Reply within 24 h",
+      "Personal & direct"
+    ],
+    "stats": [
+      {
+        "value": "24 h",
+        "label": "Response time"
+      },
+      {
+        "value": "1:1",
+        "label": "Personal contact, no call center"
+      },
+      {
+        "value": "DE·HU·RO",
+        "label": "3 markets · 4 languages"
+      },
+      {
+        "value": "GDPR",
+        "label": "compliant · EU"
+      }
+    ]
+  },
+  "marquee": {
+    "label": "For businesses in every industry — in your language",
+    "items": [
+      "Websites that sell",
+      "AI Phone Assistant",
+      "Google & Meta Ads",
+      "SEO & Local Visibility",
+      "Automation",
+      "DE · HU · RO · EN"
+    ]
+  },
+  "automation": {
+    "eyebrow": "AI & Automation · our core",
+    "h2a": "Automation that works for you —",
+    "goldWord": "around the clock.",
+    "leadPre": "Smart systems take over repetitive tasks: from winning new customers and a WhatsApp assistant to processing receipts. We build exactly the automations that take the most weight off your business —",
+    "leadHl": "the most in-demand AI automations",
+    "leadPost": ", tailored to you and seamlessly connected to the tools you already use. You save time, win more customers and scale without hiring.",
+    "tag": "Most popular",
+    "tiles": [
+      {
+        "id": "telefon",
+        "title": "AI Phone Assistant",
+        "text": "Answers calls around the clock — in your language, on behalf of your business. Takes down name, number and request, books appointments straight into your calendar and forwards urgent cases to you immediately. No more missed calls. Clearly identified as AI, GDPR-compliant."
+      },
+      {
+        "id": "workflow",
+        "title": "Custom Workflow Automation",
+        "text": "We connect your tools — Gmail, Slack, CRM, calendar, spreadsheets — into one system that runs on its own in the background. Built around your process; practically any tool can be connected."
+      },
+      {
+        "id": "chatbot",
+        "title": "AI Chatbot & Voice Assistant",
+        "text": "Answers questions on your website and WhatsApp 24/7, qualifies prospects and books appointments — automatically."
+      },
+      {
+        "id": "lead",
+        "title": "Lead Qualification & CRM",
+        "text": "New contacts are enriched, scored and filed into your CRM automatically. Your team only handles the best opportunities."
+      },
+      {
+        "id": "invoice",
+        "title": "Invoice & Receipt Processing",
+        "text": "Receipts read automatically and passed to DATEV, lexoffice or sevDesk — no more manual typing."
+      },
+      {
+        "id": "offer",
+        "title": "Quote & Document Generator",
+        "text": "Quotes, contracts and reports generated from your data in seconds — consistently formatted and error-free."
+      },
+      {
+        "id": "neukunden",
+        "title": "Automated Lead Generation",
+        "text": "Landing pages, inquiry forms and your Google profile work together so prospects come to you on their own — and every inquiry gets an instant reply."
+      },
+      {
+        "id": "termin",
+        "title": "Appointment & Follow-up Automation",
+        "text": "Automatic reminders and follow-ups reduce no-shows and keep every lead warm."
+      },
+      {
+        "id": "content",
+        "title": "Content Automation",
+        "text": "Social posts, captions and newsletters for a whole month — in minutes, in your brand voice."
+      },
+      {
+        "id": "reporting",
+        "title": "Reporting & Dashboards",
+        "text": "Numbers from ads, analytics and CRM flow automatically into clear monthly reports and live dashboards."
+      }
+    ],
+    "ctaTile": {
+      "title": "Have your own idea?",
+      "text": "We'll build it. Let's talk automation →"
+    },
+    "stats": [
+      {
+        "value": "24/7",
+        "label": "active, non-stop"
+      },
+      {
+        "value": "400+",
+        "label": "connectable tools & apps"
+      },
+      {
+        "value": "GDPR",
+        "label": "compliant — EU hosting available"
+      }
+    ],
+    "ctaBtn": "Let's talk automation"
+  },
+  "services": {
+    "eyebrow": "Services",
+    "h2": "Everything for your digital growth — from one team.",
+    "lead": "From your first website to fully automated customer acquisition. Pick individual services or a complete package.",
+    "groupTitle": "Marketing",
+    "items": [
+      {
+        "id": "website",
+        "title": "Website Design",
+        "text": "Modern, mobile-friendly websites, landing pages and online shops — including design, copy and tech."
+      },
+      {
+        "id": "shop",
+        "title": "Online Shop / E-Commerce",
+        "text": "Products, payments and shipping seamlessly integrated. Sell around the clock — even while you sleep."
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "text": "Better Google rankings through keywords, technical SEO and content. Free traffic for the long run."
+      },
+      {
+        "id": "ads",
+        "title": "Google Ads (PPC)",
+        "text": "Paid search ads with full budget control. Fast, measurable results from day one."
+      },
+      {
+        "id": "meta",
+        "title": "Meta / Social Ads",
+        "text": "Facebook and Instagram campaigns with precise targeting and ongoing A/B optimization."
+      },
+      {
+        "id": "social",
+        "title": "Social Media Management",
+        "text": "Planning, content creation and community building for your channels — professional and consistent."
+      },
+      {
+        "id": "branding",
+        "title": "Branding & Corporate Design",
+        "text": "Logo, color palette and a consistent look — a brand identity people remember."
+      },
+      {
+        "id": "graphic",
+        "title": "Graphic Design",
+        "text": "Flyers, banners, business cards and social graphics — print-ready and in every format."
+      },
+      {
+        "id": "content",
+        "title": "Content & Copywriting",
+        "text": "SEO-optimized website copy, blogs and newsletters that convince and build trust."
+      }
+    ],
+    "note": {
+      "title": "Plus: the full range of AI automation",
+      "text": "Chatbots, CRM automation, receipt processing, custom workflow automation and more — in our dedicated automation section.",
+      "btn": "See automations"
+    },
+    "hubLink": "See all services in detail"
+  },
+  "process": {
+    "eyebrow": "How we work",
+    "h2": "Four steps to predictable growth.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Analysis",
+        "text": "A free strategy call. We get to know your business, your goals and your market."
+      },
+      {
+        "n": "02",
+        "title": "Strategy",
+        "text": "A tailored plan — which services give you the biggest lever."
+      },
+      {
+        "n": "03",
+        "title": "Implementation",
+        "text": "Website, campaigns and automation — we build and launch your system."
+      },
+      {
+        "n": "04",
+        "title": "Optimization",
+        "text": "Ongoing analysis and fine-tuning. What works, we scale further."
+      }
+    ]
+  },
+  "cases": {
+    "eyebrow": "Use cases",
+    "h2": "What automation could look like for you.",
+    "lead": "We're a young agency and we don't advertise with other people's numbers. Instead, we honestly show how our systems work day to day — as examples, not as real client cases.",
+    "items": [
+      {
+        "cat": "Example · AI Phone Assistant",
+        "title": "Never lose a call again",
+        "text": "Starting point: calls go unanswered while you're working. Solution: an AI phone assistant picks up, records the request and books appointments — and you're notified instantly.",
+        "kpis": [
+          {
+            "b": "24/7",
+            "s": "available"
+          },
+          {
+            "b": "Auto",
+            "s": "booking"
+          },
+          {
+            "b": "Instant",
+            "s": "notification"
+          }
+        ],
+        "slug": "ki-telefonassistent"
+      },
+      {
+        "cat": "Example · Website & Local Visibility",
+        "title": "Get found online",
+        "text": "Starting point: barely visible online. Solution: a fast website, an optimized Google profile and local SEO — so customers find you instead of the competition.",
+        "kpis": [
+          {
+            "b": "SEO",
+            "s": "locally optimized"
+          },
+          {
+            "b": "Google",
+            "s": "Business Profile"
+          },
+          {
+            "b": "DE·HU·RO",
+            "s": "multilingual"
+          }
+        ],
+        "slug": "website-lokale-sichtbarkeit"
+      }
+    ],
+    "hubLink": "See all use cases",
+    "detailLabel": "View example"
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "h2": "Transparent packages. No surprises.",
+    "plans": [
+      {
+        "name": "Starter Package",
+        "price": "€799",
+        "unit": "one-time",
+        "setup": "Optional maintenance €44 / month",
+        "features": [
+          "Mobile-friendly website (1–5 pages)",
+          "Basic branding: logo & color palette",
+          "Google Business Profile",
+          "Basic copywriting"
+        ],
+        "btn": "Choose package"
+      },
+      {
+        "name": "Growth Package",
+        "price": "€530",
+        "unit": "/ month",
+        "setup": "One-time setup €850",
+        "feat": true,
+        "badge": "Recommended",
+        "features": [
+          "Professional website",
+          "Basic search engine optimization (SEO)",
+          "Social media management",
+          "1 ad campaign / month (Google or Meta)",
+          "Short monthly results report"
+        ],
+        "btn": "Choose package"
+      },
+      {
+        "name": "Complete Package",
+        "price": "€1,060",
+        "unit": "/ month",
+        "setup": "One-time setup €1,160",
+        "features": [
+          "Everything in the Growth Package",
+          "Ongoing Google & Meta advertising",
+          "Regular content production",
+          "1–2 automations + strategy call"
+        ],
+        "btn": "Choose package"
+      }
+    ],
+    "note": "No package quite fits? We'll put together a custom package for your needs — just get in touch.",
+    "foot": "As a small business under § 19 of the German VAT Act (UStG), no VAT is charged.",
+    "hubLink": "See all packages in detail"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "h2": "Everything you'd like to know.",
+    "items": [
+      {
+        "q": "What makes Clever Way Media different?",
+        "a": "We combine classic marketing with AI automation. Smart systems take over repetitive tasks — from lead generation and AI chatbots to receipt processing — connected to the tools you already use. You save time and win new customers predictably."
+      },
+      {
+        "q": "Which AI automations do you offer?",
+        "a": "Among others: an AI phone assistant that answers calls around the clock and books appointments; automated lead generation; AI chatbots for your website and WhatsApp; lead qualification with CRM integration; invoice and receipt processing (DATEV, lexoffice, sevDesk); quote and document generators; content and reporting automation; and custom workflow automations that seamlessly connect your tools."
+      },
+      {
+        "q": "How much does a website or ongoing support cost?",
+        "a": "The Starter Package starts at a one-time €799. For ongoing marketing and automation there are monthly packages from €530, as well as custom packages. In the free strategy call we'll find the right model for you."
+      },
+      {
+        "q": "Which languages and regions do you work in?",
+        "a": "We work with businesses in Germany, Hungary and Romania — always in the local language. Website, communication and support are available in German, Hungarian and Romanian, and in English on request."
+      },
+      {
+        "q": "How quickly will I see results?",
+        "a": "Websites and campaigns often go live within a few weeks. Paid ads and AI automations bring first contacts quickly, while SEO unfolds its full effect in the medium term."
+      }
+    ]
+  },
+  "booking": {
+    "eyebrow": "Free & no obligation",
+    "urgencyPre": "Limited strategy calls in",
+    "urgencyPost": "— secure your spot",
+    "h2a": "Book your",
+    "goldWord": "strategy call.",
+    "lead": "We analyze your situation and show you exactly which services give your growth the biggest lever. No sales pressure — just a clear plan.",
+    "cta1": "Pick a time",
+    "cta2": "I'd rather write",
+    "mini": [
+      "Reply within 24 h",
+      "100% free",
+      "DE · HU · RO · EN"
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "h2": "Let's talk.",
+    "lead": "Tell us briefly about your project — we'll get back to you promptly with the next steps.",
+    "emailLabel": "Email",
+    "marketsLabel": "Markets",
+    "markets": "Germany · Hungary · Romania",
+    "langLabel": "Languages",
+    "langs": "German · Hungarian · Romanian · English",
+    "followLabel": "Follow us",
+    "form": {
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone",
+      "budget": "Budget",
+      "service": "Interested in",
+      "message": "Message",
+      "submit": "Send message",
+      "note": "You can find information on how we process your data in our privacy policy.",
+      "select": "Please select",
+      "successTitle": "Thank you!",
+      "successText": "We'll get back to you within 24 hours.",
+      "budgetOptions": [
+        "up to €1,000 / month",
+        "€1,000–3,000 / month",
+        "over €3,000 / month",
+        "One-time project"
+      ],
+      "serviceOptions": [
+        "AI automation",
+        "Website / online shop",
+        "SEO & ads",
+        "Complete package",
+        "Something else"
+      ]
+    },
+    "soon": "Coming soon",
+    "coverageTitle": "Where we work",
+    "coverageText": "Your personal contact: Marwan Bouabid from Salzgitter. I meet businesses in Lower Saxony in person — and work with clients across Germany, Hungary and Romania via video call, always in your language.",
+    "remote": "Marwan Bouabid · Salzgitter",
+    "marketsList": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "HU",
+        "name": "Hungary"
+      },
+      {
+        "code": "RO",
+        "name": "Romania"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Marketing meets automation. Professional websites and AI-powered customer acquisition for businesses in Germany, Hungary and Romania.",
+    "servicesTitle": "Services",
+    "services": [
+      "Website Design",
+      "SEO & Ads",
+      "AI Automation"
+    ],
+    "agencyTitle": "Agency",
+    "agency": [
+      "About us",
+      "Blog",
+      "Case Studies",
+      "Pricing",
+      "FAQ",
+      "Strategy Call",
+      "Partner Program"
+    ],
+    "legalTitle": "Legal",
+    "legal": [
+      "Legal Notice",
+      "Privacy Policy",
+      "Terms & Conditions"
+    ],
+    "rights": "© 2026 Clever Way Media. All rights reserved.",
+    "langLabel": "Languages"
+  },
+  "legal": {
+    "impressum": {
+      "title": "Legal Notice",
+      "intro": "Information pursuant to § 5 of the German Digital Services Act (DDG). This translation is provided for convenience; the German version is legally binding.",
+      "sections": [
+        {
+          "h": "Provider",
+          "p": "Marwan Bouabid\nClever Way Media\nBrucknerstraße 13\n38226 Salzgitter\nGermany"
+        },
+        {
+          "h": "Contact",
+          "p": "Phone: +49 177 5401500\nEmail: info@cleverwaymedia.de"
+        },
+        {
+          "h": "VAT",
+          "p": "Small business under § 19 of the German VAT Act (UStG) – no VAT is shown."
+        },
+        {
+          "h": "Responsible for content",
+          "p": "Marwan Bouabid\nBrucknerstraße 13\n38226 Salzgitter"
+        },
+        {
+          "h": "Dispute resolution",
+          "p": "We are neither obliged nor willing to participate in dispute resolution proceedings before a consumer arbitration board."
+        }
+      ]
+    },
+    "datenschutz": {
+      "title": "Privacy Policy",
+      "intro": "Protecting your personal data matters to us. This policy explains the type, scope and purpose of the processing of personal data on this website under the GDPR. This translation is provided for convenience; the German version is legally binding.",
+      "sections": [
+        {
+          "h": "Controller",
+          "p": "Marwan Bouabid – Clever Way Media, Brucknerstraße 13, 38226 Salzgitter, Germany. Contact: info@cleverwaymedia.de"
+        },
+        {
+          "h": "Contact form & email",
+          "p": "If you contact us via the contact form or by email, your details (name, company, email, phone, message) are stored to handle your inquiry and are not shared without your consent."
+        },
+        {
+          "h": "Appointment booking",
+          "p": "If you use our booking system (e.g. Cal.com), your details are transmitted to the respective provider to coordinate the appointment. The provider's privacy policy also applies."
+        },
+        {
+          "h": "Cookies & analytics",
+          "p": "This website only uses technically necessary cookies unless stated otherwise on this page. If analytics tools (e.g. Vercel Analytics, Google Analytics) are used, we will inform you here separately and, where required, ask for your consent via a cookie banner."
+        },
+        {
+          "h": "Your rights",
+          "p": "You have the right to access, rectification, erasure, restriction of processing, data portability and objection. To exercise these rights, contact info@cleverwaymedia.de."
+        },
+        {
+          "h": "Right to lodge a complaint",
+          "p": "You have the right to lodge a complaint with a data protection supervisory authority."
+        }
+      ]
+    },
+    "agb": {
+      "title": "Terms & Conditions",
+      "intro": "These terms govern the business relationship between Clever Way Media and its clients. This translation is provided for convenience; the German version is legally binding.",
+      "sections": [
+        {
+          "h": "Scope",
+          "p": "These terms apply to all services provided by Clever Way Media, in particular website design, marketing services and AI automation."
+        },
+        {
+          "h": "Conclusion of contract",
+          "p": "A contract is concluded by written confirmation of an individual quote prepared as part of a strategy call."
+        },
+        {
+          "h": "Scope of services",
+          "p": "The exact scope of services is set out in the respective quote or contract."
+        },
+        {
+          "h": "Payment terms",
+          "p": "Payment deadlines and terms are set out in the individual quote. As a small business under § 19 of the German VAT Act (UStG), no VAT is charged."
+        },
+        {
+          "h": "Liability",
+          "p": "Clever Way Media is only liable for intent and gross negligence, to the extent permitted by law."
+        },
+        {
+          "h": "Final provisions",
+          "p": "The law of the Federal Republic of Germany applies."
+        }
+      ]
+    }
+  },
+  "servicesDetail": {
+    "webdesign": {
+      "title": "Web Design",
+      "icon": "website",
+      "subtitle": "A website that looks like a statement — and works like a machine for new inquiries.",
+      "benefits": [
+        "Modern, mobile-friendly design that builds trust at first glance",
+        "Clear structure that guides visitors to get in touch or book",
+        "Technically clean build — fast, secure, SEO-ready",
+        "Multilingual if you operate in several markets"
+      ],
+      "results": [
+        "A website you're proud to share",
+        "Fewer bounces because visitors instantly find what they're looking for",
+        "A solid foundation for SEO, ads and automation"
+      ],
+      "faq": [
+        {
+          "q": "How long does it take to build a website?",
+          "a": "Usually 2–4 weeks from content approval, depending on scope."
+        },
+        {
+          "q": "Is the website optimized for search engines?",
+          "a": "Yes, every website is built technically SEO-ready — structure, loading speed, metadata."
+        },
+        {
+          "q": "Can I edit the content myself later?",
+          "a": "Yes, you get access to an easy-to-use system for managing your content."
+        }
+      ]
+    },
+    "webentwicklung": {
+      "title": "Web Development",
+      "icon": "dev",
+      "subtitle": "Custom technical solutions for when a standard website is no longer enough.",
+      "benefits": [
+        "Tailor-made features instead of off-the-shelf templates",
+        "Online shops, customer portals or internal tools built for your needs",
+        "Clean, maintainable code that grows with your business",
+        "Integration with your existing systems"
+      ],
+      "results": [
+        "A system that mirrors your process — not the other way round",
+        "Less manual work thanks to smart automation in the background",
+        "A technical foundation you can build on for years"
+      ],
+      "faq": [
+        {
+          "q": "When do I need web development instead of a standard website?",
+          "a": "When you need custom features — e.g. a customer portal, booking logic or an integration with other software."
+        },
+        {
+          "q": "Do you build online shops too?",
+          "a": "Yes, from product management to payment integration."
+        },
+        {
+          "q": "Do you also handle maintenance?",
+          "a": "Yes, with an ongoing maintenance package if you wish."
+        }
+      ]
+    },
+    "seo": {
+      "title": "SEO",
+      "icon": "seo",
+      "subtitle": "Better Google rankings that bring free traffic for the long run — without an ad budget.",
+      "benefits": [
+        "Technical optimization for speed, structure and crawlability",
+        "A keyword strategy that matches your actual customers",
+        "High-quality, SEO-optimized content",
+        "Ongoing monitoring instead of a one-off fix"
+      ],
+      "results": [
+        "More organic traffic that doesn't depend on ad spend",
+        "Better visibility for the searches that really matter",
+        "A sustainable growth channel alongside paid advertising"
+      ],
+      "faq": [
+        {
+          "q": "How long does SEO take to work?",
+          "a": "First improvements often after 4–8 weeks, full effect usually after 3–6 months."
+        },
+        {
+          "q": "Is SEO worth it for small businesses?",
+          "a": "Yes — especially with a local or niche focus, SEO is often the most efficient channel."
+        },
+        {
+          "q": "How much does SEO cost?",
+          "a": "It depends on the scope — we'll discuss the right model in the free strategy call."
+        }
+      ]
+    },
+    "local-seo": {
+      "title": "Local SEO",
+      "icon": "pin",
+      "subtitle": "So customers in your area find you first on Google — not your competitors.",
+      "benefits": [
+        "An optimized Google Business Profile (Google Maps)",
+        "A local keyword strategy for your city or region",
+        "Review and reputation management",
+        "Listings in relevant local directories"
+      ],
+      "results": [
+        "Higher rankings in local Google search and on Google Maps",
+        "More calls and inquiries from customers nearby",
+        "A more professional appearance in search results"
+      ],
+      "faq": [
+        {
+          "q": "Who is local SEO worth it for?",
+          "a": "Any business with a physical location or a local catchment area — e.g. restaurants, trades, law and tax firms."
+        },
+        {
+          "q": "Do I need a Google Business Profile for this?",
+          "a": "Yes, that's the foundation — we set it up correctly and optimize it continuously."
+        },
+        {
+          "q": "How quickly will I see results?",
+          "a": "Often faster than with classic SEO, usually within a few weeks."
+        }
+      ]
+    },
+    "google-ads": {
+      "title": "Google Ads",
+      "icon": "ads",
+      "subtitle": "Paid ads that appear exactly when someone is searching for what you offer.",
+      "benefits": [
+        "Targeted campaigns instead of wasted reach",
+        "Clear budget management with full cost control",
+        "Ongoing optimization of ads and keywords",
+        "Transparent monthly reporting"
+      ],
+      "results": [
+        "Instant visibility while your SEO is still building up",
+        "Predictable, measurable inquiries instead of lucky hits",
+        "Clarity on what each new customer actually costs"
+      ],
+      "faq": [
+        {
+          "q": "How big should my ad budget be?",
+          "a": "That depends on your industry and goals — we'll recommend a realistic starting budget in the first call."
+        },
+        {
+          "q": "How quickly do the first inquiries come in?",
+          "a": "Often within the first few days after the campaign launches."
+        },
+        {
+          "q": "Do you also build the landing page for the ads?",
+          "a": "Yes, if you like we create a matching, conversion-optimized landing page."
+        }
+      ]
+    },
+    "meta-ads": {
+      "title": "Meta Ads",
+      "icon": "meta",
+      "subtitle": "Facebook and Instagram campaigns that reach your audience right where they spend their time.",
+      "benefits": [
+        "Precise targeting by interests, behavior and region",
+        "Creative ad formats that stand out in the feed",
+        "Continuous A/B testing for better results",
+        "Pixel setup for clean conversion tracking"
+      ],
+      "results": [
+        "More reach within your relevant audience",
+        "Measurable inquiries instead of mere brand awareness",
+        "Clear data on which ad really works"
+      ],
+      "faq": [
+        {
+          "q": "Instagram or Facebook — which is better?",
+          "a": "Usually both together, weighted differently depending on your audience."
+        },
+        {
+          "q": "Do I need professional photos?",
+          "a": "Helpful but not essential — we also work with material you already have."
+        },
+        {
+          "q": "How is success measured?",
+          "a": "By clicks, inquiries and the cost per contact won."
+        }
+      ]
+    },
+    "social-media": {
+      "title": "Social Media Management",
+      "icon": "social",
+      "subtitle": "A regular, professional presence on your channels — without you having to take care of it yourself.",
+      "benefits": [
+        "A content calendar tailored to your brand and audience",
+        "Creation of graphics, captions and short videos",
+        "Community management and moderation",
+        "Regular performance reports"
+      ],
+      "results": [
+        "A consistent, professional presence without taking your time",
+        "More engagement and visibility with your audience",
+        "A channel that builds trust before the first contact happens"
+      ],
+      "faq": [
+        {
+          "q": "How often do you post?",
+          "a": "Several times a week depending on the package, agreed individually."
+        },
+        {
+          "q": "Do I have to approve the content?",
+          "a": "Yes, you receive the plan in advance for approval."
+        },
+        {
+          "q": "Which platforms?",
+          "a": "Usually Instagram, Facebook and LinkedIn — depending on your audience."
+        }
+      ]
+    },
+    "branding": {
+      "title": "Branding",
+      "icon": "branding",
+      "subtitle": "A brand identity that sticks in people's minds and builds trust at first glance.",
+      "benefits": [
+        "Logo design that fits your positioning",
+        "A well thought-out color palette and typography",
+        "Clear brand guidelines for a consistent look",
+        "Business stationery like business cards and letterheads"
+      ],
+      "results": [
+        "A professional first impression at every touchpoint",
+        "Recognition across all channels",
+        "A foundation your website and marketing can build on consistently"
+      ],
+      "faq": [
+        {
+          "q": "I already have a logo — can I keep parts of it?",
+          "a": "Yes, we also work with existing elements and develop them further professionally."
+        },
+        {
+          "q": "How long does a branding project take?",
+          "a": "Usually 2–3 weeks, depending on the scope."
+        },
+        {
+          "q": "Do I get all the files?",
+          "a": "Yes, you receive all logo files and the brand guidelines."
+        }
+      ]
+    },
+    "content-creation": {
+      "title": "Content Creation",
+      "icon": "content",
+      "subtitle": "Copy and content that convinces — for your website, blog and newsletter.",
+      "benefits": [
+        "SEO-optimized website copy that also sells",
+        "Regular blog articles for more organic visibility",
+        "Newsletters that get read instead of deleted",
+        "A consistent tone that matches your brand"
+      ],
+      "results": [
+        "Copy that builds trust instead of just dumping information",
+        "Better rankings through high-quality, well-structured content",
+        "Less of your own time spent writing"
+      ],
+      "faq": [
+        {
+          "q": "Do you also write in Hungarian, Romanian or English?",
+          "a": "Yes, we write natively in German, Hungarian and Romanian, and also in English."
+        },
+        {
+          "q": "How many revision rounds are included?",
+          "a": "Usually two rounds of revisions, more if needed."
+        },
+        {
+          "q": "Do you create the images too?",
+          "a": "Yes, including matching graphics if you wish."
+        }
+      ]
+    },
+    "crm-automatisierung": {
+      "title": "CRM Automation",
+      "icon": "lead",
+      "subtitle": "Capture, score and file new contacts into your CRM automatically — instead of manual spreadsheets.",
+      "benefits": [
+        "Automatic capture of new leads from all channels",
+        "Scoring and prioritization by quality",
+        "Seamless integration with your existing CRM",
+        "Automatic reminders and follow-ups"
+      ],
+      "results": [
+        "No lead gets lost or forgotten again",
+        "Your team focuses only on the most promising contacts",
+        "Less manual data entry day to day"
+      ],
+      "faq": [
+        {
+          "q": "Which CRM systems do you support?",
+          "a": "All common systems can be connected — just ask us about your specific tool."
+        },
+        {
+          "q": "Do I need a CRM already?",
+          "a": "No, we'll also help you choose the right system."
+        },
+        {
+          "q": "How long does the setup take?",
+          "a": "Usually 1–2 weeks, depending on complexity."
+        }
+      ]
+    },
+    "email-marketing": {
+      "title": "Email Marketing",
+      "icon": "mail",
+      "subtitle": "Newsletters and email sequences that automatically turn prospects into customers.",
+      "benefits": [
+        "Automated email sequences for new contacts",
+        "Newsletters in your brand's voice, regularly and without extra effort",
+        "Segmentation by interest and purchase readiness",
+        "Clear reporting on open and click rates"
+      ],
+      "results": [
+        "Prospects who are automatically kept informed and nurtured",
+        "Recurring touchpoints without manual effort",
+        "A channel that works even without an ad budget"
+      ],
+      "faq": [
+        {
+          "q": "Do I need a lot of contacts for this to pay off?",
+          "a": "No, email marketing works even with a small but relevant list."
+        },
+        {
+          "q": "Which tool do you use?",
+          "a": "We adapt to common tools or recommend a suitable one."
+        },
+        {
+          "q": "How often should I send a newsletter?",
+          "a": "Usually 1–2 times a month, depending on your industry."
+        }
+      ]
+    },
+    "ki-automatisierung": {
+      "title": "AI Automation",
+      "icon": "workflow",
+      "subtitle": "Custom workflow automation that connects your tools and takes over repetitive tasks.",
+      "benefits": [
+        "Connecting Gmail, CRM, calendar and other tools",
+        "Automated workflows built exactly around your process",
+        "AI chatbots and voice assistants for your website and WhatsApp",
+        "Scalable without hiring additional staff"
+      ],
+      "results": [
+        "Noticeably less manual, repetitive work",
+        "Processes that keep running outside business hours",
+        "More capacity for the tasks that truly need your attention"
+      ],
+      "faq": [
+        {
+          "q": "Does this only make sense for large companies?",
+          "a": "No — smaller teams benefit most, because automation makes up for missing staff."
+        },
+        {
+          "q": "Which tools can be connected?",
+          "a": "Practically any common tool with an API — we'll go through the details in the strategy call."
+        },
+        {
+          "q": "How long does implementation take?",
+          "a": "1–3 weeks, depending on complexity."
+        }
+      ]
+    },
+    "funnel-aufbau": {
+      "title": "Funnel Building",
+      "icon": "funnel",
+      "subtitle": "A well-designed path from the first click to a booking — instead of a website that only informs.",
+      "benefits": [
+        "Clear user journey from the ad to the inquiry",
+        "Landing pages and email sequences that work together",
+        "Less friction on the way to getting in touch",
+        "Ongoing optimization based on real user data"
+      ],
+      "results": [
+        "More inquiries from the same traffic",
+        "One system instead of separate, unconnected measures",
+        "Clarity on exactly where prospects drop off"
+      ],
+      "faq": [
+        {
+          "q": "How is that different from a normal website?",
+          "a": "A funnel leads purposefully to one action instead of just presenting information."
+        },
+        {
+          "q": "Do I need ads for this?",
+          "a": "Not necessarily, but funnels work especially well combined with ads."
+        },
+        {
+          "q": "Who is a funnel right for?",
+          "a": "Anyone who wants to turn traffic into inquiries or sales predictably."
+        }
+      ]
+    },
+    "landingpages": {
+      "title": "Landing Pages",
+      "icon": "landing",
+      "subtitle": "Focused pages for one single action — perfect for campaigns and offers.",
+      "benefits": [
+        "Clear layout with no distractions from the goal",
+        "Designed specifically for ad campaigns or individual offers",
+        "Fast loading for better conversion and lower ad costs",
+        "A/B-testable for continuous improvement"
+      ],
+      "results": [
+        "A higher conversion rate than a general website page",
+        "Better results from the same ad budget",
+        "A page that fits exactly one audience or campaign"
+      ],
+      "faq": [
+        {
+          "q": "Do I need a separate landing page for every campaign?",
+          "a": "Ideally yes — that way the message matches the ad exactly."
+        },
+        {
+          "q": "How quickly is a landing page ready?",
+          "a": "Usually within a few days."
+        },
+        {
+          "q": "Can I test several variants?",
+          "a": "Yes, we set up A/B tests on request."
+        }
+      ]
+    },
+    "conversion-optimierung": {
+      "title": "Conversion Optimization",
+      "icon": "cro",
+      "subtitle": "More results from the traffic you already have — without spending a cent more on ads.",
+      "benefits": [
+        "Analysis of where visitors drop off",
+        "Improving structure, copy and calls to action",
+        "Live tests instead of gut feeling",
+        "Continuous, data-driven optimization"
+      ],
+      "results": [
+        "More inquiries without additional ad budget",
+        "A website that guides visitors to act more effectively",
+        "Clarity on which change actually makes a difference"
+      ],
+      "faq": [
+        {
+          "q": "Who is CRO worth it for?",
+          "a": "Any website with meaningful traffic that currently doesn't convert well enough."
+        },
+        {
+          "q": "How quickly will I see improvements?",
+          "a": "First effects often after a few weeks, depending on traffic volume."
+        },
+        {
+          "q": "Does it replace SEO or ads?",
+          "a": "No, it complements both by getting more out of your existing traffic."
+        }
+      ]
+    }
+  },
+  "servicesHub": {
+    "eyebrow": "All services",
+    "h1": "Every service in detail.",
+    "lead": "From your first website to fully automated customer acquisition — pick individual services or a complete package.",
+    "ctaLabel": "View details",
+    "detailCtaTitle": "Does this fit your project?",
+    "detailCtaText": "Let's clarify in a free strategy call how we can make it happen for you.",
+    "detailCtaBtn": "Free Strategy Call",
+    "benefitsTitle": "Your benefits",
+    "resultsTitle": "What you get out of it",
+    "faqTitle": "FAQ",
+    "processTitle": "How we work together",
+    "allServices": "All services",
+    "backToOverview": "Back to overview"
+  },
+  "pricingDetail": {
+    "start": {
+      "name": "Starter Package",
+      "category": "general",
+      "priceModel": "once",
+      "price": "€799",
+      "setupNote": "Optional maintenance: €44 / month",
+      "audience": "Founders or small businesses without an online presence.",
+      "features": [
+        "Simple, mobile-friendly website (1–5 pages)",
+        "Basic branding: logo and color palette",
+        "Google Business Profile setup",
+        "Basic copywriting"
+      ],
+      "faq": [
+        {
+          "q": "Is the Starter Package enough for a professional presence?",
+          "a": "Yes, it covers everything you need for a credible first online presence."
+        },
+        {
+          "q": "Can I upgrade later?",
+          "a": "Any time — most clients later move to the Growth or Complete Package."
+        }
+      ]
+    },
+    "wachstum": {
+      "name": "Growth Package",
+      "category": "general",
+      "priceModel": "monthly",
+      "setup": "€850",
+      "price": "€530",
+      "audience": "An established business that wants more customers and reach.",
+      "features": [
+        "Professional website",
+        "Basic search engine optimization (SEO)",
+        "Social media management (a few posts per week)",
+        "1 ad campaign per month (Google or Meta)",
+        "Short monthly results report"
+      ],
+      "faq": [
+        {
+          "q": "Is the ad budget included?",
+          "a": "You pay the ad budget itself directly to Google/Meta — the package covers managing the campaign."
+        },
+        {
+          "q": "Can I switch between Google and Meta?",
+          "a": "Yes, we recommend the platform that brings the most for your industry and adjust it over time."
+        }
+      ]
+    },
+    "komplett": {
+      "name": "Complete Package",
+      "category": "general",
+      "badge": "Premium",
+      "priceModel": "monthly",
+      "setup": "€1,160",
+      "price": "€1,060",
+      "audience": "A larger business that wants turnkey marketing without the effort.",
+      "features": [
+        "Everything in the Growth Package",
+        "Ongoing Google & Meta ad management",
+        "Regular content production (blog, newsletter)",
+        "1–2 automations (e.g. AI email or chatbot)",
+        "Detailed monthly report and strategy call"
+      ],
+      "faq": [
+        {
+          "q": "Which automation is included?",
+          "a": "In the strategy call we choose 1–2 automations together that give your business the biggest lever."
+        },
+        {
+          "q": "Is the package suitable for every industry?",
+          "a": "Yes, it's industry-independent — industry-specific extras are available in the specialized packages."
+        }
+      ]
+    },
+    "steuerkanzlei": {
+      "name": "Tax Firm Package",
+      "category": "industry",
+      "badge": "Recommended",
+      "priceModel": "monthly",
+      "setup": "€710",
+      "price": "€530",
+      "audience": "Tax firms that want to win new clients.",
+      "features": [
+        "AI outreach email system (automated cold emails)",
+        "Professional website for tax firms",
+        "LinkedIn presence and content",
+        "Automatic prospect follow-up"
+      ],
+      "faq": [
+        {
+          "q": "Is email outreach GDPR-compliant?",
+          "a": "Yes, we set up campaigns within the applicable rules for B2B outreach."
+        },
+        {
+          "q": "How quickly do the first client inquiries come in?",
+          "a": "Usually within the first 4–6 weeks after the campaign launches."
+        }
+      ]
+    },
+    "gastronomie": {
+      "name": "Restaurant Package",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "€530",
+      "price": "€350",
+      "audience": "Restaurants, cafés and bars that want more guests.",
+      "features": [
+        "Appealing website with an online menu",
+        "Local SEO (Google Maps optimization)",
+        "Instagram & Facebook management",
+        "Review and reputation management",
+        "Option: table reservation integration"
+      ],
+      "faq": [
+        {
+          "q": "Is a reservation feature included?",
+          "a": "It can be integrated optionally, depending on the reservation system you prefer."
+        },
+        {
+          "q": "Do you handle bad reviews?",
+          "a": "Yes, we write professional, de-escalating replies on your behalf."
+        }
+      ]
+    },
+    "ecommerce": {
+      "name": "Online Shop / E-Commerce Package",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "€1,650",
+      "price": "€620",
+      "audience": "Online retailers who want more sales.",
+      "features": [
+        "Building or optimizing your online shop",
+        "Google Shopping & Meta ads",
+        "Email automation (abandoned carts, newsletter)",
+        "Product content and descriptions"
+      ],
+      "faq": [
+        {
+          "q": "Which shop platforms do you support?",
+          "a": "Among others Shopify and WooCommerce — we'll advise you on the right choice."
+        },
+        {
+          "q": "Is payment integration included?",
+          "a": "Yes, including common payment providers such as Stripe or PayPal."
+        }
+      ]
+    },
+    "lokale-dienstleister": {
+      "name": "Local Services Package",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "€440",
+      "price": "€260",
+      "audience": "Hairdressers, beauticians, trainers, tradespeople — for a full calendar.",
+      "features": [
+        "Simple, conversion-optimized website",
+        "Online appointment booking",
+        "Google Maps SEO",
+        "Social media management"
+      ],
+      "faq": [
+        {
+          "q": "Is the booking linked to my calendar?",
+          "a": "Yes, e.g. via Cal.com with Google Calendar sync."
+        },
+        {
+          "q": "How many locations does the package cover?",
+          "a": "One location — for several locations we'll prepare a custom quote."
+        }
+      ]
+    },
+    "immobilien": {
+      "name": "Real Estate Package",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "€620",
+      "price": "€440",
+      "audience": "Real estate agents who want more qualified prospects.",
+      "features": [
+        "Website with property listings",
+        "Lead landing page",
+        "AI-powered email follow-up",
+        "Meta ads"
+      ],
+      "faq": [
+        {
+          "q": "Can I add properties myself?",
+          "a": "Yes, through an easy-to-use system for managing your listings."
+        },
+        {
+          "q": "How are prospects followed up?",
+          "a": "Automatically via an email sequence tailored to each prospect's status."
+        }
+      ]
+    },
+    "b2b-experten": {
+      "name": "B2B / Expert Package",
+      "category": "industry",
+      "priceModel": "monthly",
+      "setup": "€620",
+      "price": "€530",
+      "audience": "Lawyers, consultants, agencies — for a steady flow of qualified inquiries.",
+      "features": [
+        "Professional, trust-building website",
+        "LinkedIn content",
+        "AI cold email campaign",
+        "Case studies and blog"
+      ],
+      "faq": [
+        {
+          "q": "Does this work for small law firms or consultancies?",
+          "a": "Yes — smaller teams benefit most, because automation makes up for missing sales capacity."
+        },
+        {
+          "q": "How is the target audience for the cold emails defined?",
+          "a": "Together in the strategy call, based on your ideal customer profile."
+        }
+      ]
+    }
+  },
+  "pricingHub": {
+    "eyebrow": "Pricing & Packages",
+    "h1": "Every package in detail.",
+    "lead": "Transparent packages for every stage of your growth — general or industry-specific. As a small business under § 19 of the German VAT Act (UStG), no VAT is charged.",
+    "generalTitle": "General tiers",
+    "industryTitle": "Industry-specific packages",
+    "ctaLabel": "View details",
+    "featuresTitle": "What's included",
+    "audienceTitle": "Who it's for",
+    "faqTitle": "FAQ",
+    "detailCtaTitle": "Is this package right for you?",
+    "detailCtaText": "Let's clarify in a free strategy call whether this package — or a customized version of it — is the right fit for you.",
+    "detailCtaBtn": "Free Strategy Call",
+    "backToOverview": "Back to pricing overview",
+    "monthlyLabel": "/ month",
+    "onceLabel": "one-time",
+    "setupLabel": "Setup (one-time)",
+    "customEyebrow": "Custom",
+    "customTitle": "No package quite fits?",
+    "customText": "No problem — we'll put together a custom package exactly for your needs. You only pay for what you really need.",
+    "customBtn": "Request a custom package"
+  },
+  "casesDetail": {
+    "ki-telefonassistent": {
+      "cat": "Example scenario · AI Phone Assistant",
+      "title": "Never lose a call again",
+      "challenge": "Note: an illustrative example, not a real client case. Many small businesses can't answer the phone while they're working — and every missed call is a potentially lost job, because callers often go straight to the next provider.",
+      "strategy": "An AI phone assistant takes the calls that would otherwise go unanswered: it answers on behalf of the business, records name, number and request, books an appointment straight into the calendar if needed, and forwards urgent cases immediately. At the start of the call it transparently discloses that it's a digital assistant — GDPR-compliant.",
+      "executionSteps": [
+        "Setting up conditional call forwarding (when busy, unanswered or outside business hours)",
+        "A custom call script in the business's tone, including a GDPR notice",
+        "Calendar integration for automatic appointment booking",
+        "Instant notification via SMS, email or WhatsApp after every call"
+      ],
+      "kpis": [
+        {
+          "b": "24/7",
+          "s": "available"
+        },
+        {
+          "b": "Auto",
+          "s": "booking"
+        },
+        {
+          "b": "Instant",
+          "s": "notification"
+        }
+      ]
+    },
+    "website-lokale-sichtbarkeit": {
+      "cat": "Example scenario · Website & Local Visibility",
+      "title": "Get found online",
+      "challenge": "Note: an illustrative example, not a real client case. A business with a good local reputation is barely visible online — local searches show almost only competitors.",
+      "strategy": "The focus is on local visibility instead of expensive advertising: a fast, mobile-friendly website, a fully optimized Google Business Profile and local SEO, complemented by active review management — so customers find the business right in the search results.",
+      "executionSteps": [
+        "A new, fast website with a clear structure and easy ways to get in touch",
+        "Fully optimized Google Business Profile (photos, categories, opening hours)",
+        "A local keyword strategy for the region",
+        "Systematically replying to reviews"
+      ],
+      "kpis": [
+        {
+          "b": "SEO",
+          "s": "locally optimized"
+        },
+        {
+          "b": "Google",
+          "s": "Business Profile"
+        },
+        {
+          "b": "DE·HU·RO",
+          "s": "multilingual"
+        }
+      ]
+    }
+  },
+  "casesHub": {
+    "eyebrow": "Use cases",
+    "h1": "What automation could look like for you.",
+    "lead": "Example scenarios of how our systems work day to day — not real client cases, but honest illustrations of what's possible.",
+    "ctaLabel": "View example",
+    "challengeTitle": "Starting point",
+    "strategyTitle": "Solution",
+    "executionTitle": "Implementation",
+    "resultsTitle": "What the system does",
+    "detailCtaTitle": "Sounds like a fit for your business?",
+    "detailCtaText": "Let's discuss in a free strategy call what a system like this could look like for you.",
+    "detailCtaBtn": "Free Strategy Call",
+    "backToOverview": "Back to all examples",
+    "otherCasesTitle": "More examples",
+    "resultsIntro": "What a system like this does for you — described as a capability, not as a promised number:"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "h1": "Marketing meets automation — from day one.",
+    "lead": "Clever Way Media was founded in Romania in 2022, based on a simple observation: most businesses struggle either with outdated marketing or with a lack of time for winning customers — and rarely get both solved at once.",
+    "storyTitle": "How it all started",
+    "storyP1": "Founded in Romania in 2022, Clever Way Media specialized from the start in a combination rarely found at traditional agencies: marketing craft and AI-powered automation under one roof.",
+    "storyP2": "What began with individual website and marketing projects quickly grew into an offering that deliberately saves time and brings in new customers predictably — through systems that run in the background rather than manual one-off work.",
+    "storyP3": "Today we work with businesses in Germany, Hungary and Romania — always in the local language, with the same standard: honest marketing that actually works.",
+    "valuesTitle": "What we care about",
+    "values": [
+      {
+        "title": "Honest marketing",
+        "text": "No made-up reviews, no made-up metrics, no artificial urgency. What we show is real — even if that means working with fewer numbers until real ones exist."
+      },
+      {
+        "title": "Systems, not extra work",
+        "text": "We build automations that take load off your existing processes instead of burdening you with extra tools and tasks."
+      },
+      {
+        "title": "Results-driven",
+        "text": "Every project starts with one question: what concretely brings this business more customers or more time?"
+      },
+      {
+        "title": "Regionally rooted, multilingual",
+        "text": "We work in Germany, Hungary and Romania — and talk to every client in their own language (German, Hungarian, Romanian or English), not through a translator."
+      }
+    ],
+    "teamTitle": "How we work",
+    "teamText": "Clever Way Media is deliberately lean: every client has direct, personal contact with Marwan Bouabid — instead of getting lost in a big agency machine.",
+    "marketsTitle": "Our markets",
+    "markets": [
+      "Germany",
+      "Hungary",
+      "Romania"
+    ],
+    "ctaTitle": "Get to know us.",
+    "ctaText": "The best picture of us comes from a short, no-obligation conversation — not from an About page.",
+    "ctaBtn": "Free Strategy Call"
+  },
+  "blogDetail": {
+    "website-kosten-2026": {
+      "category": "Pricing & Budget",
+      "title": "Website Costs in 2026: What Does a Professional Website Really Cost?",
+      "seoTitle": "Website Costs 2026: What Does a Website Really Cost?",
+      "description": "Realistic price ranges for business websites in 2026 — from a simple presence site to a complete package with automation. No hidden costs.",
+      "excerpt": "The honest answer to the question almost everyone asks before hiring an agency — including the factors that really drive the price.",
+      "date": "2026-01-14",
+      "readMin": 6,
+      "body": [
+        {
+          "type": "p",
+          "text": "The question \"How much does a website cost?\" can't be answered with a single number — any more than \"How much does a car cost?\". Still, there are realistic ranges you can use as a guide before talking to agencies."
+        },
+        {
+          "type": "h2",
+          "text": "The three main factors that determine the price"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Scope: a 3-page presence site costs much less than an online shop with hundreds of products.",
+            "Individuality: a website-builder template is cheaper than a fully custom design.",
+            "Extra features: appointment booking, multilingual content or automation increase the effort."
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Realistic price ranges"
+        },
+        {
+          "type": "p",
+          "text": "For a simple, professional website with 1–5 pages, reputable quotes usually range from €700 to €1,500 one-time. For an online shop or a website with ongoing support (SEO, content, ads), monthly models between €250 and €900 are common, often combined with a one-time setup fee."
+        },
+        {
+          "type": "p",
+          "text": "Much cheaper offers are usually templates without any real adaptation to your business. Much more expensive offers often only pay off for very large companies with complex requirements."
+        },
+        {
+          "type": "h2",
+          "text": "What to look out for"
+        },
+        {
+          "type": "p",
+          "text": "Ask specifically: is basic SEO included? Who maintains the content later? What happens after the project ends? A reputable quote answers these questions without dodging them."
+        },
+        {
+          "type": "p",
+          "text": "At Clever Way Media, website projects start at a one-time €799 for the Starter Package — transparently itemized, with no hidden extra costs. For ongoing marketing and automation there are monthly packages from €530."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is a cheap website a bad website?",
+          "a": "Not necessarily — but very cheap offers are often unmodified templates with no real strategy behind them."
+        },
+        {
+          "q": "Is paying monthly better than a one-time payment?",
+          "a": "If ongoing support (SEO, content, ads) is included, yes — then you're paying for continuous work, not just the one-time build."
+        }
+      ],
+      "relatedServiceSlug": "webdesign",
+      "relatedPackageSlug": "start"
+    },
+    "steuerkanzlei-mandanten-gewinnen": {
+      "category": "Tax Firms",
+      "title": "Winning Clients as a Tax Firm: 5 Approaches That Really Work in 2026",
+      "seoTitle": "Tax Firms: 5 Ways to Win New Clients in 2026",
+      "description": "How tax firms can win new clients predictably — without relying on chance referrals. With concrete, actionable approaches.",
+      "excerpt": "Referrals alone rarely drive growth. These five approaches bring in new inquiries predictably — even without extra sales staff.",
+      "date": "2026-02-03",
+      "readMin": 7,
+      "body": [
+        {
+          "type": "p",
+          "text": "Most tax firms grow through referrals — a model that has worked for a long time but is hard to scale. If you want to grow actively, you need additional, predictable channels."
+        },
+        {
+          "type": "h2",
+          "text": "1. A website that builds trust before the first call"
+        },
+        {
+          "type": "p",
+          "text": "Many firm websites are outdated or purely informational. A modern website with a clear specialization (e.g. in certain industries or company sizes) helps potential clients decide on you before they even get in touch."
+        },
+        {
+          "type": "h2",
+          "text": "2. Targeted, automated outreach instead of manual cold calling"
+        },
+        {
+          "type": "p",
+          "text": "Manual cold outreach is time-consuming and scales poorly. An AI-powered email system can reach out specifically to companies that match your ideal client profile — personalized, yet automated."
+        },
+        {
+          "type": "h2",
+          "text": "3. Use LinkedIn as a professional channel"
+        },
+        {
+          "type": "p",
+          "text": "Regular, expert content on LinkedIn positions you as a specialist — an underrated channel, especially for B2B clients."
+        },
+        {
+          "type": "h2",
+          "text": "4. Local SEO for regional visibility"
+        },
+        {
+          "type": "p",
+          "text": "Anyone searching Google for \"tax advisor [city]\" should find you — not just the biggest firm in town. An optimized Google Business Profile is the foundation for that."
+        },
+        {
+          "type": "h2",
+          "text": "5. Automatic prospect follow-up"
+        },
+        {
+          "type": "p",
+          "text": "A prospect who doesn't reply right away isn't lost — as long as they're followed up. Automated follow-ups that still feel personal noticeably increase your success rate."
+        },
+        {
+          "type": "p",
+          "text": "Together, these five building blocks form a complete client-acquisition system at Clever Way Media — implemented as a whole or one piece at a time."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is automated cold email outreach GDPR-compliant?",
+          "a": "Yes, if the campaigns are set up within the applicable rules for B2B outreach."
+        },
+        {
+          "q": "How quickly do first results show?",
+          "a": "Additional inquiries often appear within 4–6 weeks of setup."
+        }
+      ],
+      "relatedServiceSlug": "ki-automatisierung",
+      "relatedPackageSlug": "wachstum"
+    },
+    "seo-oder-google-ads": {
+      "category": "Marketing Strategy",
+      "title": "SEO or Google Ads: Which Pays Off More for Small Businesses?",
+      "description": "An honest comparison of SEO and Google Ads for small and medium-sized businesses — costs, time horizon and when each channel makes sense.",
+      "excerpt": "The most common marketing question small businesses ask — and why the answer is usually \"both, but at different times\".",
+      "date": "2026-02-20",
+      "readMin": 6,
+      "body": [
+        {
+          "type": "p",
+          "text": "There's no one-size-fits-all answer — but there are clear criteria that help you decide."
+        },
+        {
+          "type": "h2",
+          "text": "Google Ads: fast, but you pay continuously"
+        },
+        {
+          "type": "p",
+          "text": "Google Ads delivers visibility from day one. As soon as the budget pauses, the visibility disappears too. Ideal for quick results, product launches or seasonal offers."
+        },
+        {
+          "type": "h2",
+          "text": "SEO: slow start, but a lasting effect"
+        },
+        {
+          "type": "p",
+          "text": "SEO takes time — often 3 to 6 months for noticeable effects. In return, the visibility stays even without an ongoing budget and keeps building over time."
+        },
+        {
+          "type": "h2",
+          "text": "A simple rule of thumb"
+        },
+        {
+          "type": "p",
+          "text": "If you need revenue in the short term (e.g. a new business opening, seasonal business), Google Ads is the faster lever. If you want to grow more independently of ad spend in the long run, SEO is the better investment."
+        },
+        {
+          "type": "p",
+          "text": "In practice the combination works best: Google Ads for immediate results while SEO is built up in the background — so your dependence on paid advertising decreases over time."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can I do both with a small budget?",
+          "a": "Yes — it often makes sense to start with a smaller ads budget and build the SEO foundations in parallel."
+        },
+        {
+          "q": "How long until SEO can replace Google Ads?",
+          "a": "That depends heavily on your industry and competition — 6–12 months is realistic before SEO can take over most of your visibility."
+        }
+      ],
+      "relatedServiceSlug": "seo",
+      "relatedPackageSlug": "wachstum"
+    },
+    "ki-automatisierung-einstieg": {
+      "category": "AI & Automation",
+      "title": "AI Automation for Small Businesses: Where You Should Really Start",
+      "seoTitle": "AI Automation for Small Businesses: Where to Start",
+      "description": "AI automation sounds complex — but it doesn't have to be. These three starting points deliver the biggest effect with manageable effort.",
+      "excerpt": "Not every automation makes equal sense. These three areas bring the fastest, most noticeable benefit for most small businesses.",
+      "date": "2026-03-05",
+      "readMin": 6,
+      "body": [
+        {
+          "type": "p",
+          "text": "\"AI automation\" often sounds like a big, complicated project — yet a small, targeted start usually pays off far more than a large all-in-one solution from the outset."
+        },
+        {
+          "type": "h2",
+          "text": "1. Automated lead generation"
+        },
+        {
+          "type": "p",
+          "text": "Instead of writing emails by hand, an AI handles personalized outreach to potential customers — in the background, without anyone on your team spending hours on it."
+        },
+        {
+          "type": "h2",
+          "text": "2. Lead qualification and CRM integration"
+        },
+        {
+          "type": "p",
+          "text": "New inquiries are scored and prioritized automatically. Your team no longer wastes time on unsuitable inquiries and handles the most promising contacts first."
+        },
+        {
+          "type": "h2",
+          "text": "3. An AI chatbot for frequent questions"
+        },
+        {
+          "type": "p",
+          "text": "Most incoming questions repeat themselves — opening hours, prices, availability. A chatbot answers them instantly, even outside business hours."
+        },
+        {
+          "type": "h2",
+          "text": "How to find the right starting point"
+        },
+        {
+          "type": "p",
+          "text": "Ask yourself: where does my team currently lose the most time on repetitive tasks? That's exactly where the first automation step pays off most — not where it sounds the most \"modern\"."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do I need technical knowledge for AI automation?",
+          "a": "No, we handle the setup — you then use a ready-made system."
+        },
+        {
+          "q": "Does it work with my existing tools?",
+          "a": "Usually yes — practically any common tool with an API can be connected."
+        }
+      ],
+      "relatedServiceSlug": "ki-automatisierung",
+      "relatedPackageSlug": "komplett"
+    },
+    "local-seo-checkliste": {
+      "category": "Local Businesses",
+      "title": "Local SEO Checklist: How to Get Found on Google Maps",
+      "description": "A practical checklist for restaurants, tradespeople and local service providers to get found more easily on Google Maps and in local search.",
+      "excerpt": "Most local businesses only use half of their Google Business Profile's potential. This checklist shows what really makes a difference.",
+      "date": "2026-03-22",
+      "readMin": 5,
+      "body": [
+        {
+          "type": "p",
+          "text": "When someone searches for \"restaurant near me\" or \"hairdresser [neighborhood]\", it's often the Google Business Profile that decides who gets the call — not the actual website."
+        },
+        {
+          "type": "h2",
+          "text": "The key points at a glance"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "A complete Google Business Profile with the correct category, address and opening hours",
+            "Current, high-quality photos — interior, products, team",
+            "Consistent details (name, address, phone number) across all platforms",
+            "Actively replying to reviews, positive and negative",
+            "Local keywords on your own website (city, neighborhood, region)",
+            "Regular posts on your Google Business Profile"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "The most underrated point: reviews"
+        },
+        {
+          "type": "p",
+          "text": "The number and recency of reviews influence both your ranking and the searcher's decision. A system for actively asking for reviews and replying to them professionally usually pays off faster than many other measures."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How quickly does local SEO have an effect?",
+          "a": "Often faster than classic SEO — first improvements are frequently visible within a few weeks."
+        },
+        {
+          "q": "Is an optimized Google profile enough on its own?",
+          "a": "It's the most important foundation, but it works best combined with a locally optimized website."
+        }
+      ],
+      "relatedServiceSlug": "local-seo",
+      "relatedPackageSlug": "start"
+    },
+    "social-media-kosten": {
+      "category": "Pricing & Budget",
+      "title": "How Much Does Social Media Management Cost? A Realistic Price Overview",
+      "seoTitle": "Social Media Management Costs: Realistic Prices",
+      "description": "What professional social media management really costs — and what the price depends on. A realistic overview without marketing fluff.",
+      "excerpt": "Between €0 freelancer offers and five-figure agency retainers there's a huge range. Here are the realistic factors behind it.",
+      "date": "2026-04-02",
+      "readMin": 5,
+      "body": [
+        {
+          "type": "p",
+          "text": "Prices for social media management vary widely — mostly because \"management\" can be defined in very different ways."
+        },
+        {
+          "type": "h2",
+          "text": "What influences the price"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Number of posts per week",
+            "Number of platforms managed (Instagram, Facebook, LinkedIn)",
+            "Whether new photo/video material is created or existing material is used",
+            "Whether community management (comments, messages) is included",
+            "Whether paid advertising runs in addition"
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Realistic price ranges"
+        },
+        {
+          "type": "p",
+          "text": "For solid basic management with a few posts per week, reputable monthly prices usually range from €250 to €500. More extensive packages with content production, community management and ad management often range from €500 to €900 per month."
+        },
+        {
+          "type": "p",
+          "text": "Much cheaper offers usually mean far fewer posts or just planning without real management."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do I need my own photos?",
+          "a": "It helps, but it's not essential — we also work with existing material and add to it where needed."
+        },
+        {
+          "q": "Is the ad budget included in the management fee?",
+          "a": "No, you pay the ad budget directly to the platform — the management fee covers the work, not the ad spend."
+        }
+      ],
+      "relatedServiceSlug": "social-media",
+      "relatedPackageSlug": "wachstum"
+    }
+  },
+  "blogHub": {
+    "eyebrow": "Blog",
+    "h1": "Practical know-how instead of marketing fluff.",
+    "lead": "Answers to the questions businesses really ask before deciding on marketing and automation.",
+    "ctaLabel": "Read article",
+    "readMoreLabel": "Read more",
+    "readMinLabel": "min read",
+    "backToOverview": "Back to the blog",
+    "relatedServiceTitle": "Related service",
+    "relatedPackageTitle": "Related package",
+    "ctaTitle": "Questions about your specific case?",
+    "ctaText": "Let's discuss in a free strategy call what makes sense for your business.",
+    "ctaBtn": "Free Strategy Call",
+    "faqTitle": "FAQ"
+  },
+  "ui": {
+    "more": "Show more"
+  },
+  "karriere": {
+    "metaTitle": "Careers & Partner Program — Clever Way Media",
+    "metaDesc": "Become a Clever Way Media referral partner: recommend businesses and earn — 20% of the first invoice, 10% monthly. No employment, no risk.",
+    "eyebrow": "Partner Program",
+    "h1": "Refer and earn — with zero risk.",
+    "lead": "Do you know business owners who could use a better website, advertising or AI automation? Refer us and earn — no employment, no fixed hours, no obligation.",
+    "steps": [
+      {
+        "n": "1",
+        "t": "Reach out",
+        "x": "Do you know a business owner — a hairdresser, restaurant, shop, any small business — who would benefit from a better website, advertising or AI automation? Talk to them."
+      },
+      {
+        "n": "2",
+        "t": "Connect",
+        "x": "Once you've convinced them they need it, you connect them with us. We take care of the rest — meeting, quote and contract."
+      },
+      {
+        "n": "3",
+        "t": "Stay in touch",
+        "x": "Once they're our client, you check in briefly once a week — so they feel looked after."
+      }
+    ],
+    "role": "You don't work as an employee but as a referral partner. No fixed hours, no contractual obligation.",
+    "payTitle": "What you earn",
+    "pay": [
+      "20% of the first invoice (setup + 1st month) — as soon as the client has paid.",
+      "From the 2nd month: 10% of the monthly fee — for as long as the client stays with us.",
+      "Paid out 1–2 weeks after payment is received, by bank transfer."
+    ],
+    "risk": "Zero risk: you only get paid when a real client comes out of it — but then continuously, for as long as they stay.",
+    "ctaTitle": "Are you in?",
+    "ctaText": "We put everything in a short written agreement. Just get in touch.",
+    "ctaBtn": "Become a partner"
+  },
+  "voiceDemo": {
+    "idle": "Ready? Talk to Max, our AI phone assistant.",
+    "connecting": "Connecting …",
+    "active": "You're talking to Max.",
+    "ended": "Call ended. Thanks for trying it out!",
+    "error": "Couldn't connect. Please allow microphone access or try again later.",
+    "startBtn": "Try the AI assistant",
+    "endBtn": "End call",
+    "privacyNote": "Runs directly in your browser via your microphone. Max is an AI — this is announced at the start of the call. Max. 2 minutes per test."
+  },
+  "voiceWidget": {
+    "label": "Try the AI assistant",
+    "eyebrow": "Live demo",
+    "title": "Talk to Max",
+    "text": "Experience for yourself how our AI phone assistant answers calls — right in your browser, no phone number needed.",
+    "close": "Close",
+    "tileBtn": "Try it live"
+  },
+  "audit": {
+    "metaTitle": "Free Website Check — Clever Way Media",
+    "metaDesc": "Test your website in seconds: mobile-friendliness, Google visibility, loading speed and contact options — free and with no obligation.",
+    "eyebrow": "Free Website Check",
+    "h1": "How good is your website really?",
+    "lead": "Enter your address and find out in seconds what's holding back customers and Google on your site — with concrete tips for improvement.",
+    "placeholder": "your-website.com",
+    "submit": "Check website",
+    "checking": "Checking …",
+    "bullets": [
+      "10+ checkpoints",
+      "Results in seconds",
+      "Free & no obligation"
+    ],
+    "errors": {
+      "invalid": "Please enter a valid website address, e.g. my-company.com.",
+      "blocked": "This address can't be checked.",
+      "unreachable": "We couldn't reach the website. Is the address correct?",
+      "notHtml": "No web page was found at this address.",
+      "rate": "Too many checks in a short time — please try again in a few minutes.",
+      "generic": "Something went wrong. Please try again."
+    },
+    "scoreLabel": "Overall score",
+    "verdict": {
+      "good": "Solid foundation",
+      "ok": "Room for improvement",
+      "bad": "Urgent action needed"
+    },
+    "speedPending": "Still measuring mobile loading speed …",
+    "issuesTitle": "The biggest issues",
+    "noIssues": "Great — we found no problems on the points we checked.",
+    "passedTitle": "Already in good shape",
+    "tipLabel": "Our tip",
+    "locked": "{n} more checkpoints and all tips in the full report",
+    "unlock": {
+      "title": "Unlock the full report",
+      "text": "See all results with concrete improvement tips. If you like, we'll go through the report together in a free call.",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone (optional)",
+      "submit": "Show report",
+      "note": "No newsletter, no spam. We'll get in touch personally about your result at most once."
+    },
+    "ctaTitle": "Should we fix this for you?",
+    "ctaText": "In a free strategy call we'll show you which points make the biggest difference — and what it costs.",
+    "ctaBtn": "Book a strategy call",
+    "again": "Check another website",
+    "privacy": "We only fetch publicly visible content from your homepage. Mobile loading speed is measured via Google PageSpeed Insights.",
+    "teaser": {
+      "eyebrow": "Free Website Check",
+      "h2": "How good is your website really?",
+      "text": "10+ checkpoints in seconds — mobile, Google, speed, contact. With concrete tips.",
+      "btn": "Check it now for free"
+    },
+    "popup": {
+      "eyebrow": "Free Website Check",
+      "title": "How good is your website really?",
+      "text": "Find out in seconds what's holding back customers and Google on your site — with concrete tips.",
+      "btn": "Check now",
+      "close": "Close",
+      "trust": "Free · No sign-up · Results in seconds"
+    },
+    "checks": {
+      "speed": {
+        "name": "Mobile loading speed",
+        "pass": "Fast: {value}/100 on Google PageSpeed (mobile).",
+        "warn": "Average: {value}/100 on Google PageSpeed (mobile).",
+        "fail": "Slow: only {value}/100 on Google PageSpeed (mobile).",
+        "tip": "Compress images (WebP), remove unnecessary scripts and plugins, and use fast hosting. Every second of loading time costs you inquiries."
+      },
+      "https": {
+        "name": "Secure connection (HTTPS)",
+        "pass": "Your site is served encrypted over HTTPS.",
+        "warn": "The connection isn't fully encrypted.",
+        "fail": "Your site isn't encrypted — browsers show a \"Not secure\" warning.",
+        "tip": "Enable an SSL certificate (free with most hosts) and redirect all traffic to HTTPS."
+      },
+      "response": {
+        "name": "Server response time",
+        "pass": "The server responds quickly ({value} ms).",
+        "warn": "The server responds a bit slowly ({value} ms).",
+        "fail": "The server responds very slowly ({value} ms).",
+        "tip": "Enable caching or switch to faster hosting. Under 800 ms is a good value."
+      },
+      "viewport": {
+        "name": "Mobile display",
+        "pass": "The site is set up for smartphones.",
+        "warn": "The mobile setup is incomplete.",
+        "fail": "The site isn't optimized for smartphones — even though most visitors usually come on mobile.",
+        "tip": "Use a responsive layout with a viewport tag so text and buttons are easy to use on a phone."
+      },
+      "title": {
+        "name": "Page title for Google",
+        "pass": "The page title is present and a good length ({value} characters).",
+        "warn": "The page title has an unfavorable length ({value} characters) — too short wastes potential, too long gets cut off by Google.",
+        "fail": "The page title is missing — Google doesn't know how to display your page.",
+        "tip": "Write a 15–65 character title: service + location + company name, e.g. \"Hair Salon in Manchester | Salon Example\"."
+      },
+      "description": {
+        "name": "Description in search results",
+        "pass": "The meta description is present and well sized ({value} characters).",
+        "warn": "The meta description has an unfavorable length ({value} characters) — too short doesn't convince, too long gets cut off.",
+        "fail": "The meta description is missing — Google then picks a random text snippet.",
+        "tip": "70–165 characters combining your benefit and a call to action — it's your ad in the search results."
+      },
+      "h1": {
+        "name": "Main heading (H1)",
+        "pass": "Exactly one main heading — cleanly structured.",
+        "warn": "There are {value} main headings — that dilutes the page's topic.",
+        "fail": "The main heading is missing.",
+        "tip": "Exactly one H1 per page that clearly says what you offer and where."
+      },
+      "contact": {
+        "name": "Contact options",
+        "pass": "Visitors can call you with a single tap.",
+        "warn": "Contact is possible, but a tap-to-call phone number is missing.",
+        "fail": "There's no direct way to get in touch on the homepage.",
+        "tip": "Place a tap-to-call phone number, email or WhatsApp where it's easy to see — ideally in the header too."
+      },
+      "legal": {
+        "name": "Legal notice & privacy policy",
+        "pass": "Legal notice and privacy policy are linked.",
+        "warn": "The legal notice or privacy policy is missing from the homepage.",
+        "fail": "Neither a legal notice nor a privacy policy is linked — in Germany this can lead to legal warnings.",
+        "tip": "Link both pages from every page, e.g. in the footer."
+      },
+      "schema": {
+        "name": "Structured data for Google",
+        "pass": "Google receives your business details in a structured format.",
+        "warn": "There is structured data, but no business details.",
+        "fail": "No structured data — Google has to guess your business details.",
+        "tip": "Add LocalBusiness markup with name, address, phone and opening hours. It strengthens local visibility."
+      },
+      "alt": {
+        "name": "Image descriptions (alt text)",
+        "pass": "{value}% of images have a description.",
+        "warn": "Only {value}% of images have a description.",
+        "fail": "Only {value}% of images have a description.",
+        "tip": "Give every image a short, descriptive alt text — good for Google Images and accessibility."
+      },
+      "crawl": {
+        "name": "robots.txt & sitemap",
+        "pass": "robots.txt and sitemap are present.",
+        "warn": "robots.txt or the sitemap is missing.",
+        "fail": "Neither robots.txt nor a sitemap was found.",
+        "tip": "Create a sitemap.xml and submit it in Google Search Console so all your pages get found."
+      },
+      "og": {
+        "name": "Link preview when shared",
+        "pass": "A nice preview appears when shared on WhatsApp, Facebook and co.",
+        "warn": "The share preview is incomplete.",
+        "fail": "No appealing preview appears when the page is shared.",
+        "tip": "Set an Open Graph title and image so shared links look professional."
+      },
+      "lang": {
+        "name": "Language tag",
+        "pass": "The page language is set correctly.",
+        "warn": "The language tag is incomplete.",
+        "fail": "The page language isn't specified.",
+        "tip": "Set the lang attribute (e.g. \"en\") — it helps Google and screen readers."
+      },
+      "favicon": {
+        "name": "Favicon",
+        "pass": "A favicon (browser icon) is present.",
+        "warn": "The favicon is missing from the browser tab.",
+        "fail": "The favicon is missing from the browser tab.",
+        "tip": "Add your logo as a small icon — it looks more professional and also shows up in Google."
+      }
+    }
+  }
+}

@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { locales } from '@/i18n/routing';
 export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.cleverwaymedia.de';
 export const SITE_NAME = 'Clever Way Media';
 export const CONTACT_EMAIL = 'info@cleverwaymedia.de';
@@ -49,9 +50,7 @@ export function pageMetadata(locale: string, path: string, title: string, descri
     alternates: {
       canonical: url,
       languages: {
-        de: `${SITE_URL}/de${path}`,
-        hu: `${SITE_URL}/hu${path}`,
-        ro: `${SITE_URL}/ro${path}`,
+        ...Object.fromEntries(locales.map((l) => [l, `${SITE_URL}/${l}${path}`])),
         'x-default': `${SITE_URL}/de${path}`,
       },
     },

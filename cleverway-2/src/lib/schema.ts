@@ -15,7 +15,7 @@ export function organizationSchema(description: string) {
       { '@type': 'Country', name: 'Ungarn' },
       { '@type': 'Country', name: 'Rumänien' },
     ],
-    knowsLanguage: ['de', 'hu', 'ro'],
+    knowsLanguage: ['de', 'hu', 'ro', 'en'],
     email: CONTACT_EMAIL,
     makesOffer: [
       { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Website-Erstellung' } },
