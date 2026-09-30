@@ -7,7 +7,7 @@ import LegalPage from '@/components/LegalPage';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'legal.datenschutz' });
-  return pageMetadata(params.locale, '/datenschutz', seoTitle(t('title')), t('intro'));
+  return pageMetadata(params.locale, '/datenschutz', seoTitle(t('title')), t('intro').split(/(?<=\.) /)[0]);
 }
 
 export default async function DatenschutzPage({ params }: { params: { locale: Locale } }) {

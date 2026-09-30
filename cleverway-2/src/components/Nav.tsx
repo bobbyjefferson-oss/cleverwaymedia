@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from 'react';
 import { usePathname } from 'next/navigation';
 import { useLocale, useTranslations } from 'next-intl';
 import { locales } from '@/i18n/routing';
-import { CONTACT_EMAIL } from '@/lib/site';
+import { CONTACT_EMAIL, CONTACT_PHONE, CONTACT_PHONE_HREF } from '@/lib/site';
 
 const NAV: { id: string; page?: string }[] = [
   { id: 'leistungen', page: 'leistungen' },
@@ -36,6 +36,7 @@ export default function Nav() {
 
   useEffect(() => {
     document.body.style.overflow = open ? 'hidden' : '';
+    document.body.classList.toggle('menu-open', open);
   }, [open]);
 
   // Safety net: if the desktop row (brand + links + languages + CTA) doesn't fit
@@ -155,6 +156,7 @@ export default function Nav() {
                 </span>
               ))}
             </div>
+            <a href={CONTACT_PHONE_HREF} className="mobile__mail">{CONTACT_PHONE}</a>
             <a href={`mailto:${CONTACT_EMAIL}`} className="mobile__mail">{CONTACT_EMAIL}</a>
           </div>
         </div>

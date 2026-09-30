@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Clever Way Media – Marketing és MI-automatizáció",
-    "description": "Weboldal, Google-láthatóság, MI-telefonasszisztens és automatizálás vállalkozásoknak Németországban, Magyarországon és Romániában – az Ön nyelvén."
+    "title": "Weboldalkészítés, SEO és MI-automatizálás | Clever Way Media",
+    "description": "Weboldal, ami érdeklődőket hoz, helyi Google-láthatóság és MI-telefonasszisztens, ami egy hívást sem hagy ki. Foglaljon ingyenes stratégiai beszélgetést."
   },
   "nav": {
     "links": {
@@ -419,7 +419,8 @@
         "code": "RO",
         "name": "Románia"
       }
-    ]
+    ],
+    "phoneLabel": "Telefon"
   },
   "footer": {
     "tagline": "A marketing találkozik az automatizációval. Professzionális weboldalak és MI-alapú ügyfélszerzés vállalkozásoknak Németországban, Magyarországon és Romániában.",
@@ -507,7 +508,7 @@
     },
     "agb": {
       "title": "Általános Szerződési Feltételek",
-      "intro": "Ez az ÁSZF szabályozza a Clever Way Media és ügyfelei közötti üzleti kapcsolatot. Kérjük, közzététel előtt jogilag ellenőriztesse ezt a tervezetet.",
+      "intro": "Ez az ÁSZF szabályozza a Clever Way Media és ügyfelei közötti üzleti kapcsolatot. A fordítás tájékoztató jellegű; jogilag a német változat az irányadó.",
       "sections": [
         {
           "h": "Hatály",
@@ -911,7 +912,10 @@
     "faqTitle": "Gyakori kérdések",
     "processTitle": "Így zajlik az együttműködés",
     "allServices": "Minden szolgáltatás",
-    "backToOverview": "Vissza az áttekintéshez"
+    "backToOverview": "Vissza az áttekintéshez",
+    "metaTitle": "Szolgáltatások: weboldal, SEO, hirdetés, MI",
+    "metaDesc": "Weboldalkészítés, SEO, Google- és Meta-hirdetés, közösségi média és MI-automatizálás egy kézből — kis- és középvállalkozásoknak.",
+    "serviceMetaTitle": "{service} vállalkozásoknak"
   },
   "pricingDetail": {
     "start": {
@@ -1156,7 +1160,9 @@
     "customEyebrow": "Egyedi",
     "customTitle": "Nem talál pontosan illő csomagot?",
     "customText": "Semmi gond — összeállítunk egy egyedi csomagot pontosan az Ön igényei szerint. Csak azért fizet, amire tényleg szüksége van.",
-    "customBtn": "Egyedi csomagot kérek"
+    "customBtn": "Egyedi csomagot kérek",
+    "metaTitle": "Árak: weboldal, SEO és marketingcsomagok",
+    "metaDesc": "Átlátható árak: weboldal 799 €-tól egyszeri díjjal, marketingcsomagok havi 530 €-tól. Rejtett költségek nélkül — minden csomag részletesen."
   },
   "casesDetail": {
     "ki-telefonassistent": {
@@ -1226,7 +1232,9 @@
     "detailCtaBtn": "Ingyenes stratégiai beszélgetés",
     "backToOverview": "Vissza az összes példához",
     "otherCasesTitle": "További példák",
-    "resultsIntro": "Mit tesz Önért egy ilyen rendszer — képességként leírva, nem ígért számként:"
+    "resultsIntro": "Mit tesz Önért egy ilyen rendszer — képességként leírva, nem ígért számként:",
+    "metaTitle": "Példák: MI-telefonasszisztens és helyi SEO",
+    "metaDesc": "Így működik az MI-telefonasszisztens, a weboldal és a helyi SEO egy vállalkozás mindennapjaiban — őszinte példák, szépített számok nélkül."
   },
   "about": {
     "eyebrow": "Rólunk",
@@ -1265,7 +1273,9 @@
     ],
     "ctaTitle": "Ismerjen meg minket.",
     "ctaText": "A legjobb képet egy rövid, kötelezettségmentes beszélgetésben kaphatja rólunk — nem egy Rólunk oldalról.",
-    "ctaBtn": "Ingyenes stratégiai beszélgetés"
+    "ctaBtn": "Ingyenes stratégiai beszélgetés",
+    "metaTitle": "Rólunk: marketing- és MI-ügynökség",
+    "metaDesc": "A Clever Way Media összeköti a marketinget és az MI-automatizálást. Személyes kapcsolattartó: Marwan Bouabid — őszintén, közvetlenül, call center nélkül."
   },
   "blogDetail": {
     "website-kosten-2026": {
@@ -1302,7 +1312,7 @@
         },
         {
           "type": "p",
-          "text": "A Clever Way Media-nál a Start csomag 799 €-tól indul, átlátható bontásban, rejtett költségek nélkül."
+          "text": "A Clever Way Media-nál a Start csomag 799 €-tól indul, átlátható bontásban, rejtett költségek nélkül. A folyamatos marketinghez és automatizáláshoz havi csomagok 530 €-tól érhetők el."
         }
       ],
       "faq": [
@@ -1347,7 +1357,7 @@
         },
         {
           "type": "p",
-          "text": "Ez az öt elem alkotja együtt a Clever Way Media Könyvelőiroda csomagját — egyben vagy külön-külön is megvalósítható."
+          "text": "Ez az öt elem együtt egy teljes ügyfélszerző rendszert alkot a Clever Way Media-nál — egyben vagy külön-külön is megvalósítható."
         }
       ],
       "faq": [
@@ -1546,7 +1556,9 @@
     "ctaTitle": "Kérdése van a saját helyzetéről?",
     "ctaText": "Beszéljük meg egy ingyenes stratégiai beszélgetésen, mi lenne értelmes az Ön vállalkozásának.",
     "ctaBtn": "Ingyenes stratégiai beszélgetés",
-    "faqTitle": "Gyakori kérdések"
+    "faqTitle": "Gyakori kérdések",
+    "metaTitle": "Blog: weboldal, SEO és MI-automatizálás",
+    "metaDesc": "Gyakorlati tudás kisvállalkozásoknak: weboldal-árak, SEO vagy Google Ads, helyi SEO és az MI-automatizálás első lépései — érthetően."
   },
   "ui": {
     "more": "Tovább"
@@ -1594,13 +1606,13 @@
     "error": "Nem sikerült csatlakozni. Engedélyezze a mikrofont, vagy próbálja később.",
     "startBtn": "MI-asszisztens kipróbálása",
     "endBtn": "Hívás befejezése",
-    "privacyNote": "Közvetlenül a böngészőben fut, a mikrofonján keresztül. Max egy MI — ezt a beszélgetés elején bemondja. Max. 2 perc tesztenként."
+    "privacyNote": "A demó jelenleg sajnos csak németül érhető el. Közvetlenül a böngészőben fut, a mikrofonján keresztül. Max egy MI — ezt a beszélgetés elején bemondja. Max. 2 perc tesztenként."
   },
   "voiceWidget": {
     "label": "MI-asszisztens kipróbálása",
     "eyebrow": "Élő demó",
     "title": "Beszéljen Max-szal",
-    "text": "Tapasztalja meg, hogyan fogadja a hívásokat az MI-telefonasszisztensünk — közvetlenül a böngészőben, telefonszám nélkül.",
+    "text": "Tapasztalja meg, hogyan fogadja a hívásokat az MI-telefonasszisztensünk — közvetlenül a böngészőben, telefonszám nélkül. A demó jelenleg sajnos csak németül érhető el.",
     "close": "Bezárás",
     "tileBtn": "Kipróbálom élőben"
   },

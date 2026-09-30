@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Clever Way Media – Marketing meets Automation",
-    "description": "Websites, Google visibility, an AI phone assistant and automation for businesses in Germany, Hungary and Romania – in your language."
+    "title": "Web Design, SEO & AI Automation | Clever Way Media",
+    "description": "Websites that bring in inquiries, local Google visibility and an AI phone assistant that never misses a call. Book your free strategy call today."
   },
   "nav": {
     "links": {
@@ -419,7 +419,8 @@
         "code": "RO",
         "name": "Romania"
       }
-    ]
+    ],
+    "phoneLabel": "Phone"
   },
   "footer": {
     "tagline": "Marketing meets automation. Professional websites and AI-powered customer acquisition for businesses in Germany, Hungary and Romania.",
@@ -1001,7 +1002,10 @@
     "faqTitle": "FAQ",
     "processTitle": "How we work together",
     "allServices": "All services",
-    "backToOverview": "Back to overview"
+    "backToOverview": "Back to overview",
+    "metaTitle": "Services: Web Design, SEO, Ads & AI Automation",
+    "metaDesc": "Web design, SEO, Google & Meta ads, social media and AI automation from one team — for small and medium-sized businesses. All services at a glance.",
+    "serviceMetaTitle": "{service} for Businesses"
   },
   "pricingDetail": {
     "start": {
@@ -1246,7 +1250,9 @@
     "customEyebrow": "Custom",
     "customTitle": "No package quite fits?",
     "customText": "No problem — we'll put together a custom package exactly for your needs. You only pay for what you really need.",
-    "customBtn": "Request a custom package"
+    "customBtn": "Request a custom package",
+    "metaTitle": "Pricing: Website, SEO & Marketing Packages",
+    "metaDesc": "Transparent pricing: websites from a one-time €799, marketing packages from €530 per month. No hidden costs — every package in detail."
   },
   "casesDetail": {
     "ki-telefonassistent": {
@@ -1316,7 +1322,9 @@
     "detailCtaBtn": "Free Strategy Call",
     "backToOverview": "Back to all examples",
     "otherCasesTitle": "More examples",
-    "resultsIntro": "What a system like this does for you — described as a capability, not as a promised number:"
+    "resultsIntro": "What a system like this does for you — described as a capability, not as a promised number:",
+    "metaTitle": "Use Cases: AI Phone Assistant & Local SEO",
+    "metaDesc": "How an AI phone assistant, a website and local SEO work in a business's day-to-day — honest example scenarios instead of polished numbers."
   },
   "about": {
     "eyebrow": "About us",
@@ -1355,7 +1363,9 @@
     ],
     "ctaTitle": "Get to know us.",
     "ctaText": "The best picture of us comes from a short, no-obligation conversation — not from an About page.",
-    "ctaBtn": "Free Strategy Call"
+    "ctaBtn": "Free Strategy Call",
+    "metaTitle": "About Us: Marketing & AI Automation Agency",
+    "metaDesc": "Clever Way Media combines marketing with AI automation. Your personal contact: Marwan Bouabid from Salzgitter, Germany — honest, direct, no call center."
   },
   "blogDetail": {
     "website-kosten-2026": {
@@ -1721,7 +1731,9 @@
     "ctaTitle": "Questions about your specific case?",
     "ctaText": "Let's discuss in a free strategy call what makes sense for your business.",
     "ctaBtn": "Free Strategy Call",
-    "faqTitle": "FAQ"
+    "faqTitle": "FAQ",
+    "metaTitle": "Blog: Website, SEO & AI Automation Tips",
+    "metaDesc": "Practical know-how for small businesses: website costs, SEO vs. Google Ads, local SEO and getting started with AI automation — clearly explained."
   },
   "ui": {
     "more": "Show more"
@@ -1769,13 +1781,13 @@
     "error": "Couldn't connect. Please allow microphone access or try again later.",
     "startBtn": "Try the AI assistant",
     "endBtn": "End call",
-    "privacyNote": "Runs directly in your browser via your microphone. Max is an AI — this is announced at the start of the call. Max. 2 minutes per test."
+    "privacyNote": "Unfortunately, the demo is currently only available in German. Runs directly in your browser via your microphone. Max is an AI — this is announced at the start of the call. Max. 2 minutes per test."
   },
   "voiceWidget": {
     "label": "Try the AI assistant",
     "eyebrow": "Live demo",
     "title": "Talk to Max",
-    "text": "Experience for yourself how our AI phone assistant answers calls — right in your browser, no phone number needed.",
+    "text": "Experience for yourself how our AI phone assistant answers calls — right in your browser, no phone number needed. Unfortunately, the demo is currently only available in German.",
     "close": "Close",
     "tileBtn": "Try it live"
   },

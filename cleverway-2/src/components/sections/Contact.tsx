@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { useTranslations } from 'next-intl';
 import Reveal from '@/components/Reveal';
-import { CONTACT_EMAIL, SOCIAL, buildMailto, postLead } from '@/lib/site';
+import { CONTACT_EMAIL, CONTACT_PHONE, CONTACT_PHONE_HREF, SOCIAL, buildMailto, postLead } from '@/lib/site';
 
 export default function Contact() {
   const t = useTranslations('contact');
@@ -29,7 +29,8 @@ export default function Contact() {
             <span className="eyebrow">{t('eyebrow')}</span>
             <h2 className="h-md">{t('h2')}</h2>
             <p className="lead" style={{ marginTop: 16, fontSize: '1.05rem' }}>{t('lead')}</p>
-            <div className="contact__block"><div className="k">{t('emailLabel')}</div><div className="v">{CONTACT_EMAIL}</div></div>
+            <div className="contact__block"><div className="k">{t('phoneLabel')}</div><div className="v"><a href={CONTACT_PHONE_HREF}>{CONTACT_PHONE}</a></div></div>
+            <div className="contact__block"><div className="k">{t('emailLabel')}</div><div className="v"><a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a></div></div>
             <div className="contact__block"><div className="k">{t('marketsLabel')}</div><div className="v">{t('markets')}</div></div>
             <div className="contact__block"><div className="k">{t('langLabel')}</div><div className="v">{t('langs')}</div></div>
             <div className="contact__block">

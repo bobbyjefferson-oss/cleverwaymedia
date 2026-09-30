@@ -12,7 +12,7 @@ import Reveal from '@/components/Reveal';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'servicesHub' });
-  return pageMetadata(params.locale, '/leistungen', seoTitle(t('h1')), t('lead'));
+  return pageMetadata(params.locale, '/leistungen', seoTitle(t('metaTitle')), t('metaDesc'));
 }
 
 export default async function ServicesHubPage({ params }: { params: { locale: Locale } }) {

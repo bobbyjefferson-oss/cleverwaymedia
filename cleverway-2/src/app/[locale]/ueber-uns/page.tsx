@@ -12,7 +12,7 @@ import Reveal from '@/components/Reveal';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'about' });
-  return pageMetadata(params.locale, '/ueber-uns', seoTitle(t('h1')), t('lead'));
+  return pageMetadata(params.locale, '/ueber-uns', seoTitle(t('metaTitle')), t('metaDesc'));
 }
 
 export default async function AboutPage({ params }: { params: { locale: Locale } }) {

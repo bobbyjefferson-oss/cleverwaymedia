@@ -12,7 +12,7 @@ import Reveal from '@/components/Reveal';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'pricingHub' });
-  return pageMetadata(params.locale, '/preise', seoTitle(t('h1')), t('lead'));
+  return pageMetadata(params.locale, '/preise', seoTitle(t('metaTitle')), t('metaDesc'));
 }
 
 function PackageCard({

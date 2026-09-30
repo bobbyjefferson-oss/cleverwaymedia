@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Clever Way Media – Marketing trifft Automation",
-    "description": "Websites, Google-Sichtbarkeit, KI-Telefonassistent und Automatisierung für Unternehmen in Deutschland, Ungarn und Rumänien – in Ihrer Sprache."
+    "title": "Webdesign, SEO & KI-Automatisierung | Clever Way Media",
+    "description": "Websites, die Anfragen bringen, lokale Google-Sichtbarkeit und ein KI-Telefonassistent, der keinen Anruf verpasst. Kostenloses Strategiegespräch sichern."
   },
   "nav": {
     "links": {
@@ -419,7 +419,8 @@
         "code": "RO",
         "name": "Rumänien"
       }
-    ]
+    ],
+    "phoneLabel": "Telefon"
   },
   "footer": {
     "tagline": "Marketing trifft Automation. Professionelle Websites und KI-gestützte Kundengewinnung für Unternehmen in Deutschland, Ungarn und Rumänien.",
@@ -507,7 +508,7 @@
     },
     "agb": {
       "title": "Allgemeine Geschäftsbedingungen",
-      "intro": "Diese AGB regeln die Geschäftsbeziehung zwischen Clever Way Media und ihren Kunden. Bitte lassen Sie diesen Entwurf vor Veröffentlichung rechtlich prüfen.",
+      "intro": "Diese AGB regeln die Geschäftsbeziehung zwischen Clever Way Media und ihren Kunden.",
       "sections": [
         {
           "h": "Geltungsbereich",
@@ -1001,7 +1002,10 @@
     "faqTitle": "Häufige Fragen",
     "processTitle": "So läuft die Zusammenarbeit ab",
     "allServices": "Alle Leistungen",
-    "backToOverview": "Zurück zur Übersicht"
+    "backToOverview": "Zurück zur Übersicht",
+    "metaTitle": "Leistungen: Webdesign, SEO, Ads & KI-Automatisierung",
+    "metaDesc": "Webdesign, SEO, Google & Meta Ads, Social Media und KI-Automatisierung aus einer Hand — für kleine und mittlere Unternehmen. Alle Leistungen im Überblick.",
+    "serviceMetaTitle": "{service} für Unternehmen"
   },
   "pricingDetail": {
     "start": {
@@ -1246,7 +1250,9 @@
     "customEyebrow": "Individuell",
     "customTitle": "Kein Paket passt genau?",
     "customText": "Kein Problem — wir stellen Ihnen ein individuelles Paket genau nach Ihrem Bedarf zusammen. Sie zahlen nur für das, was Sie wirklich brauchen.",
-    "customBtn": "Individuelles Paket anfragen"
+    "customBtn": "Individuelles Paket anfragen",
+    "metaTitle": "Preise für Website, SEO & Marketing-Pakete",
+    "metaDesc": "Transparente Preise: Website ab 799 € einmalig, Marketing-Pakete ab 530 € im Monat. Ohne versteckte Kosten — alle Pakete im Detail."
   },
   "casesDetail": {
     "ki-telefonassistent": {
@@ -1316,7 +1322,9 @@
     "detailCtaBtn": "Kostenloses Strategiegespräch",
     "backToOverview": "Zurück zu allen Beispielen",
     "otherCasesTitle": "Weitere Beispiele",
-    "resultsIntro": "Was ein solches System für Sie tut — als Fähigkeit beschrieben, nicht als versprochene Zahl:"
+    "resultsIntro": "Was ein solches System für Sie tut — als Fähigkeit beschrieben, nicht als versprochene Zahl:",
+    "metaTitle": "Beispiele: KI-Telefonassistent & lokale SEO",
+    "metaDesc": "So arbeiten KI-Telefonassistent, Website und lokale SEO im Alltag eines Betriebs — ehrliche Beispielszenarien statt geschönter Zahlen."
   },
   "about": {
     "eyebrow": "Über uns",
@@ -1355,7 +1363,9 @@
     ],
     "ctaTitle": "Lernen Sie uns kennen.",
     "ctaText": "Das beste Bild von uns bekommen Sie in einem kurzen, unverbindlichen Gespräch — nicht aus einer Über-uns-Seite.",
-    "ctaBtn": "Kostenloses Strategiegespräch"
+    "ctaBtn": "Kostenloses Strategiegespräch",
+    "metaTitle": "Über uns: Marketing- & KI-Agentur aus Salzgitter",
+    "metaDesc": "Clever Way Media verbindet Marketing und KI-Automatisierung. Persönlicher Ansprechpartner: Marwan Bouabid aus Salzgitter — direkt, ohne Callcenter."
   },
   "blogDetail": {
     "website-kosten-2026": {
@@ -1405,7 +1415,7 @@
         },
         {
           "type": "p",
-          "text": "Bei Clever Way Media starten Website-Projekte bei 799 € einmalig für ein Start-Paket — transparent aufgeschlüsselt, ohne versteckte Zusatzkosten. Für laufendes Marketing und Automatisierung gibt es monatliche Pakete ab 260 €."
+          "text": "Bei Clever Way Media starten Website-Projekte bei 799 € einmalig für ein Start-Paket — transparent aufgeschlüsselt, ohne versteckte Zusatzkosten. Für laufendes Marketing und Automatisierung gibt es monatliche Pakete ab 530 €."
         }
       ],
       "faq": [
@@ -1476,7 +1486,7 @@
         },
         {
           "type": "p",
-          "text": "Diese fünf Bausteine bilden zusammen das Steuerkanzlei-Paket von Clever Way Media — als Gesamtsystem oder einzeln umsetzbar."
+          "text": "Zusammen bilden diese fünf Bausteine bei Clever Way Media ein komplettes System zur Mandantengewinnung — als Gesamtsystem oder einzeln umsetzbar."
         }
       ],
       "faq": [
@@ -1721,7 +1731,9 @@
     "ctaTitle": "Fragen zu Ihrem konkreten Fall?",
     "ctaText": "Lassen Sie uns in einem kostenlosen Strategiegespräch besprechen, was für Ihr Unternehmen sinnvoll ist.",
     "ctaBtn": "Kostenloses Strategiegespräch",
-    "faqTitle": "Häufige Fragen"
+    "faqTitle": "Häufige Fragen",
+    "metaTitle": "Blog: Tipps zu Website, SEO & KI-Automatisierung",
+    "metaDesc": "Praxiswissen für kleine Unternehmen: Website-Kosten, SEO vs. Google Ads, Local SEO und der Einstieg in KI-Automatisierung — verständlich erklärt."
   },
   "ui": {
     "more": "Mehr anzeigen"

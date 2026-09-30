@@ -616,3 +616,6 @@
     .modal--check .modal__box{border-radius:22px 22px 0 0;padding:30px 22px calc(24px + env(safe-area-inset-bottom));transform:translateY(100%)}
     .modal--check.open .modal__box{transform:none}
   }
+
+  /* Floating widgets would cover the phone/email links in the open mobile menu */
+  body.menu-open .vw{display:none}

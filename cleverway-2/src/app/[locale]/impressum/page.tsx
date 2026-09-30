@@ -7,7 +7,7 @@ import LegalPage from '@/components/LegalPage';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'legal.impressum' });
-  return pageMetadata(params.locale, '/impressum', seoTitle(t('title')), t('intro'));
+  return pageMetadata(params.locale, '/impressum', seoTitle(t('title')), t('intro').split(/(?<=\.) /)[0]);
 }
 
 export default async function ImpressumPage({ params }: { params: { locale: Locale } }) {

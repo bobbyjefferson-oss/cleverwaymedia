@@ -4,7 +4,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, getTranslations, setRequestLocale } from 'next-intl/server';
 import { Fraunces, Inter, Cormorant_Garamond } from 'next/font/google';
 import { routing, locales, type Locale } from '@/i18n/routing';
-import { SITE_URL, SITE_NAME } from '@/lib/site';
+import { SITE_URL, SITE_NAME, OG_LOCALE } from '@/lib/site';
 import { organizationSchema, faqSchema } from '@/lib/schema';
 import SmoothScroll from '@/components/SmoothScroll';
 import VoiceWidget from '@/components/VoiceWidget';
@@ -45,7 +45,8 @@ export async function generateMetadata({
     },
     openGraph: {
       type: 'website',
-      locale,
+      locale: OG_LOCALE[locale],
+      alternateLocale: locales.filter((l) => l !== locale).map((l) => OG_LOCALE[l]),
       url: `${SITE_URL}/${locale}`,
       siteName: SITE_NAME,
       title: t('title'),
@@ -78,7 +79,7 @@ export default async function LocaleLayout({
   const faq = await getTranslations({ locale, namespace: 'faq' });
 
   const faqItems = (faq.raw('items') as { q: string; a: string }[]) ?? [];
-  const jsonLd = [organizationSchema(t('description')), faqSchema(faqItems)];
+  const jsonLd = [organizationSchema(t('description'), locale), faqSchema(faqItems)];
 
   return (
     <html lang={locale} className={`${fraunces.variable} ${inter.variable} ${cormorant.variable}`}>

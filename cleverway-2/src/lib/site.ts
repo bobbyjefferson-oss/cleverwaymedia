@@ -3,6 +3,8 @@ import { locales } from '@/i18n/routing';
 export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.cleverwaymedia.de';
 export const SITE_NAME = 'Clever Way Media';
 export const CONTACT_EMAIL = 'info@cleverwaymedia.de';
+export const CONTACT_PHONE = '+49 177 5401500';
+export const CONTACT_PHONE_HREF = 'tel:+491775401500';
 
 // Central place to swap in your real booking + form endpoints later.
 export const BOOKING_URL = process.env.NEXT_PUBLIC_BOOKING_URL ?? 'https://cal.eu/cleverwaymedia/1-hour-meeting';
@@ -31,6 +33,8 @@ export function buildMailto(subject: string, fields: Record<string, string | und
 
 
 // Google shows ~60 title chars and ~155 description chars; keep snippets untruncated.
+export const OG_LOCALE: Record<string, string> = { de: 'de_DE', hu: 'hu_HU', ro: 'ro_RO', en: 'en_US' };
+
 export function seoTitle(base: string, suffix = ' — Clever Way Media') {
   return (base + suffix).length <= 60 ? base + suffix : base;
 }
@@ -60,7 +64,8 @@ export function pageMetadata(locale: string, path: string, title: string, descri
       siteName: 'Clever Way Media',
       title,
       description,
-      locale,
+      locale: OG_LOCALE[locale] ?? locale,
+      alternateLocale: locales.filter((l) => l !== locale).map((l) => OG_LOCALE[l]),
       images: [{ url: `${SITE_URL}/og-image.png`, width: 1200, height: 630, alt: 'Clever Way Media' }],
     },
     twitter: {

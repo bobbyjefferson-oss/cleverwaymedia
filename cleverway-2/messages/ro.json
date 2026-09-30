@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Clever Way Media – Marketing și automatizare AI",
-    "description": "Site-uri web, vizibilitate Google, asistent telefonic AI și automatizări pentru firme din Germania, Ungaria și România – în limba dvs."
+    "title": "Creare site-uri, SEO și automatizare AI | Clever Way Media",
+    "description": "Site-uri care aduc clienți, vizibilitate locală în Google și un asistent telefonic AI care nu pierde niciun apel. Programați o discuție strategică gratuită."
   },
   "nav": {
     "links": {
@@ -419,7 +419,8 @@
         "code": "RO",
         "name": "România"
       }
-    ]
+    ],
+    "phoneLabel": "Telefon"
   },
   "footer": {
     "tagline": "Marketing întâlnește automatizarea. Site-uri profesionale și atragere de clienți bazată pe AI pentru companii din Germania, Ungaria și România.",
@@ -441,7 +442,7 @@
     ],
     "legalTitle": "Legal",
     "legal": [
-      "Impressum",
+      "Informații legale",
       "Confidențialitate",
       "Termeni"
     ],
@@ -450,7 +451,7 @@
   },
   "legal": {
     "impressum": {
-      "title": "Impressum",
+      "title": "Informații legale",
       "intro": "Informații conform § 5 DDG (Germania).",
       "sections": [
         {
@@ -507,7 +508,7 @@
     },
     "agb": {
       "title": "Termeni și condiții",
-      "intro": "Acești termeni reglementează relația de afaceri dintre Clever Way Media și clienții săi. Vă rugăm să solicitați verificarea juridică a acestui proiect înainte de publicare.",
+      "intro": "Acești termeni reglementează relația de afaceri dintre Clever Way Media și clienții săi. Traducerea are caracter informativ; versiunea în limba germană este cea obligatorie din punct de vedere juridic.",
       "sections": [
         {
           "h": "Domeniu de aplicare",
@@ -911,7 +912,10 @@
     "faqTitle": "Întrebări frecvente",
     "processTitle": "Așa decurge colaborarea",
     "allServices": "Toate serviciile",
-    "backToOverview": "Înapoi la prezentare generală"
+    "backToOverview": "Înapoi la prezentare generală",
+    "metaTitle": "Servicii: site-uri, SEO, reclame și automatizare AI",
+    "metaDesc": "Creare site-uri, SEO, reclame Google și Meta, social media și automatizare AI dintr-o singură sursă — pentru firme mici și mijlocii.",
+    "serviceMetaTitle": "{service} pentru firme"
   },
   "pricingDetail": {
     "start": {
@@ -1156,7 +1160,9 @@
     "customEyebrow": "Personalizat",
     "customTitle": "Niciun pachet nu se potrivește exact?",
     "customText": "Nicio problemă — vă alcătuim un pachet personalizat exact după nevoile dvs. Plătiți doar pentru ceea ce aveți cu adevărat nevoie.",
-    "customBtn": "Solicită pachet personalizat"
+    "customBtn": "Solicită pachet personalizat",
+    "metaTitle": "Prețuri: site web, SEO și pachete de marketing",
+    "metaDesc": "Prețuri transparente: site web de la 799 € o singură dată, pachete de marketing de la 530 € pe lună. Fără costuri ascunse — toate pachetele în detaliu."
   },
   "casesDetail": {
     "ki-telefonassistent": {
@@ -1226,7 +1232,9 @@
     "detailCtaBtn": "Consultație gratuită",
     "backToOverview": "Înapoi la toate exemplele",
     "otherCasesTitle": "Alte exemple",
-    "resultsIntro": "Ce face pentru dvs. un astfel de sistem — descris ca funcție, nu ca cifră promisă:"
+    "resultsIntro": "Ce face pentru dvs. un astfel de sistem — descris ca funcție, nu ca cifră promisă:",
+    "metaTitle": "Exemple: asistent telefonic AI și SEO local",
+    "metaDesc": "Cum funcționează asistentul telefonic AI, site-ul și SEO local în activitatea zilnică a unei firme — exemple oneste, fără cifre înfrumusețate."
   },
   "about": {
     "eyebrow": "Despre noi",
@@ -1265,7 +1273,9 @@
     ],
     "ctaTitle": "Cunoașteți-ne.",
     "ctaText": "Cea mai bună impresie despre noi o obțineți dintr-o discuție scurtă, fără obligații — nu dintr-o pagină Despre noi.",
-    "ctaBtn": "Discuție strategică gratuită"
+    "ctaBtn": "Discuție strategică gratuită",
+    "metaTitle": "Despre noi: agenție de marketing și AI",
+    "metaDesc": "Clever Way Media îmbină marketingul cu automatizarea AI. Persoana dvs. de contact: Marwan Bouabid — onest, direct, fără call center."
   },
   "blogDetail": {
     "website-kosten-2026": {
@@ -1302,7 +1312,7 @@
         },
         {
           "type": "p",
-          "text": "La Clever Way Media, proiectele de site pornesc de la 799 € o singură dată pentru Pachetul Start, defalcat transparent, fără costuri ascunse."
+          "text": "La Clever Way Media, proiectele de site pornesc de la 799 € o singură dată pentru Pachetul Start, defalcat transparent, fără costuri ascunse. Pentru marketing și automatizare continuă există pachete lunare de la 530 €."
         }
       ],
       "faq": [
@@ -1347,7 +1357,7 @@
         },
         {
           "type": "p",
-          "text": "Aceste cinci elemente formează împreună Pachetul pentru firme de contabilitate al Clever Way Media — implementabil ca sistem complet sau individual."
+          "text": "Împreună, aceste cinci elemente formează la Clever Way Media un sistem complet de atragere a clienților — implementabil ca sistem complet sau individual."
         }
       ],
       "faq": [
@@ -1546,7 +1556,9 @@
     "ctaTitle": "Aveți întrebări despre situația dumneavoastră?",
     "ctaText": "Să discutăm într-o discuție strategică gratuită ce are sens pentru compania dumneavoastră.",
     "ctaBtn": "Discuție strategică gratuită",
-    "faqTitle": "Întrebări frecvente"
+    "faqTitle": "Întrebări frecvente",
+    "metaTitle": "Blog: site-uri web, SEO și automatizare AI",
+    "metaDesc": "Cunoștințe practice pentru firme mici: costuri site, SEO sau Google Ads, SEO local și primii pași în automatizarea AI — explicate clar."
   },
   "ui": {
     "more": "Vezi mai mult"
@@ -1594,13 +1606,13 @@
     "error": "Conectare imposibilă. Permiteți microfonul sau încercați din nou mai târziu.",
     "startBtn": "Testează asistentul AI",
     "endBtn": "Încheie apelul",
-    "privacyNote": "Rulează direct în browser, prin microfonul dvs. Max este un AI — acest lucru este anunțat la începutul apelului. Max. 2 minute per test."
+    "privacyNote": "Din păcate, demo-ul este disponibil momentan doar în limba germană. Rulează direct în browser, prin microfonul dvs. Max este un AI — acest lucru este anunțat la începutul apelului. Max. 2 minute per test."
   },
   "voiceWidget": {
     "label": "Testează asistentul AI",
     "eyebrow": "Demo live",
     "title": "Vorbiți cu Max",
-    "text": "Descoperiți cum preia apelurile asistentul nostru telefonic AI — direct în browser, fără număr de telefon.",
+    "text": "Descoperiți cum preia apelurile asistentul nostru telefonic AI — direct în browser, fără număr de telefon. Din păcate, demo-ul este disponibil momentan doar în limba germană.",
     "close": "Închide",
     "tileBtn": "Testează acum live"
   },

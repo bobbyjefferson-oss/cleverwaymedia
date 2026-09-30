@@ -23,12 +23,13 @@ export async function generateMetadata({
 }) {
   if (!isValidSlug(params.slug)) return {};
   const td = await getTranslations({ locale: params.locale, namespace: 'servicesDetail' });
+  const th = await getTranslations({ locale: params.locale, namespace: 'servicesHub' });
   const title = td(`${params.slug}.title`);
   const subtitle = td(`${params.slug}.subtitle`);
   const url = `${SITE_URL}/${params.locale}/leistungen/${params.slug}`;
 
   return {
-    title: seoTitle(title),
+    title: seoTitle(th('serviceMetaTitle', { service: title })),
     description: seoDescription(subtitle),
     alternates: {
       canonical: url,

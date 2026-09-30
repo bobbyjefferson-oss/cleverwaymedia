@@ -12,7 +12,7 @@ import Reveal from '@/components/Reveal';
 
 export async function generateMetadata({ params }: { params: { locale: Locale } }) {
   const t = await getTranslations({ locale: params.locale, namespace: 'blogHub' });
-  return pageMetadata(params.locale, '/blog', seoTitle(t('h1'), ' — Clever Way Media Blog'), t('lead'));
+  return pageMetadata(params.locale, '/blog', seoTitle(t('metaTitle')), t('metaDesc'));
 }
 
 export default async function BlogHubPage({ params }: { params: { locale: Locale } }) {

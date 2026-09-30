@@ -1,22 +1,44 @@
-import { SITE_NAME, SITE_URL, CONTACT_EMAIL } from './site';
+import { SITE_NAME, SITE_URL, CONTACT_EMAIL, CONTACT_PHONE, SOCIAL } from './site';
 
 type FaqItem = { q: string; a: string };
 
-export function organizationSchema(description: string) {
+const SLOGAN: Record<string, string> = {
+  de: 'Marketing trifft Automation',
+  hu: 'A marketing találkozik az automatizációval',
+  ro: 'Marketingul întâlnește automatizarea',
+  en: 'Marketing meets Automation',
+};
+
+export function organizationSchema(description: string, locale = 'de') {
   return {
     '@context': 'https://schema.org',
     '@type': 'ProfessionalService',
+    '@id': `${SITE_URL}/#organization`,
     name: SITE_NAME,
     description,
-    url: SITE_URL,
-    slogan: 'Marketing trifft Automation',
-    areaServed: [
-      { '@type': 'Country', name: 'Deutschland' },
-      { '@type': 'Country', name: 'Ungarn' },
-      { '@type': 'Country', name: 'Rumänien' },
-    ],
-    knowsLanguage: ['de', 'hu', 'ro', 'en'],
+    url: `${SITE_URL}/${locale}`,
+    logo: `${SITE_URL}/icon.png`,
+    image: `${SITE_URL}/og-image.png`,
+    slogan: SLOGAN[locale] ?? SLOGAN.de,
     email: CONTACT_EMAIL,
+    telephone: CONTACT_PHONE,
+    priceRange: '€€',
+    foundingDate: '2022',
+    founder: { '@type': 'Person', name: 'Marwan Bouabid' },
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: 'Brucknerstraße 13',
+      postalCode: '38226',
+      addressLocality: 'Salzgitter',
+      addressRegion: 'Niedersachsen',
+      addressCountry: 'DE',
+    },
+    areaServed: [
+      { '@type': 'Country', name: 'Germany' },
+      { '@type': 'Country', name: 'Hungary' },
+      { '@type': 'Country', name: 'Romania' },
+    ],
+    sameAs: [SOCIAL.facebook, SOCIAL.instagram, SOCIAL.linkedin].filter(Boolean),
     makesOffer: [
       { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Website-Erstellung' } },
       { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Suchmaschinenoptimierung (SEO)' } },
