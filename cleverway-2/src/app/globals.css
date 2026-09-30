@@ -383,8 +383,8 @@
   .coverage__head h3{font-family:var(--serif);font-size:1.3rem}
   .coverage__remote{display:inline-flex;align-items:center;gap:7px;font-size:12.5px;color:var(--gold-1);border:1px solid rgba(201,159,96,.35);border-radius:100px;padding:6px 13px}
   .coverage__text{color:var(--muted);max-width:640px;line-height:1.6;margin-bottom:24px}
-  .coverage__markets{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
-  @media(max-width:560px){.coverage__markets{grid-template-columns:1fr}}
+  .coverage__markets{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+  @media(max-width:900px){.coverage__markets{grid-template-columns:repeat(2,1fr)}}
   .coverage__market{display:flex;align-items:center;gap:14px;padding:18px 20px;border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.02);transition:border-color .3s,transform .4s var(--ease)}
   .coverage__market:hover{border-color:rgba(201,159,96,.5);transform:translateY(-3px)}
   .coverage__code{font-family:var(--serif);font-size:1.15rem;font-weight:600;color:var(--gold-2);border:1px solid rgba(201,159,96,.3);border-radius:9px;width:46px;height:38px;display:grid;place-items:center;letter-spacing:.05em}
@@ -415,6 +415,8 @@
 
   /* ============================ FOOTER ============================ */
   footer{background:var(--ink);border-top:1px solid var(--line);padding:64px 0 34px}
+  /* leave room so the floating AI-assistant button never covers the last footer links */
+  footer{padding-bottom:110px}
   .foot-grid{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr;gap:36px}
   @media(max-width:760px){.foot-grid{grid-template-columns:1fr 1fr}}
   @media(max-width:480px){.foot-grid{grid-template-columns:1fr}}

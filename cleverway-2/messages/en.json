@@ -413,21 +413,25 @@
       ]
     },
     "soon": "Coming soon",
-    "coverageTitle": "Where we work",
-    "coverageText": "Your personal contact: Marwan Bouabid from Salzgitter. I meet businesses in Lower Saxony in person — and work with clients across Germany, Hungary and Romania via video call, always in your language.",
+    "coverageTitle": "Who we work with",
+    "coverageText": "We work with businesses of every industry and size — wherever you're based. Your personal contact is Marwan Bouabid from Salzgitter: in person in the region, otherwise via video call — in four languages.",
     "remote": "Marwan Bouabid · Salzgitter",
     "marketsList": [
       {
         "code": "DE",
-        "name": "Germany"
+        "name": "German"
       },
       {
         "code": "HU",
-        "name": "Hungary"
+        "name": "Hungarian"
       },
       {
         "code": "RO",
-        "name": "Romania"
+        "name": "Romanian"
+      },
+      {
+        "code": "EN",
+        "name": "English"
       }
     ],
     "phoneLabel": "Phone"

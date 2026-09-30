@@ -413,21 +413,25 @@
       ]
     },
     "soon": "În curând",
-    "coverageTitle": "Unde lucrăm",
-    "coverageText": "Persoana dvs. de contact: Marwan Bouabid din Salzgitter. Deservesc firmele din Saxonia Inferioară personal — la nivel național, precum și în Ungaria și România prin video, de fiecare dată în limba dvs.",
+    "coverageTitle": "Cu cine lucrăm",
+    "coverageText": "Lucrăm cu firme din orice domeniu și de orice mărime — indiferent unde se află. Persoana dvs. de contact este Marwan Bouabid din Salzgitter: în zonă și personal, altfel prin apel video — în patru limbi.",
     "remote": "Marwan Bouabid · Salzgitter",
     "marketsList": [
       {
         "code": "DE",
-        "name": "Germania"
+        "name": "Germană"
       },
       {
         "code": "HU",
-        "name": "Ungaria"
+        "name": "Maghiară"
       },
       {
         "code": "RO",
-        "name": "România"
+        "name": "Română"
+      },
+      {
+        "code": "EN",
+        "name": "Engleză"
       }
     ],
     "phoneLabel": "Telefon"

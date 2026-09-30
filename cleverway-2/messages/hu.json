@@ -413,21 +413,25 @@
       ]
     },
     "soon": "Hamarosan",
-    "coverageTitle": "Hol dolgozunk",
-    "coverageText": "Az Ön személyes kapcsolattartója: Marwan Bouabid, Salzgitterből. A niedersachseni cégeket személyesen, országosan és Magyarországon/Romániában videón keresztül szolgálom ki — mindig az Ön nyelvén.",
+    "coverageTitle": "Kivel dolgozunk",
+    "coverageText": "Bármilyen iparágban és méretben dolgozunk cégekkel — mindegy, hol működnek. Személyes kapcsolattartója Marwan Bouabid Salzgitterből: a környéken személyesen, máshol videóhívásban — négy nyelven.",
     "remote": "Marwan Bouabid · Salzgitter",
     "marketsList": [
       {
         "code": "DE",
-        "name": "Németország"
+        "name": "Német"
       },
       {
         "code": "HU",
-        "name": "Magyarország"
+        "name": "Magyar"
       },
       {
         "code": "RO",
-        "name": "Románia"
+        "name": "Román"
+      },
+      {
+        "code": "EN",
+        "name": "Angol"
       }
     ],
     "phoneLabel": "Telefon"

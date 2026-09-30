@@ -413,21 +413,25 @@
       ]
     },
     "soon": "Bald verfügbar",
-    "coverageTitle": "Wo wir arbeiten",
-    "coverageText": "Ihr persönlicher Ansprechpartner: Marwan Bouabid aus Salzgitter. Ich betreue Betriebe in Niedersachsen persönlich — bundesweit sowie in Ungarn und Rumänien per Video, jeweils in Ihrer Sprache.",
+    "coverageTitle": "Mit wem wir arbeiten",
+    "coverageText": "Wir arbeiten mit Unternehmen jeder Branche und Größe zusammen — egal, wo Sie sitzen. Ihr persönlicher Ansprechpartner ist Marwan Bouabid aus Salzgitter: in der Region auch persönlich, sonst per Videocall — in vier Sprachen.",
     "remote": "Marwan Bouabid · Salzgitter",
     "marketsList": [
       {
         "code": "DE",
-        "name": "Deutschland"
+        "name": "Deutsch"
       },
       {
         "code": "HU",
-        "name": "Ungarn"
+        "name": "Ungarisch"
       },
       {
         "code": "RO",
-        "name": "Rumänien"
+        "name": "Rumänisch"
+      },
+      {
+        "code": "EN",
+        "name": "Englisch"
       }
     ],
     "phoneLabel": "Telefon"
