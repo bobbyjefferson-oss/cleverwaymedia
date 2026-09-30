@@ -1,4 +1,5 @@
 export type ServiceSlug =
+  | 'individuelle-software'
   | 'webdesign'
   | 'webentwicklung'
   | 'seo'
@@ -16,6 +17,7 @@ export type ServiceSlug =
   | 'conversion-optimierung';
 
 export const SERVICE_SLUGS: { slug: ServiceSlug; icon: string }[] = [
+  { slug: 'individuelle-software', icon: 'software' },
   { slug: 'webdesign', icon: 'website' },
   { slug: 'webentwicklung', icon: 'dev' },
   { slug: 'seo', icon: 'seo' },

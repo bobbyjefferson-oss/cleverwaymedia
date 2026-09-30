@@ -10,7 +10,7 @@ export default function Footer() {
   const agency = t.raw('agency') as string[];
   const legal = t.raw('legal') as string[];
 
-  const serviceHrefs = services.map(() => `/${locale}/leistungen`);
+  const serviceHrefs = services.map((_, i) => (i === 0 ? `/${locale}/leistungen/individuelle-software` : `/${locale}/leistungen`));
   const agencyHrefs = [
     `/${locale}/ueber-uns`,
     `/${locale}/blog`,

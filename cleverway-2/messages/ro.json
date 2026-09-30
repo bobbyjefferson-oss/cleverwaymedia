@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Creare site-uri, SEO și automatizare AI | Clever Way Media",
-    "description": "Site-uri care aduc clienți, vizibilitate locală în Google și un asistent telefonic AI care nu pierde niciun apel. Programați o discuție strategică gratuită."
+    "description": "Site-uri, asistent telefonic AI, automatizări și programe personalizate care fac conducerea firmei mult mai ușoară. Programați o discuție strategică gratuită."
   },
   "nav": {
     "links": {
@@ -74,6 +74,11 @@
         "text": "Preia apelurile non-stop — în limba dvs., în numele firmei dvs. Notează numele, numărul și solicitarea, programează întâlniri direct în calendarul dvs. și transmite imediat cazurile urgente. Niciun apel pierdut. Marcat transparent ca AI, conform DSGVO."
       },
       {
+        "id": "software",
+        "title": "Programe personalizate pentru firma dvs.",
+        "text": "Programe create exact pentru firma dvs.: evidența clienților și a comenzilor, programări, oferte, stocuri sau rapoarte interne — totul într-un singur loc, nu în zece fișiere Excel. Conducerea firmei devine mult mai ușoară."
+      },
+      {
         "id": "workflow",
         "title": "Automatizare de flux personalizată",
         "text": "Conectăm instrumentele dvs. — Gmail, Slack, CRM, calendar, foi de calcul — într-un sistem care rulează singur în fundal. Exact după procesul dvs., aproape orice instrument poate fi conectat."
@@ -137,7 +142,8 @@
         "label": "conform — găzduire în UE posibilă"
       }
     ],
-    "ctaBtn": "Să discutăm despre automatizare"
+    "ctaBtn": "Să discutăm despre automatizare",
+    "softwareBtn": "Mai multe despre programe"
   },
   "services": {
     "eyebrow": "Servicii",
@@ -333,6 +339,10 @@
         "a": "Combinăm marketingul clasic cu automatizarea AI. Sisteme inteligente preiau sarcinile repetitive — de la atragerea de clienți, la chatboți AI, până la procesarea documentelor — conectate cu instrumentele existente. Astfel economisiți timp și câștigați clienți noi în mod previzibil."
       },
       {
+        "q": "Dezvoltați și programe personalizate pentru firme?",
+        "a": "Da. Pe lângă site-uri și marketing, dezvoltăm programe personalizate care fac conducerea firmei mult mai ușoară — de exemplu evidența clienților și a comenzilor, planificarea programărilor, instrumente pentru oferte și facturi sau rapoarte cu cele mai importante cifre. Totul adaptat exact modului în care lucrați și conectat la instrumentele pe care le folosiți deja."
+      },
+      {
         "q": "Ce automatizări AI oferiți?",
         "a": "Printre altele: un asistent telefonic AI care preia apelurile non-stop și programează întâlniri; achiziție automatizată de clienți; chatboți AI pentru site și WhatsApp; calificarea lead-urilor cu conectare la CRM; procesarea facturilor și bonurilor (DATEV, lexoffice, sevDesk); generatoare de oferte și documente; automatizarea conținutului și a rapoartelor, precum și automatizări de flux personalizate care vă conectează instrumentele fără efort."
       },
@@ -426,6 +436,7 @@
     "tagline": "Marketing întâlnește automatizarea. Site-uri profesionale și atragere de clienți bazată pe AI pentru companii din Germania, Ungaria și România.",
     "servicesTitle": "Servicii",
     "services": [
+      "Programe personalizate",
       "Creare site",
       "SEO & reclame",
       "Automatizare AI"
@@ -538,6 +549,36 @@
     }
   },
   "servicesDetail": {
+    "individuelle-software": {
+      "title": "Programe personalizate",
+      "icon": "software",
+      "subtitle": "Programe create pe măsură, care vă simplifică procesele și fac conducerea firmei mult mai ușoară.",
+      "benefits": [
+        "Un program construit exact după modul în care lucrați — nu invers",
+        "Clienți, comenzi, programări, oferte și facturi într-un singur loc",
+        "Acces de oriunde — de pe calculator, tabletă sau telefon",
+        "Conectat la instrumentele pe care le folosiți deja (contabilitate, calendar, e-mail, WhatsApp)"
+      ],
+      "results": [
+        "Mai puține hârtii și mai puțin haos în Excel, mai multă claritate",
+        "Decizii bazate pe cifre actuale, nu pe intuiție",
+        "Mai mult timp pentru clienți și creștere, mai puțin pentru administrare"
+      ],
+      "faq": [
+        {
+          "q": "Ce fel de programe puteți dezvolta?",
+          "a": "De exemplu evidența clienților și a comenzilor, planificarea programărilor, instrumente pentru oferte și facturi, gestiunea stocurilor, portaluri pentru angajați sau rapoarte cu cele mai importante cifre — exact după nevoile dvs."
+        },
+        {
+          "q": "Nu este un program personalizat mult mai scump decât o soluție gata făcută?",
+          "a": "Nu neapărat. Începem cu funcțiile care vă economisesc cel mai mult timp și extindem pas cu pas. Cadrul îl stabilim în discuția strategică gratuită."
+        },
+        {
+          "q": "Cât durează dezvoltarea?",
+          "a": "Depinde de amploare — o primă versiune utilizabilă este adesea gata în câteva săptămâni."
+        }
+      ]
+    },
     "webdesign": {
       "title": "Design web",
       "icon": "website",

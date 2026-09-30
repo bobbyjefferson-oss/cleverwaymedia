@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Weboldalkészítés, SEO és MI-automatizálás | Clever Way Media",
-    "description": "Weboldal, ami érdeklődőket hoz, helyi Google-láthatóság és MI-telefonasszisztens, ami egy hívást sem hagy ki. Foglaljon ingyenes stratégiai beszélgetést."
+    "description": "Weboldal, MI-telefonasszisztens, automatizálás és egyedi programok, amelyek sokkal könnyebbé teszik a cégvezetést. Foglaljon ingyenes stratégiai beszélgetést."
   },
   "nav": {
     "links": {
@@ -74,6 +74,11 @@
         "text": "Éjjel-nappal fogadja a hívásokat — az Ön nyelvén, az Ön cége nevében. Felveszi a nevet, a számot és az igényt, időpontot foglal közvetlenül a naptárába, a sürgős eseteket pedig azonnal továbbítja Önnek. Nincs több nem fogadott hívás. Átláthatóan MI-ként jelölve, DSGVO-konform."
       },
       {
+        "id": "software",
+        "title": "Egyedi programok a cégére szabva",
+        "text": "Programok, amelyek pontosan az Ön cégéhez igazodnak: ügyfél- és megrendelés-nyilvántartás, időpont-kezelés, árajánlatok, raktár vagy belső kimutatások — egy helyen, tíz Excel-tábla helyett. Így sokkal könnyebb vezetni a céget."
+      },
+      {
         "id": "workflow",
         "title": "Egyedi folyamat-automatizálás",
         "text": "Összekötjük az eszközeit — Gmail, Slack, CRM, naptár, táblázatok — egy rendszerré, amely a háttérben magától fut. Pontosan az Ön folyamata szerint, szinte bármelyik eszköz csatlakoztatható."
@@ -137,7 +142,8 @@
         "label": "megfelelő — EU-tárhely lehetséges"
       }
     ],
-    "ctaBtn": "Beszéljünk az automatizációról"
+    "ctaBtn": "Beszéljünk az automatizációról",
+    "softwareBtn": "Többet az egyedi programokról"
   },
   "services": {
     "eyebrow": "Szolgáltatások",
@@ -333,6 +339,10 @@
         "a": "A klasszikus marketinget MI-automatizációval kötjük össze. Intelligens rendszerek veszik át az ismétlődő feladatokat — az ügyfélszerzéstől az MI-chatbotokon át a bizonylatfeldolgozásig — összekötve a meglévő eszközeivel. Így időt spórol és kiszámíthatóan szerez új ügyfeleket."
       },
       {
+        "q": "Készítenek egyedi programokat is cégeknek?",
+        "a": "Igen. A weboldalak és a marketing mellett személyre szabott programokat is fejlesztünk, amelyek sokkal könnyebbé teszik a cégvezetést — például ügyfél- és megrendelés-nyilvántartást, időpont-kezelőt, árajánlat- és számlázó eszközt vagy kimutatásokat a legfontosabb számaival. Mindent pontosan az Ön működéséhez igazítva, összekötve a meglévő eszközeivel."
+      },
+      {
         "q": "Milyen MI-automatizációkat kínálnak?",
         "a": "Többek között: MI-telefonasszisztens, amely éjjel-nappal fogadja a hívásokat és időpontot foglal; automatizált ügyfélszerzés; MI-chatbotok weboldalra és WhatsApphoz; lead-minősítés CRM-összekötéssel; számla- és bizonylatfeldolgozás (DATEV, lexoffice, sevDesk); ajánlat- és dokumentumgenerátorok; tartalom- és riportautomatizálás, valamint egyedi folyamat-automatizálások, amelyek zökkenőmentesen összekötik az eszközeit."
       },
@@ -426,6 +436,7 @@
     "tagline": "A marketing találkozik az automatizációval. Professzionális weboldalak és MI-alapú ügyfélszerzés vállalkozásoknak Németországban, Magyarországon és Romániában.",
     "servicesTitle": "Szolgáltatások",
     "services": [
+      "Egyedi programok",
       "Weboldalkészítés",
       "SEO & hirdetések",
       "MI-automatizáció"
@@ -538,6 +549,36 @@
     }
   },
   "servicesDetail": {
+    "individuelle-software": {
+      "title": "Egyedi programok",
+      "icon": "software",
+      "subtitle": "Személyre szabott programok, amelyek leegyszerűsítik a folyamatait, és sokkal könnyebbé teszik a cégvezetést.",
+      "benefits": [
+        "Program, ami pontosan az Ön működéséhez igazodik — nem fordítva",
+        "Ügyfelek, megrendelések, időpontok, árajánlatok és számlák egy helyen",
+        "Bárhonnan elérhető — számítógépen, tableten vagy telefonon",
+        "Összekötve a meglévő eszközeivel (könyvelés, naptár, e-mail, WhatsApp)"
+      ],
+      "results": [
+        "Kevesebb papírmunka és Excel-káosz, több átláthatóság",
+        "Döntések friss számok alapján, nem megérzésből",
+        "Több idő az ügyfelekre és a növekedésre, kevesebb adminisztráció"
+      ],
+      "faq": [
+        {
+          "q": "Milyen programokat tudnak készíteni?",
+          "a": "Például ügyfél- és megrendelés-nyilvántartást, időpont-kezelőt, árajánlat- és számlázó eszközt, raktárkezelést, munkatársi felületet vagy kimutatásokat a legfontosabb számaival — pontosan az igényei szerint."
+        },
+        {
+          "q": "Nem sokkal drágább egy egyedi program, mint egy kész megoldás?",
+          "a": "Nem feltétlenül. Azokkal a funkciókkal kezdünk, amelyek a legtöbb időt spórolják meg Önnek, és lépésről lépésre bővítünk. A keretet az ingyenes stratégiai beszélgetésen tisztázzuk."
+        },
+        {
+          "q": "Mennyi ideig tart a fejlesztés?",
+          "a": "A terjedelemtől függ — egy első, használható változat gyakran már néhány héten belül elkészül."
+        }
+      ]
+    },
     "webdesign": {
       "title": "Weboldalkészítés",
       "icon": "website",

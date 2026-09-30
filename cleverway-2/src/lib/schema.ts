@@ -40,6 +40,7 @@ export function organizationSchema(description: string, locale = 'de') {
     ],
     sameAs: [SOCIAL.facebook, SOCIAL.instagram, SOCIAL.linkedin].filter(Boolean),
     makesOffer: [
+      { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Individuelle Software & personalisierte Programme für Unternehmen', description: 'Maßgeschneiderte Programme, die die Unternehmensführung spürbar erleichtern: Kunden- und Auftragsverwaltung, Terminplanung, Angebote, Rechnungen, Dashboards.' } },
       { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Website-Erstellung' } },
       { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Suchmaschinenoptimierung (SEO)' } },
       { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'KI-Automatisierung & Workflow-Automatisierung' } },

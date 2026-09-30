@@ -1,4 +1,4 @@
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import Reveal from '@/components/Reveal';
 import VoiceOpenButton from '@/components/VoiceOpenButton';
 
@@ -6,6 +6,7 @@ type Tile = { id: string; title: string; text: string };
 
 const ICONS: Record<string, React.ReactNode> = {
   telefon: (<path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z" />),
+  software: (<><rect x="3" y="3" width="18" height="18" rx="2" /><path d="M3 9h18M9 21V9M13 13h4M13 17h3" /></>),
   workflow: (<><circle cx="5" cy="6" r="2" /><circle cx="19" cy="6" r="2" /><circle cx="12" cy="18" r="2" /><path d="M7 6h10M6 8l5 8M18 8l-5 8" /></>),
   chatbot: (<><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" /><path d="M8 10h.01M12 10h.01M16 10h.01" /></>),
   lead: (<path d="M3 4h18l-7 8v6l-4 2v-8z" />),
@@ -17,7 +18,7 @@ const ICONS: Record<string, React.ReactNode> = {
   reporting: (<><path d="M3 3v18h18" /><rect x="7" y="12" width="3" height="6" /><rect x="12" y="8" width="3" height="10" /><rect x="17" y="5" width="3" height="13" /></>),
 };
 
-const VARIANT: Record<string, string> = { telefon: 'bx bx--feat', neukunden: 'bx bx--wide' };
+const VARIANT: Record<string, string> = { telefon: 'bx bx--feat', software: 'bx bx--feat', neukunden: 'bx bx--wide' };
 
 function Ico({ id, size = 22 }: { id: string; size?: number }) {
   return (
@@ -31,6 +32,7 @@ function Ico({ id, size = 22 }: { id: string; size?: number }) {
 
 export default function Automation() {
   const t = useTranslations('automation');
+  const locale = useLocale();
   const tu = useTranslations('ui');
   const tiles = t.raw('tiles') as Tile[];
   const stats = t.raw('stats') as { value: string; label: string }[];
@@ -57,10 +59,15 @@ export default function Automation() {
               delay={(i % 3) * 0.08}
             >
               {null}
-              <Ico id={tile.id} size={tile.id === 'telefon' ? 24 : 22} />
+              <Ico id={tile.id} size={VARIANT[tile.id]?.includes('feat') ? 24 : 22} />
               <h3>{tile.title}</h3>
               <p>{tile.text}</p>
               {tile.id === 'telefon' ? <VoiceOpenButton /> : null}
+              {tile.id === 'software' ? (
+                <a href={`/${locale}/leistungen/individuelle-software`} className="btn btn--ghost vw-tile-btn">
+                  {t('softwareBtn')} <span className="btn__arrow">→</span>
+                </a>
+              ) : null}
             </Reveal>
           ))}
 

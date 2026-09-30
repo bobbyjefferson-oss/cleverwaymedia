@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Webdesign, SEO & KI-Automatisierung | Clever Way Media",
-    "description": "Websites, die Anfragen bringen, lokale Google-Sichtbarkeit und ein KI-Telefonassistent, der keinen Anruf verpasst. Kostenloses Strategiegespräch sichern."
+    "description": "Websites, KI-Telefonassistent, Automatisierung und individuelle Programme, die die Unternehmensführung spürbar erleichtern. Jetzt Strategiegespräch sichern."
   },
   "nav": {
     "links": {
@@ -74,6 +74,11 @@
         "text": "Nimmt Anrufe rund um die Uhr entgegen — auf Deutsch, im Namen Ihres Betriebs. Erfasst Name, Nummer und Anliegen, bucht Termine direkt in Ihren Kalender und leitet dringende Fälle sofort an Sie weiter. Kein verpasster Anruf mehr. Transparent als KI gekennzeichnet, DSGVO-konform."
       },
       {
+        "id": "software",
+        "title": "Individuelle Software für Ihren Betrieb",
+        "text": "Programme, die genau zu Ihrem Unternehmen passen: Kunden- und Auftragsverwaltung, Terminplanung, Angebote, Lager oder interne Dashboards — alles an einem Ort statt in zehn Excel-Listen. Das erleichtert die Unternehmensführung spürbar."
+      },
+      {
         "id": "workflow",
         "title": "Individuelle Workflow-Automatisierung",
         "text": "Wir verbinden Ihre Tools — Gmail, Slack, CRM, Kalender, Tabellen — zu einem System, das im Hintergrund von selbst läuft. Genau nach Ihrem Prozess, praktisch jedes Tool lässt sich anbinden."
@@ -137,7 +142,8 @@
         "label": "konform — EU-Hosting möglich"
       }
     ],
-    "ctaBtn": "Automatisierung besprechen"
+    "ctaBtn": "Automatisierung besprechen",
+    "softwareBtn": "Mehr zu individueller Software"
   },
   "services": {
     "eyebrow": "Leistungen",
@@ -333,6 +339,10 @@
         "a": "Wir verbinden klassisches Marketing mit KI-Automatisierung. Intelligente Systeme übernehmen wiederkehrende Aufgaben — von der Anfragen-Gewinnung über KI-Chatbots bis zur Belegverarbeitung — verbunden mit Ihren bestehenden Tools. So sparen Sie Zeit und gewinnen planbar neue Kunden."
       },
       {
+        "q": "Entwickeln Sie auch individuelle Programme für Unternehmen?",
+        "a": "Ja. Neben Websites und Marketing entwickeln wir personalisierte Programme, die die Unternehmensführung deutlich erleichtern — z. B. Kunden- und Auftragsverwaltung, Terminplanung, Angebots- und Rechnungstools oder Dashboards mit Ihren wichtigsten Zahlen. Alles genau nach Ihren Abläufen und verbunden mit Ihren bestehenden Tools."
+      },
+      {
         "q": "Welche KI-Automatisierungen bieten Sie an?",
         "a": "Unter anderem: ein KI-Telefonassistent, der Anrufe rund um die Uhr entgegennimmt und Termine bucht; automatisierte Anfragen-Gewinnung; KI-Chatbots für Website und WhatsApp; Lead-Qualifizierung mit CRM-Anbindung; Rechnungs- und Belegverarbeitung (DATEV, lexoffice, sevDesk); Angebots- und Dokumentengeneratoren; Content- und Reporting-Automatisierung sowie maßgeschneiderte Workflow-Automatisierungen, die Ihre Tools nahtlos verbinden."
       },
@@ -426,6 +436,7 @@
     "tagline": "Marketing trifft Automation. Professionelle Websites und KI-gestützte Kundengewinnung für Unternehmen in Deutschland, Ungarn und Rumänien.",
     "servicesTitle": "Leistungen",
     "services": [
+      "Individuelle Software",
       "Website-Erstellung",
       "SEO & Ads",
       "KI-Automatisierung"
@@ -538,6 +549,36 @@
     }
   },
   "servicesDetail": {
+    "individuelle-software": {
+      "title": "Individuelle Software",
+      "icon": "software",
+      "subtitle": "Maßgeschneiderte Programme, die Ihre Abläufe vereinfachen und die Unternehmensführung spürbar erleichtern.",
+      "benefits": [
+        "Ein Programm, das genau nach Ihren Abläufen gebaut wird — nicht umgekehrt",
+        "Kunden, Aufträge, Termine, Angebote und Rechnungen an einem Ort",
+        "Zugriff von überall — am PC, Tablet oder Handy",
+        "Anbindung an Ihre bestehenden Tools (Buchhaltung, Kalender, E-Mail, WhatsApp)"
+      ],
+      "results": [
+        "Weniger Zettelwirtschaft und Excel-Chaos, mehr Überblick",
+        "Entscheidungen auf Basis aktueller Zahlen statt Bauchgefühl",
+        "Mehr Zeit für Kunden und Wachstum statt für Verwaltung"
+      ],
+      "faq": [
+        {
+          "q": "Was für Programme können Sie entwickeln?",
+          "a": "Zum Beispiel Kunden- und Auftragsverwaltung, Terminplanung, Angebots- und Rechnungstools, Lagerverwaltung, Mitarbeiterportale oder Dashboards mit Ihren wichtigsten Kennzahlen — genau nach Ihrem Bedarf."
+        },
+        {
+          "q": "Ist individuelle Software nicht viel teurer als eine fertige Lösung?",
+          "a": "Nicht unbedingt. Wir starten mit den Funktionen, die Ihnen am meisten Zeit sparen, und erweitern Schritt für Schritt. Den Rahmen klären wir im kostenlosen Strategiegespräch."
+        },
+        {
+          "q": "Wie lange dauert die Entwicklung?",
+          "a": "Das hängt vom Umfang ab — eine erste nutzbare Version steht oft schon nach wenigen Wochen."
+        }
+      ]
+    },
     "webdesign": {
       "title": "Webdesign",
       "icon": "website",

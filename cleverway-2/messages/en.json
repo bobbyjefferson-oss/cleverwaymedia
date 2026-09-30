@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Web Design, SEO & AI Automation | Clever Way Media",
-    "description": "Websites that bring in inquiries, local Google visibility and an AI phone assistant that never misses a call. Book your free strategy call today."
+    "description": "Websites, an AI phone assistant, automation and custom software that make running your business much easier. Book your free strategy call today."
   },
   "nav": {
     "links": {
@@ -74,6 +74,11 @@
         "text": "Answers calls around the clock — in your language, on behalf of your business. Takes down name, number and request, books appointments straight into your calendar and forwards urgent cases to you immediately. No more missed calls. Clearly identified as AI, GDPR-compliant."
       },
       {
+        "id": "software",
+        "title": "Custom Software for Your Business",
+        "text": "Programs built around exactly how your company works: customer and order management, scheduling, quotes, inventory or internal dashboards — all in one place instead of ten spreadsheets. It makes running your business much easier."
+      },
+      {
         "id": "workflow",
         "title": "Custom Workflow Automation",
         "text": "We connect your tools — Gmail, Slack, CRM, calendar, spreadsheets — into one system that runs on its own in the background. Built around your process; practically any tool can be connected."
@@ -137,7 +142,8 @@
         "label": "compliant — EU hosting available"
       }
     ],
-    "ctaBtn": "Let's talk automation"
+    "ctaBtn": "Let's talk automation",
+    "softwareBtn": "More about custom software"
   },
   "services": {
     "eyebrow": "Services",
@@ -333,6 +339,10 @@
         "a": "We combine classic marketing with AI automation. Smart systems take over repetitive tasks — from lead generation and AI chatbots to receipt processing — connected to the tools you already use. You save time and win new customers predictably."
       },
       {
+        "q": "Do you also build custom software for businesses?",
+        "a": "Yes. Alongside websites and marketing, we build personalized programs that make running your company much easier — for example customer and order management, appointment scheduling, quote and invoicing tools, or dashboards with your key numbers. Everything tailored exactly to how you work and connected to the tools you already use."
+      },
+      {
         "q": "Which AI automations do you offer?",
         "a": "Among others: an AI phone assistant that answers calls around the clock and books appointments; automated lead generation; AI chatbots for your website and WhatsApp; lead qualification with CRM integration; invoice and receipt processing (DATEV, lexoffice, sevDesk); quote and document generators; content and reporting automation; and custom workflow automations that seamlessly connect your tools."
       },
@@ -426,6 +436,7 @@
     "tagline": "Marketing meets automation. Professional websites and AI-powered customer acquisition for businesses in Germany, Hungary and Romania.",
     "servicesTitle": "Services",
     "services": [
+      "Custom Software",
       "Website Design",
       "SEO & Ads",
       "AI Automation"
@@ -538,6 +549,36 @@
     }
   },
   "servicesDetail": {
+    "individuelle-software": {
+      "title": "Custom Software",
+      "icon": "software",
+      "subtitle": "Tailor-made programs that simplify your processes and make running your company much easier.",
+      "benefits": [
+        "A program built exactly around how you work — not the other way round",
+        "Customers, orders, appointments, quotes and invoices in one place",
+        "Access from anywhere — on your computer, tablet or phone",
+        "Connected to the tools you already use (accounting, calendar, email, WhatsApp)"
+      ],
+      "results": [
+        "Less paperwork and spreadsheet chaos, more overview",
+        "Decisions based on up-to-date numbers instead of gut feeling",
+        "More time for customers and growth, less for admin"
+      ],
+      "faq": [
+        {
+          "q": "What kind of programs can you build?",
+          "a": "For example customer and order management, appointment scheduling, quote and invoicing tools, inventory management, staff portals or dashboards with your key numbers — exactly to your needs."
+        },
+        {
+          "q": "Isn't custom software much more expensive than an off-the-shelf solution?",
+          "a": "Not necessarily. We start with the features that save you the most time and expand step by step. We'll agree on the scope in the free strategy call."
+        },
+        {
+          "q": "How long does development take?",
+          "a": "It depends on the scope — a first usable version is often ready within a few weeks."
+        }
+      ]
+    },
     "webdesign": {
       "title": "Web Design",
       "icon": "website",
